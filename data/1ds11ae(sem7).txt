@@ -1,0 +1,722 @@
+1ds11ae001
+ABHILASH TANKASALI sem: 7 Result: FCD
+(Control Engineering  - 10AE71) 65 25 90 P
+(Aircraft Structures-II  - 10AE72) 74 25 99 P
+(Aircraft Stability & Control  - 10AE73) 67 25 92 P
+(Space Mechanics & Launch Vehicles  - 10AE763) 88 25 113 P
+(Gas Turbine Technology  - 10AE74) 70 25 95 P
+(Non Destructive Testing  - 10AE756) 89 25 114 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 48 25 73 P
+(Simulation Lab.  - 10AEL78) 48 24 72 P
+total= 748
+**
+1ds11ae002
+ABHIMANYU KUMAR SINGH sem: 7 Result: FCD
+(Control Engineering  - 10AE71) 67 24 91 P
+(Aircraft Structures-II  - 10AE72) 74 18 92 P
+(Computational Fluid Dynamics  - 10AE752) 67 15 82 P
+(Aircraft Stability & Control  - 10AE73) 70 23 93 P
+(Space Mechanics & Launch Vehicles  - 10AE763) 76 21 97 P
+(Gas Turbine Technology  - 10AE74) 72 21 93 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 38 23 61 P
+(Simulation Lab.  - 10AEL78) 40 23 63 P
+total= 672
+**
+1ds11ae003
+ABHISHEK DEY sem: 7 Result: FAIL
+(Control Engineering  - 10AE71) 43 17 60 P
+(Experimental Stress Analysis  - 10AE761) 35 16 51 P
+(Aircraft Structures-II  - 10AE72) 36 15 51 P
+(Aircraft Stability & Control  - 10AE73) 64 18 82 P
+(Gas Turbine Technology  - 10AE74) 36 23 59 P
+(Non Destructive Testing  - 10AE756) 68 22 90 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 0 0 0 X
+(Simulation Lab.  - 10AEL78) 39 19 58 P
+total= 451
+**
+1ds11ae004
+ADIT.N.K sem: 7 Result: FCD
+(Control Engineering  - 10AE71) 55 23 78 P
+(Aircraft Structures-II  - 10AE72) 70 21 91 P
+(Computational Fluid Dynamics  - 10AE752) 68 22 90 P
+(Aircraft Stability & Control  - 10AE73) 64 22 86 P
+(Space Mechanics & Launch Vehicles  - 10AE763) 50 24 74 P
+(Gas Turbine Technology  - 10AE74) 60 25 85 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 49 24 73 P
+(Simulation Lab.  - 10AEL78) 48 23 71 P
+total= 648
+**
+1ds11ae005
+AKINCHAN A BUBANALE sem: 7 Result: FCD
+(Control Engineering  - 10AE71) 62 25 87 P
+(Experimental Stress Analysis  - 10AE761) 68 25 93 P
+(Aircraft Structures-II  - 10AE72) 51 19 70 P
+(Computational Fluid Dynamics  - 10AE752) 73 22 95 P
+(Aircraft Stability & Control  - 10AE73) 56 25 81 P
+(Gas Turbine Technology  - 10AE74) 75 22 97 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 42 22 64 P
+(Simulation Lab.  - 10AEL78) 46 23 69 P
+total= 656
+**
+1ds11ae008
+B.N.KIRAN sem: 7 Result: FCD
+(Control Engineering  - 10AE71) 63 25 88 P
+(Aircraft Structures-II  - 10AE72) 54 18 72 P
+(Computational Fluid Dynamics  - 10AE752) 69 18 87 P
+(Aircraft Stability & Control  - 10AE73) 60 22 82 P
+(Space Mechanics & Launch Vehicles  - 10AE763) 80 24 104 P
+(Gas Turbine Technology  - 10AE74) 62 24 86 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 47 23 70 P
+(Simulation Lab.  - 10AEL78) 47 25 72 P
+total= 661
+**
+1ds11ae009
+CHANDRASHEKAR.R sem: 7 Result: FCD
+(Control Engineering  - 10AE71) 61 25 86 P
+(Aircraft Structures-II  - 10AE72) 89 24 113 P
+(Computational Fluid Dynamics  - 10AE752) 73 24 97 P
+(Aircraft Stability & Control  - 10AE73) 67 25 92 P
+(Space Mechanics & Launch Vehicles  - 10AE763) 72 21 93 P
+(Gas Turbine Technology  - 10AE74) 64 25 89 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 49 24 73 P
+(Simulation Lab.  - 10AEL78) 49 25 74 P
+total= 717
+**
+1ds11ae010
+CHANVEER SINGH sem: 7 Result: FAIL
+(Control Engineering  - 10AE71) 48 14 62 P
+(Experimental Stress Analysis  - 10AE761) 0 15 15 A
+(Aircraft Structures-II  - 10AE72) 0 11 11 A
+(Aircraft Stability & Control  - 10AE73) 0 13 13 A
+(Gas Turbine Technology  - 10AE74) 62 9 71 P
+(Non Destructive Testing  - 10AE756) 63 19 82 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 39 12 51 P
+(Simulation Lab.  - 10AEL78) 20 13 33 P
+total= 338
+**
+1ds11ae011
+DARSHAN N sem: 7 Result: FCD
+(Control Engineering  - 10AE71) 62 25 87 P
+(Experimental Stress Analysis  - 10AE761) 74 24 98 P
+(Aircraft Structures-II  - 10AE72) 57 20 77 P
+(Aircraft Stability & Control  - 10AE73) 72 25 97 P
+(Gas Turbine Technology  - 10AE74) 79 25 104 P
+(Non Destructive Testing  - 10AE756) 85 25 110 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 47 23 70 P
+(Simulation Lab.  - 10AEL78) 45 23 68 P
+total= 711
+**
+1ds11ae012
+DEEPESH CHHETRI sem: 7 Result: FAIL
+(Control Engineering  - 10AE71) 49 15 64 P
+(Experimental Stress Analysis  - 10AE761) 45 20 65 P
+(Aircraft Structures-II  - 10AE72) 53 12 65 P
+(Aircraft Stability & Control  - 10AE73) 0 21 21 A
+(Gas Turbine Technology  - 10AE74) 58 9 67 P
+(Non Destructive Testing  - 10AE756) 76 18 94 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 47 19 66 P
+(Simulation Lab.  - 10AEL78) 38 14 52 P
+total= 494
+**
+1ds11ae013
+DIGVIJAY SINGH sem: 7 Result: FC
+(Control Engineering  - 10AE71) 61 15 76 P
+(Aircraft Structures-II  - 10AE72) 57 5 62 P
+(Aircraft Stability & Control  - 10AE73) 61 17 78 P
+(Space Mechanics & Launch Vehicles  - 10AE763) 62 15 77 P
+(Gas Turbine Technology  - 10AE74) 60 21 81 P
+(Non Destructive Testing  - 10AE756) 79 23 102 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 45 21 66 P
+(Simulation Lab.  - 10AEL78) 40 17 57 P
+total= 599
+**
+1ds11ae014
+DIRSHA BOHRA sem: 7 Result: FC
+(Control Engineering  - 10AE71) 51 18 69 P
+(Aircraft Structures-II  - 10AE72) 50 17 67 P
+(Computational Fluid Dynamics  - 10AE752) 51 10 61 P
+(Aircraft Stability & Control  - 10AE73) 69 22 91 P
+(Space Mechanics & Launch Vehicles  - 10AE763) 65 17 82 P
+(Gas Turbine Technology  - 10AE74) 70 23 93 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 43 21 64 P
+(Simulation Lab.  - 10AEL78) 41 22 63 P
+total= 590
+**
+1ds11ae015
+GEETHA RANI A V sem: 7 Result: FC
+(Control Engineering  - 10AE71) 49 24 73 P
+(Aircraft Structures-II  - 10AE72) 44 20 64 P
+(Computational Fluid Dynamics  - 10AE752) 53 17 70 P
+(Aircraft Stability & Control  - 10AE73) 55 20 75 P
+(Space Mechanics & Launch Vehicles  - 10AE763) 47 20 67 P
+(Gas Turbine Technology  - 10AE74) 62 25 87 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 44 24 68 P
+(Simulation Lab.  - 10AEL78) 45 22 67 P
+total= 571
+**
+1ds11ae016
+GREESHMA.B.S sem: 7 Result: FCD
+(Control Engineering  - 10AE71) 71 25 96 P
+(Aircraft Structures-II  - 10AE72) 56 24 80 P
+(Computational Fluid Dynamics  - 10AE752) 78 24 102 P
+(Aircraft Stability & Control  - 10AE73) 67 25 92 P
+(Space Mechanics & Launch Vehicles  - 10AE763) 85 23 108 P
+(Gas Turbine Technology  - 10AE74) 68 25 93 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 46 23 69 P
+(Simulation Lab.  - 10AEL78) 47 24 71 P
+total= 711
+**
+1ds11ae017
+INTI PRABHU TEJA sem: 7 Result: FAIL
+(Control Engineering  - 10AE71) 38 13 51 P
+(Experimental Stress Analysis  - 10AE761) 17 15 32 F
+(Aircraft Structures-II  - 10AE72) 35 15 50 P
+(Computational Fluid Dynamics  - 10AE752) 17 10 27 F
+(Aircraft Stability & Control  - 10AE73) 27 15 42 F
+(Gas Turbine Technology  - 10AE74) 50 15 65 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 35 22 57 P
+(Simulation Lab.  - 10AEL78) 32 18 50 P
+total= 374
+**
+1ds11ae018
+JATIN KUMAR SAHU sem: 7 Result: FCD
+(Control Engineering  - 10AE71) 65 23 88 P
+(Experimental Stress Analysis  - 10AE761) 61 23 84 P
+(Aircraft Structures-II  - 10AE72) 53 20 73 P
+(Aircraft Stability & Control  - 10AE73) 50 23 73 P
+(Gas Turbine Technology  - 10AE74) 80 24 104 P
+(Non Destructive Testing  - 10AE756) 89 24 113 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 43 22 65 P
+(Simulation Lab.  - 10AEL78) 39 21 60 P
+total= 660
+**
+1ds11ae019
+JAWAZ PASHA RASOOL sem: 7 Result: FCD
+(Control Engineering  - 10AE71) 51 15 66 P
+(Aircraft Structures-II  - 10AE72) 59 17 76 P
+(Aircraft Stability & Control  - 10AE73) 37 23 60 P
+(Space Mechanics & Launch Vehicles  - 10AE763) 81 20 101 P
+(Gas Turbine Technology  - 10AE74) 67 25 92 P
+(Non Destructive Testing  - 10AE756) 81 23 104 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 44 24 68 P
+(Simulation Lab.  - 10AEL78) 43 22 65 P
+total= 632
+**
+1ds11ae021
+KALLESH J sem: 7 Result: FCD
+(Control Engineering  - 10AE71) 77 22 99 P
+(Experimental Stress Analysis  - 10AE761) 80 23 103 P
+(Aircraft Structures-II  - 10AE72) 55 22 77 P
+(Aircraft Stability & Control  - 10AE73) 72 21 93 P
+(Gas Turbine Technology  - 10AE74) 85 24 109 P
+(Non Destructive Testing  - 10AE756) 84 24 108 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 46 23 69 P
+(Simulation Lab.  - 10AEL78) 46 24 70 P
+total= 728
+**
+1ds11ae022
+KARAN KUMAR KIMTANI sem: 7 Result: FCD
+(Control Engineering  - 10AE71) 62 24 86 P
+(Experimental Stress Analysis  - 10AE761) 58 23 81 P
+(Aircraft Structures-II  - 10AE72) 70 23 93 P
+(Computational Fluid Dynamics  - 10AE752) 74 20 94 P
+(Aircraft Stability & Control  - 10AE73) 53 25 78 P
+(Gas Turbine Technology  - 10AE74) 67 21 88 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 46 22 68 P
+(Simulation Lab.  - 10AEL78) 47 23 70 P
+total= 658
+**
+1ds11ae023
+KARAN S BHUTADA sem: 7 Result: FCD
+(Control Engineering  - 10AE71) 64 25 89 P
+(Aircraft Structures-II  - 10AE72) 71 21 92 P
+(Computational Fluid Dynamics  - 10AE752) 77 25 102 P
+(Aircraft Stability & Control  - 10AE73) 49 25 74 P
+(Space Mechanics & Launch Vehicles  - 10AE763) 80 25 105 P
+(Gas Turbine Technology  - 10AE74) 73 23 96 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 47 23 70 P
+(Simulation Lab.  - 10AEL78) 47 24 71 P
+total= 699
+**
+1ds11ae024
+KAVYA KRISHNA NAIK sem: 7 Result: FCD
+(Control Engineering  - 10AE71) 77 23 100 P
+(Experimental Stress Analysis  - 10AE761) 71 25 96 P
+(Aircraft Structures-II  - 10AE72) 62 22 84 P
+(Aircraft Stability & Control  - 10AE73) 78 25 103 P
+(Gas Turbine Technology  - 10AE74) 70 25 95 P
+(Non Destructive Testing  - 10AE756) 72 25 97 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 45 22 67 P
+(Simulation Lab.  - 10AEL78) 43 24 67 P
+total= 709
+**
+1ds11ae026
+KIRAN.N sem: 7 Result: FCD
+(Control Engineering  - 10AE71) 76 25 101 P
+(Aircraft Structures-II  - 10AE72) 74 25 99 P
+(Computational Fluid Dynamics  - 10AE752) 81 25 106 P
+(Aircraft Stability & Control  - 10AE73) 86 25 111 P
+(Space Mechanics & Launch Vehicles  - 10AE763) 94 25 119 P
+(Gas Turbine Technology  - 10AE74) 80 25 105 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 48 24 72 P
+(Simulation Lab.  - 10AEL78) 50 25 75 P
+total= 788
+**
+1ds11ae027
+LASHYA.K sem: 7 Result: FCD
+(Control Engineering  - 10AE71) 55 24 79 P
+(Aircraft Structures-II  - 10AE72) 60 22 82 P
+(Aircraft Stability & Control  - 10AE73) 89 25 114 P
+(Space Mechanics & Launch Vehicles  - 10AE763) 72 24 96 P
+(Gas Turbine Technology  - 10AE74) 81 22 103 P
+(Non Destructive Testing  - 10AE756) 89 25 114 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 47 21 68 P
+(Simulation Lab.  - 10AEL78) 44 22 66 P
+total= 722
+**
+1ds11ae028
+M SUGUMARAN sem: 7 Result: FC
+(Control Engineering  - 10AE71) 59 18 77 P
+(Experimental Stress Analysis  - 10AE761) 44 20 64 P
+(Aircraft Structures-II  - 10AE72) 54 18 72 P
+(Aircraft Stability & Control  - 10AE73) 41 18 59 P
+(Gas Turbine Technology  - 10AE74) 52 23 75 P
+(Non Destructive Testing  - 10AE756) 73 19 92 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 48 22 70 P
+(Simulation Lab.  - 10AEL78) 40 21 61 P
+total= 570
+**
+1ds11ae029
+MANJUNATHA.M sem: 7 Result: FC
+(Control Engineering  - 10AE71) 59 21 80 P
+(Aircraft Structures-II  - 10AE72) 54 17 71 P
+(Computational Fluid Dynamics  - 10AE752) 76 15 91 P
+(Aircraft Stability & Control  - 10AE73) 48 22 70 P
+(Space Mechanics & Launch Vehicles  - 10AE763) 60 19 79 P
+(Gas Turbine Technology  - 10AE74) 40 24 64 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 48 22 70 P
+(Simulation Lab.  - 10AEL78) 44 22 66 P
+total= 591
+**
+1ds11ae030
+MANJUNATHA.T.N sem: 7 Result: FCD
+(Control Engineering  - 10AE71) 59 23 82 P
+(Aircraft Structures-II  - 10AE72) 55 23 78 P
+(Aircraft Stability & Control  - 10AE73) 64 21 85 P
+(Space Mechanics & Launch Vehicles  - 10AE763) 89 21 110 P
+(Gas Turbine Technology  - 10AE74) 65 24 89 P
+(Non Destructive Testing  - 10AE756) 86 25 111 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 47 24 71 P
+(Simulation Lab.  - 10AEL78) 47 23 70 P
+total= 696
+**
+1ds11ae031
+MD DANISH ANSARI sem: 7 Result: FCD
+(Control Engineering  - 10AE71) 62 25 87 P
+(Aircraft Structures-II  - 10AE72) 75 25 100 P
+(Computational Fluid Dynamics  - 10AE752) 70 23 93 P
+(Aircraft Stability & Control  - 10AE73) 76 25 101 P
+(Space Mechanics & Launch Vehicles  - 10AE763) 89 22 111 P
+(Gas Turbine Technology  - 10AE74) 70 24 94 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 47 22 69 P
+(Simulation Lab.  - 10AEL78) 45 23 68 P
+total= 723
+**
+1ds11ae032
+MD FARHAN sem: 7 Result: FCD
+(Control Engineering  - 10AE71) 57 24 81 P
+(Aircraft Structures-II  - 10AE72) 52 17 69 P
+(Computational Fluid Dynamics  - 10AE752) 66 18 84 P
+(Aircraft Stability & Control  - 10AE73) 63 24 87 P
+(Space Mechanics & Launch Vehicles  - 10AE763) 98 22 120 P
+(Gas Turbine Technology  - 10AE74) 76 25 101 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 48 23 71 P
+(Simulation Lab.  - 10AEL78) 45 24 69 P
+total= 682
+**
+1ds11ae033
+MOHAMMAD ASJAD sem: 7 Result: SC
+(Control Engineering  - 10AE71) 56 11 67 P
+(Experimental Stress Analysis  - 10AE761) 40 13 53 P
+(Aircraft Structures-II  - 10AE72) 42 8 50 P
+(Computational Fluid Dynamics  - 10AE752) 45 6 51 P
+(Aircraft Stability & Control  - 10AE73) 50 15 65 P
+(Gas Turbine Technology  - 10AE74) 59 13 72 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 45 22 67 P
+(Simulation Lab.  - 10AEL78) 45 20 65 P
+total= 490
+**
+1ds11ae034
+MONISH HUSAIN PATEL sem: 7 Result: FC
+(Control Engineering  - 10AE71) 67 25 92 P
+(Aircraft Structures-II  - 10AE72) 49 22 71 P
+(Computational Fluid Dynamics  - 10AE752) 60 15 75 P
+(Aircraft Stability & Control  - 10AE73) 44 20 64 P
+(Space Mechanics & Launch Vehicles  - 10AE763) 74 22 96 P
+(Gas Turbine Technology  - 10AE74) 47 18 65 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 46 21 67 P
+(Simulation Lab.  - 10AEL78) 43 22 65 P
+total= 595
+**
+1ds11ae036
+PALLAVI GOGOI sem: 7 Result: FCD
+(Control Engineering  - 10AE71) 71 24 95 P
+(Aircraft Structures-II  - 10AE72) 55 24 79 P
+(Computational Fluid Dynamics  - 10AE752) 82 25 107 P
+(Aircraft Stability & Control  - 10AE73) 75 25 100 P
+(Space Mechanics & Launch Vehicles  - 10AE763) 82 23 105 P
+(Gas Turbine Technology  - 10AE74) 78 25 103 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 49 24 73 P
+(Simulation Lab.  - 10AEL78) 44 23 67 P
+total= 729
+**
+1ds11ae037
+PATNIKOTA BINDU sem: 7 Result: FCD
+(Control Engineering  - 10AE71) 63 25 88 P
+(Experimental Stress Analysis  - 10AE761) 73 25 98 P
+(Aircraft Structures-II  - 10AE72) 69 24 93 P
+(Aircraft Stability & Control  - 10AE73) 57 25 82 P
+(Gas Turbine Technology  - 10AE74) 72 25 97 P
+(Non Destructive Testing  - 10AE756) 88 25 113 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 47 23 70 P
+(Simulation Lab.  - 10AEL78) 47 25 72 P
+total= 713
+**
+1ds11ae038
+PRASHANTH KUMAR .N sem: 7 Result: FCD
+(Control Engineering  - 10AE71) 60 20 80 P
+(Aircraft Structures-II  - 10AE72) 60 18 78 P
+(Computational Fluid Dynamics  - 10AE752) 65 19 84 P
+(Aircraft Stability & Control  - 10AE73) 71 18 89 P
+(Space Mechanics & Launch Vehicles  - 10AE763) 82 19 101 P
+(Gas Turbine Technology  - 10AE74) 72 25 97 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 47 23 70 P
+(Simulation Lab.  - 10AEL78) 46 23 69 P
+total= 668
+**
+1ds11ae040
+RAJAT MADHUKESHWAR HEGDE sem: 7 Result: FC
+(Control Engineering  - 10AE71) 58 19 77 P
+(Experimental Stress Analysis  - 10AE761) 59 20 79 P
+(Aircraft Structures-II  - 10AE72) 57 17 74 P
+(Aircraft Stability & Control  - 10AE73) 46 15 61 P
+(Gas Turbine Technology  - 10AE74) 48 20 68 P
+(Non Destructive Testing  - 10AE756) 70 20 90 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 44 21 65 P
+(Simulation Lab.  - 10AEL78) 46 22 68 P
+total= 582
+**
+1ds11ae041
+RAKSHITA COUTINHO sem: 7 Result: FC
+(Control Engineering  - 10AE71) 52 19 71 P
+(Experimental Stress Analysis  - 10AE761) 48 20 68 P
+(Aircraft Structures-II  - 10AE72) 44 18 62 P
+(Aircraft Stability & Control  - 10AE73) 37 17 54 P
+(Gas Turbine Technology  - 10AE74) 62 19 81 P
+(Non Destructive Testing  - 10AE756) 77 20 97 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 47 23 70 P
+(Simulation Lab.  - 10AEL78) 44 21 65 P
+total= 568
+**
+1ds11ae042
+ROHIT KUMAR LADDA sem: 7 Result: FC
+(Control Engineering  - 10AE71) 65 25 90 P
+(Aircraft Structures-II  - 10AE72) 46 18 64 P
+(Computational Fluid Dynamics  - 10AE752) 52 17 69 P
+(Aircraft Stability & Control  - 10AE73) 47 15 62 P
+(Space Mechanics & Launch Vehicles  - 10AE763) 61 20 81 P
+(Gas Turbine Technology  - 10AE74) 72 25 97 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 48 22 70 P
+(Simulation Lab.  - 10AEL78) 45 22 67 P
+total= 600
+**
+1ds11ae044
+SAADUDDIN KHAWER sem: 7 Result: FAIL
+(Control Engineering  - 10AE71) 52 12 64 P
+(Experimental Stress Analysis  - 10AE761) 0 15 15 A
+(Aircraft Structures-II  - 10AE72) 0 10 10 A
+(Aircraft Stability & Control  - 10AE73) 0 13 13 A
+(Gas Turbine Technology  - 10AE74) 0 3 3 A
+(Non Destructive Testing  - 10AE756) 49 14 63 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 37 12 49 P
+(Simulation Lab.  - 10AEL78) 38 12 50 P
+total= 267
+**
+1ds11ae045
+SAFAL SYAL sem: 7 Result: FC
+(Control Engineering  - 10AE71) 64 20 84 P
+(Experimental Stress Analysis  - 10AE761) 47 18 65 P
+(Aircraft Structures-II  - 10AE72) 59 23 82 P
+(Aircraft Stability & Control  - 10AE73) 43 18 61 P
+(Gas Turbine Technology  - 10AE74) 59 23 82 P
+(Non Destructive Testing  - 10AE756) 81 24 105 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 41 21 62 P
+(Simulation Lab.  - 10AEL78) 46 17 63 P
+total= 604
+**
+1ds11ae046
+SHARATH KN sem: 7 Result: FCD
+(Control Engineering  - 10AE71) 72 25 97 P
+(Aircraft Structures-II  - 10AE72) 83 17 100 P
+(Computational Fluid Dynamics  - 10AE752) 66 19 85 P
+(Aircraft Stability & Control  - 10AE73) 55 23 78 P
+(Space Mechanics & Launch Vehicles  - 10AE763) 74 24 98 P
+(Gas Turbine Technology  - 10AE74) 66 22 88 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 41 21 62 P
+(Simulation Lab.  - 10AEL78) 45 19 64 P
+total= 672
+**
+1ds11ae047
+SHASHI KUMAR D sem: 7 Result: FCD
+(Control Engineering  - 10AE71) 64 25 89 P
+(Aircraft Structures-II  - 10AE72) 77 22 99 P
+(Computational Fluid Dynamics  - 10AE752) 62 20 82 P
+(Aircraft Stability & Control  - 10AE73) 57 25 82 P
+(Space Mechanics & Launch Vehicles  - 10AE763) 82 22 104 P
+(Gas Turbine Technology  - 10AE74) 76 24 100 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 46 24 70 P
+(Simulation Lab.  - 10AEL78) 48 23 71 P
+total= 697
+**
+1ds11ae048
+SHIVARAJ PUJARI sem: 7 Result: FCD
+(Control Engineering  - 10AE71) 67 16 83 P
+(Aircraft Structures-II  - 10AE72) 73 16 89 P
+(Computational Fluid Dynamics  - 10AE752) 74 15 89 P
+(Aircraft Stability & Control  - 10AE73) 72 21 93 P
+(Space Mechanics & Launch Vehicles  - 10AE763) 86 16 102 P
+(Gas Turbine Technology  - 10AE74) 69 15 84 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 46 22 68 P
+(Simulation Lab.  - 10AEL78) 45 21 66 P
+total= 674
+**
+1ds11ae049
+SHRILEKHA.M sem: 7 Result: FCD
+(Control Engineering  - 10AE71) 63 25 88 P
+(Aircraft Structures-II  - 10AE72) 48 16 64 P
+(Computational Fluid Dynamics  - 10AE752) 76 21 97 P
+(Aircraft Stability & Control  - 10AE73) 71 20 91 P
+(Space Mechanics & Launch Vehicles  - 10AE763) 62 21 83 P
+(Gas Turbine Technology  - 10AE74) 62 25 87 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 47 24 71 P
+(Simulation Lab.  - 10AEL78) 47 24 71 P
+total= 652
+**
+1ds11ae050
+SRIKANTH M sem: 7 Result: FCD
+(Control Engineering  - 10AE71) 60 25 85 P
+(Aircraft Structures-II  - 10AE72) 82 25 107 P
+(Computational Fluid Dynamics  - 10AE752) 75 25 100 P
+(Aircraft Stability & Control  - 10AE73) 60 25 85 P
+(Space Mechanics & Launch Vehicles  - 10AE763) 76 24 100 P
+(Gas Turbine Technology  - 10AE74) 64 25 89 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 46 22 68 P
+(Simulation Lab.  - 10AEL78) 47 24 71 P
+total= 705
+**
+1ds11ae052
+SUNIL PAWAR sem: 7 Result: FCD
+(Control Engineering  - 10AE71) 60 25 85 P
+(Aircraft Structures-II  - 10AE72) 54 20 74 P
+(Aircraft Stability & Control  - 10AE73) 56 23 79 P
+(Space Mechanics & Launch Vehicles  - 10AE763) 70 20 90 P
+(Gas Turbine Technology  - 10AE74) 63 24 87 P
+(Non Destructive Testing  - 10AE756) 86 25 111 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 42 21 63 P
+(Simulation Lab.  - 10AEL78) 46 23 69 P
+total= 658
+**
+1ds11ae054
+SWARATMIKA K ARYA sem: 7 Result: FC
+(Control Engineering  - 10AE71) 64 22 86 P
+(Aircraft Structures-II  - 10AE72) 62 15 77 P
+(Computational Fluid Dynamics  - 10AE752) 70 16 86 P
+(Aircraft Stability & Control  - 10AE73) 56 20 76 P
+(Space Mechanics & Launch Vehicles  - 10AE763) 60 16 76 P
+(Gas Turbine Technology  - 10AE74) 63 21 84 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 46 22 68 P
+(Simulation Lab.  - 10AEL78) 49 17 66 P
+total= 619
+**
+1ds11ae055
+UJWAL RAJAN sem: 7 Result: FC
+(Control Engineering  - 10AE71) 51 24 75 P
+(Aircraft Structures-II  - 10AE72) 51 21 72 P
+(Computational Fluid Dynamics  - 10AE752) 57 17 74 P
+(Aircraft Stability & Control  - 10AE73) 75 15 90 P
+(Space Mechanics & Launch Vehicles  - 10AE763) 54 17 71 P
+(Gas Turbine Technology  - 10AE74) 49 22 71 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 47 21 68 P
+(Simulation Lab.  - 10AEL78) 49 24 73 P
+total= 594
+**
+1ds11ae056
+VENUGOPALA N.R sem: 7 Result: SC
+(Control Engineering  - 10AE71) 55 16 71 P
+(Aircraft Structures-II  - 10AE72) 39 17 56 P
+(Computational Fluid Dynamics  - 10AE752) 44 10 54 P
+(Aircraft Stability & Control  - 10AE73) 35 16 51 P
+(Space Mechanics & Launch Vehicles  - 10AE763) 56 15 71 P
+(Gas Turbine Technology  - 10AE74) 35 18 53 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 35 20 55 P
+(Simulation Lab.  - 10AEL78) 40 22 62 P
+total= 473
+**
+1ds11ae057
+VIKAS S A sem: 7 Result: FCD
+(Control Engineering  - 10AE71) 65 25 90 P
+(Aircraft Structures-II  - 10AE72) 60 19 79 P
+(Computational Fluid Dynamics  - 10AE752) 77 15 92 P
+(Aircraft Stability & Control  - 10AE73) 54 22 76 P
+(Space Mechanics & Launch Vehicles  - 10AE763) 67 17 84 P
+(Gas Turbine Technology  - 10AE74) 50 24 74 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 45 23 68 P
+(Simulation Lab.  - 10AEL78) 46 24 70 P
+total= 633
+**
+1ds11ae058
+VINAY BALODI sem: 7 Result: FC
+(Control Engineering  - 10AE71) 55 22 77 P
+(Aircraft Structures-II  - 10AE72) 55 14 69 P
+(Computational Fluid Dynamics  - 10AE752) 62 15 77 P
+(Aircraft Stability & Control  - 10AE73) 55 16 71 P
+(Space Mechanics & Launch Vehicles  - 10AE763) 72 14 86 P
+(Gas Turbine Technology  - 10AE74) 59 17 76 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 44 23 67 P
+(Simulation Lab.  - 10AEL78) 34 20 54 P
+total= 577
+**
+1ds11ae059
+VINAY K T sem: 7 Result: FC
+(Control Engineering  - 10AE71) 47 21 68 P
+(Aircraft Structures-II  - 10AE72) 49 4 53 P
+(Aircraft Stability & Control  - 10AE73) 52 19 71 P
+(Space Mechanics & Launch Vehicles  - 10AE763) 59 18 77 P
+(Gas Turbine Technology  - 10AE74) 50 15 65 P
+(Non Destructive Testing  - 10AE756) 83 21 104 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 45 21 66 P
+(Simulation Lab.  - 10AEL78) 41 17 58 P
+total= 562
+**
+1ds11ae061
+YATISH CHANDRA sem: 7 Result: FC
+(Control Engineering  - 10AE71) 58 25 83 P
+(Aircraft Structures-II  - 10AE72) 44 22 66 P
+(Computational Fluid Dynamics  - 10AE752) 60 22 82 P
+(Aircraft Stability & Control  - 10AE73) 67 20 87 P
+(Space Mechanics & Launch Vehicles  - 10AE763) 45 19 64 P
+(Gas Turbine Technology  - 10AE74) 57 21 78 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 44 23 67 P
+(Simulation Lab.  - 10AEL78) 47 24 71 P
+total= 598
+**
+1ds11ae062
+YOGESH PAWAR K L sem: 7 Result: FCD
+(Control Engineering  - 10AE71) 68 25 93 P
+(Aircraft Structures-II  - 10AE72) 80 21 101 P
+(Computational Fluid Dynamics  - 10AE752) 75 23 98 P
+(Aircraft Stability & Control  - 10AE73) 67 25 92 P
+(Space Mechanics & Launch Vehicles  - 10AE763) 74 22 96 P
+(Gas Turbine Technology  - 10AE74) 57 25 82 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 49 24 73 P
+(Simulation Lab.  - 10AEL78) 47 25 72 P
+total= 707
+**
+1ds11ae063
+UBAIDULLA MULLA sem: 7 Result: FC
+(Control Engineering  - 10AE71) 69 23 92 P
+(Aircraft Structures-II  - 10AE72) 60 15 75 P
+(Computational Fluid Dynamics  - 10AE752) 78 19 97 P
+(Aircraft Stability & Control  - 10AE73) 47 15 62 P
+(Space Mechanics & Launch Vehicles  - 10AE763) 45 22 67 P
+(Gas Turbine Technology  - 10AE74) 56 20 76 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 45 21 66 P
+(Simulation Lab.  - 10AEL78) 45 20 65 P
+total= 600
+**
+1ds12ae400
+BERYL PL JINUPAUL sem: 7 Result: FC
+(Control Engineering  - 10AE71) 49 20 69 P
+(Aircraft Structures-II  - 10AE72) 35 19 54 P
+(Space Mechanics & Launch Vehicles  - 10AE763) 57 21 78 P
+(Aircraft Stability & Control  - 10AE73) 40 17 57 P
+(Gas Turbine Technology  - 10AE74) 44 25 69 P
+(Non Destructive Testing  - 10AE756) 64 22 86 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 48 21 69 P
+(Simulation Lab.  - 10AEL78) 41 23 64 P
+total= 40
+**
+1ds12ae401
+DEEKSHA S G sem: 7 Result: FC
+(Control Engineering  - 10AE71) 58 15 73 P
+(Experimental Stress Analysis  - 10AE761) 61 23 84 P
+(Aircraft Structures-II  - 10AE72) 60 21 81 P
+(Computational Fluid Dynamics  - 10AE752) 71 16 87 P
+(Aircraft Stability & Control  - 10AE73) 54 19 73 P
+(Gas Turbine Technology  - 10AE74) 65 22 87 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 44 22 66 P
+(Simulation Lab.  - 10AEL78) 36 22 58 P
+total= 609
+**
+1ds12ae402
+H KISHORE KUMAR sem: 7 Result: FC
+(Control Engineering  - 10AE71) 63 22 85 P
+(Aircraft Structures-II  - 10AE72) 61 19 80 P
+(Space Mechanics & Launch Vehicles  - 10AE763) 46 18 64 P
+(Aircraft Stability & Control  - 10AE73) 42 22 64 P
+(Gas Turbine Technology  - 10AE74) 63 19 82 P
+(Non Destructive Testing  - 10AE756) 65 22 87 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 45 20 65 P
+(Simulation Lab.  - 10AEL78) 41 22 63 P
+total= 0
+**
+1ds12ae403
+KARTHIK S S sem: 7 Result: FAIL
+(Control Engineering  - 10AE71) 35 9 44 F
+(Aircraft Structures-II  - 10AE72) 37 7 44 F
+(Aircraft Stability & Control  - 10AE73) 0 15 15 A
+(Space Mechanics & Launch Vehicles  - 10AE763) 36 10 46 F
+(Gas Turbine Technology  - 10AE74) 48 16 64 P
+(Non Destructive Testing  - 10AE756) 44 16 60 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 46 22 68 P
+(Simulation Lab.  - 10AEL78) 30 16 46 P
+total= 0
+**
+1ds12ae404
+MOHAMMED FAISAL sem: 7 Result: FC
+(Control Engineering  - 10AE71) 52 15 67 P
+(Aircraft Structures-II  - 10AE72) 57 15 72 P
+(Space Mechanics & Launch Vehicles  - 10AE763) 61 15 76 P
+(Aircraft Stability & Control  - 10AE73) 51 17 68 P
+(Gas Turbine Technology  - 10AE74) 69 24 93 P
+(Non Destructive Testing  - 10AE756) 69 25 94 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 46 20 66 P
+(Simulation Lab.  - 10AEL78) 42 20 62 P
+total= 0
+**
+1ds12ae407
+PRIYA R sem: 7 Result: FC
+(Control Engineering  - 10AE71) 49 17 66 P
+(Experimental Stress Analysis  - 10AE761) 65 21 86 P
+(Aircraft Structures-II  - 10AE72) 64 17 81 P
+(Aircraft Stability & Control  - 10AE73) 52 15 67 P
+(Gas Turbine Technology  - 10AE74) 64 18 82 P
+(Non Destructive Testing  - 10AE756) 60 20 80 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 48 21 69 P
+(Simulation Lab.  - 10AEL78) 30 21 51 P
+total= 0
+**
+1ds12ae410
+URMIKA S sem: 7 Result: FC
+(Control Engineering  - 10AE71) 49 13 62 P
+(Experimental Stress Analysis  - 10AE761) 72 23 95 P
+(Aircraft Structures-II  - 10AE72) 57 15 72 P
+(Aircraft Stability & Control  - 10AE73) 50 18 68 P
+(Gas Turbine Technology  - 10AE74) 70 20 90 P
+(Non Destructive Testing  - 10AE756) 67 20 87 P
+(Design, Modeling & Analysis Lab.  - 10AEL77) 35 20 55 P
+(Simulation Lab.  - 10AEL78) 38 20 58 P
+total= 0
+**
+false
+60

@@ -1,0 +1,1670 @@
+1rn11cs001
+ABHISHEK ANAND sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 51 25 76 P
+(C# Programming & .Net  - 10CS761) 66 23 89 P
+(Embedded Computing Systems  - 10CS72) 62 24 86 P
+(Programming the Web  - 10CS73) 57 25 82 P
+(Java & J2EE  - 10CS753) 54 25 79 P
+(Advanced Computer Architectures  - 10CS74) 61 23 84 P
+(Networks Lab.  - 10CSL77) 46 25 71 P
+(Web Programming Lab.  - 10CSL78) 43 25 68 P
+total= 635
+**
+1rn11cs002
+ABHISHEK KUMAR sem: 7 Result: FAIL
+(Object-Oriented Modeling & Design  - 10CS71) 44 23 67 P
+(C# Programming & .Net  - 10CS761) 49 16 65 P
+(Embedded Computing Systems  - 10CS72) 50 23 73 P
+(Programming the Web  - 10CS73) 26 24 50 F
+(Java & J2EE  - 10CS753) 35 18 53 P
+(Advanced Computer Architectures  - 10CS74) 59 16 75 P
+(Networks Lab.  - 10CSL77) 40 22 62 P
+(Web Programming Lab.  - 10CSL78) 42 23 65 P
+total= 510
+**
+1rn11cs003
+ADITHI DINKAR sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 57 25 82 P
+(C# Programming & .Net  - 10CS761) 59 24 83 P
+(Embedded Computing Systems  - 10CS72) 54 25 79 P
+(Programming the Web  - 10CS73) 59 23 82 P
+(Java & J2EE  - 10CS753) 62 24 86 P
+(Advanced Computer Architectures  - 10CS74) 54 20 74 P
+(Networks Lab.  - 10CSL77) 48 24 72 P
+(Web Programming Lab.  - 10CSL78) 42 25 67 P
+total= 630
+**
+1rn11cs004
+ADITYA NARAYAN sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 36 24 60 P
+(C# Programming & .Net  - 10CS761) 35 16 51 P
+(Embedded Computing Systems  - 10CS72) 51 25 76 P
+(Programming the Web  - 10CS73) 51 22 73 P
+(Java & J2EE  - 10CS753) 42 25 67 P
+(Advanced Computer Architectures  - 10CS74) 60 22 82 P
+(Networks Lab.  - 10CSL77) 48 24 72 P
+(Web Programming Lab.  - 10CSL78) 43 25 68 P
+total= 549
+**
+1rn11cs005
+AISHWARYA KAMAL sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 50 25 75 P
+(C# Programming & .Net  - 10CS761) 53 25 78 P
+(Embedded Computing Systems  - 10CS72) 64 25 89 P
+(Programming the Web  - 10CS73) 67 25 92 P
+(Java & J2EE  - 10CS753) 60 25 85 P
+(Advanced Computer Architectures  - 10CS74) 70 22 92 P
+(Networks Lab.  - 10CSL77) 49 24 73 P
+(Web Programming Lab.  - 10CSL78) 46 25 71 P
+total= 655
+**
+1rn11cs006
+AJITKUMAR HEGDE sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 51 25 76 P
+(C# Programming & .Net  - 10CS761) 66 23 89 P
+(Embedded Computing Systems  - 10CS72) 53 25 78 P
+(Programming the Web  - 10CS73) 60 25 85 P
+(Java & J2EE  - 10CS753) 55 25 80 P
+(Advanced Computer Architectures  - 10CS74) 53 23 76 P
+(Networks Lab.  - 10CSL77) 47 25 72 P
+(Web Programming Lab.  - 10CSL78) 45 25 70 P
+total= 630
+**
+1rn11cs007
+AKSHAT DEEPAK GAMBHIR sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 56 25 81 P
+(C# Programming & .Net  - 10CS761) 54 24 78 P
+(Embedded Computing Systems  - 10CS72) 62 22 84 P
+(Programming the Web  - 10CS73) 64 24 88 P
+(Java & J2EE  - 10CS753) 62 24 86 P
+(Advanced Computer Architectures  - 10CS74) 66 24 90 P
+(Networks Lab.  - 10CSL77) 47 24 71 P
+(Web Programming Lab.  - 10CSL78) 42 25 67 P
+total= 645
+**
+1rn11cs008
+AKSHAY S BHAT sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 62 24 86 P
+(C# Programming & .Net  - 10CS761) 47 25 72 P
+(Embedded Computing Systems  - 10CS72) 47 25 72 P
+(Programming the Web  - 10CS73) 59 25 84 P
+(Java & J2EE  - 10CS753) 57 22 79 P
+(Advanced Computer Architectures  - 10CS74) 65 15 80 P
+(Networks Lab.  - 10CSL77) 49 25 74 P
+(Web Programming Lab.  - 10CSL78) 47 25 72 P
+total= 619
+**
+1rn11cs009
+AMOGH.V sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 60 23 83 P
+(C# Programming & .Net  - 10CS761) 41 20 61 P
+(Embedded Computing Systems  - 10CS72) 46 24 70 P
+(Programming the Web  - 10CS73) 67 25 92 P
+(Java & J2EE  - 10CS753) 52 23 75 P
+(Advanced Computer Architectures  - 10CS74) 50 21 71 P
+(Networks Lab.  - 10CSL77) 47 23 70 P
+(Web Programming Lab.  - 10CSL78) 36 25 61 P
+total= 583
+**
+1rn11cs010
+AMRUTH sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 68 24 92 P
+(C# Programming & .Net  - 10CS761) 53 23 76 P
+(Embedded Computing Systems  - 10CS72) 65 25 90 P
+(Programming the Web  - 10CS73) 58 25 83 P
+(Java & J2EE  - 10CS753) 68 23 91 P
+(Advanced Computer Architectures  - 10CS74) 60 22 82 P
+(Networks Lab.  - 10CSL77) 46 23 69 P
+(Web Programming Lab.  - 10CSL78) 36 25 61 P
+total= 644
+**
+1rn11cs012
+ANITHA P sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 68 25 93 P
+(C# Programming & .Net  - 10CS761) 65 21 86 P
+(Embedded Computing Systems  - 10CS72) 66 25 91 P
+(Programming the Web  - 10CS73) 71 25 96 P
+(Java & J2EE  - 10CS753) 53 24 77 P
+(Advanced Computer Architectures  - 10CS74) 57 24 81 P
+(Networks Lab.  - 10CSL77) 48 25 73 P
+(Web Programming Lab.  - 10CSL78) 44 25 69 P
+total= 666
+**
+1rn11cs014
+ANUJA MISHRA sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 72 25 97 P
+(C# Programming & .Net  - 10CS761) 78 25 103 P
+(Embedded Computing Systems  - 10CS72) 65 24 89 P
+(Programming the Web  - 10CS73) 78 25 103 P
+(Java & J2EE  - 10CS753) 69 25 94 P
+(Advanced Computer Architectures  - 10CS74) 59 23 82 P
+(Networks Lab.  - 10CSL77) 47 25 72 P
+(Web Programming Lab.  - 10CSL78) 44 25 69 P
+total= 709
+**
+1rn11cs015
+ANUP JAISWAL sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 64 22 86 P
+(C# Programming & .Net  - 10CS761) 54 20 74 P
+(Embedded Computing Systems  - 10CS72) 67 23 90 P
+(Programming the Web  - 10CS73) 43 24 67 P
+(Java & J2EE  - 10CS753) 53 21 74 P
+(Advanced Computer Architectures  - 10CS74) 55 10 65 P
+(Networks Lab.  - 10CSL77) 46 24 70 P
+(Web Programming Lab.  - 10CSL78) 41 24 65 P
+total= 591
+**
+1rn11cs016
+APARNA B S sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 61 25 86 P
+(C# Programming & .Net  - 10CS761) 67 23 90 P
+(Embedded Computing Systems  - 10CS72) 60 25 85 P
+(Programming the Web  - 10CS73) 69 25 94 P
+(Java & J2EE  - 10CS753) 63 25 88 P
+(Advanced Computer Architectures  - 10CS74) 67 23 90 P
+(Networks Lab.  - 10CSL77) 49 25 74 P
+(Web Programming Lab.  - 10CSL78) 49 25 74 P
+total= 681
+**
+1rn11cs017
+ASHUTOSH KUMAR GUPTA sem: 7 Result: FAIL
+(Object-Oriented Modeling & Design  - 10CS71) 54 20 74 P
+(C# Programming & .Net  - 10CS761) 36 15 51 P
+(Embedded Computing Systems  - 10CS72) 44 15 59 P
+(Programming the Web  - 10CS73) 23 20 43 F
+(Java & J2EE  - 10CS753) 36 16 52 P
+(Advanced Computer Architectures  - 10CS74) 54 6 60 P
+(Networks Lab.  - 10CSL77) 44 20 64 P
+(Web Programming Lab.  - 10CSL78) 32 23 55 P
+total= 458
+**
+1rn11cs018
+ASHUTOSH SINHA sem: 7 Result: FAIL
+(C# Programming & .Net  - 10CS761) 9 1 10 F
+(Object-Oriented Modeling & Design  - 10CS71) 37 21 58 P
+(Embedded Computing Systems  - 10CS72) 0 15 15 A
+(Programming the Web  - 10CS73) 0 16 16 A
+(Java & J2EE  - 10CS753) 35 15 50 P
+(Advanced Computer Architectures  - 10CS74) 35 6 41 F
+(Networks Lab.  - 10CSL77) 38 19 57 P
+(Web Programming Lab.  - 10CSL78) 35 23 58 P
+total= 305
+**
+1rn11cs020
+BHARATH K N sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 73 25 98 P
+(C# Programming & .Net  - 10CS761) 58 22 80 P
+(Embedded Computing Systems  - 10CS72) 55 25 80 P
+(Programming the Web  - 10CS73) 60 25 85 P
+(Java & J2EE  - 10CS753) 62 23 85 P
+(Advanced Computer Architectures  - 10CS74) 64 22 86 P
+(Networks Lab.  - 10CSL77) 47 24 71 P
+(Web Programming Lab.  - 10CSL78) 40 24 64 P
+total= 649
+**
+1rn11cs021
+BHAVANA R sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 53 25 78 P
+(C# Programming & .Net  - 10CS761) 78 25 103 P
+(Embedded Computing Systems  - 10CS72) 62 25 87 P
+(Programming the Web  - 10CS73) 64 25 89 P
+(Java & J2EE  - 10CS753) 66 24 90 P
+(Advanced Computer Architectures  - 10CS74) 62 24 86 P
+(Networks Lab.  - 10CSL77) 47 25 72 P
+(Web Programming Lab.  - 10CSL78) 48 25 73 P
+total= 678
+**
+1rn11cs022
+BINDHU.M sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 54 24 78 P
+(C# Programming & .Net  - 10CS761) 56 22 78 P
+(Embedded Computing Systems  - 10CS72) 53 25 78 P
+(Programming the Web  - 10CS73) 49 23 72 P
+(Java & J2EE  - 10CS753) 54 24 78 P
+(Advanced Computer Architectures  - 10CS74) 62 22 84 P
+(Networks Lab.  - 10CSL77) 46 25 71 P
+(Web Programming Lab.  - 10CSL78) 46 25 71 P
+total= 610
+**
+1rn11cs023
+CHANDANA R sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 66 21 87 P
+(C# Programming & .Net  - 10CS761) 51 16 67 P
+(Embedded Computing Systems  - 10CS72) 60 15 75 P
+(Programming the Web  - 10CS73) 56 12 68 P
+(Java & J2EE  - 10CS753) 45 17 62 P
+(Advanced Computer Architectures  - 10CS74) 65 15 80 P
+(Networks Lab.  - 10CSL77) 40 20 60 P
+(Web Programming Lab.  - 10CSL78) 42 25 67 P
+total= 566
+**
+1rn11cs024
+CHETAN R KUMBAR sem: 7 Result: FAIL
+(Object-Oriented Modeling & Design  - 10CS71) 25 22 47 F
+(C# Programming & .Net  - 10CS761) 30 15 45 F
+(Embedded Computing Systems  - 10CS72) 35 19 54 P
+(Programming the Web  - 10CS73) 25 23 48 F
+(Java & J2EE  - 10CS753) 28 19 47 F
+(Advanced Computer Architectures  - 10CS74) 36 15 51 P
+(Networks Lab.  - 10CSL77) 45 23 68 P
+(Web Programming Lab.  - 10CSL78) 32 25 57 P
+total= 417
+**
+1rn11cs026
+DEVESH SINGH sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 44 25 69 P
+(C# Programming & .Net  - 10CS761) 50 18 68 P
+(Embedded Computing Systems  - 10CS72) 60 24 84 P
+(Programming the Web  - 10CS73) 54 23 77 P
+(Java & J2EE  - 10CS753) 35 23 58 P
+(Advanced Computer Architectures  - 10CS74) 58 24 82 P
+(Networks Lab.  - 10CSL77) 49 25 74 P
+(Web Programming Lab.  - 10CSL78) 38 25 63 P
+total= 575
+**
+1rn11cs028
+GARIMA PANDEY sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 44 25 69 P
+(C# Programming & .Net  - 10CS761) 39 17 56 P
+(Embedded Computing Systems  - 10CS72) 57 25 82 P
+(Programming the Web  - 10CS73) 38 25 63 P
+(Java & J2EE  - 10CS753) 47 25 72 P
+(Advanced Computer Architectures  - 10CS74) 53 18 71 P
+(Networks Lab.  - 10CSL77) 47 24 71 P
+(Web Programming Lab.  - 10CSL78) 40 25 65 P
+total= 549
+**
+1rn11cs029
+GAURAV KUMAR sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 63 25 88 P
+(C# Programming & .Net  - 10CS761) 65 22 87 P
+(Embedded Computing Systems  - 10CS72) 59 25 84 P
+(Programming the Web  - 10CS73) 64 25 89 P
+(Java & J2EE  - 10CS753) 57 22 79 P
+(Advanced Computer Architectures  - 10CS74) 64 25 89 P
+(Networks Lab.  - 10CSL77) 47 23 70 P
+(Web Programming Lab.  - 10CSL78) 47 25 72 P
+total= 658
+**
+1rn11cs030
+GIREESH D MOGER sem: 7 Result: FAIL
+(C# Programming & .Net  - 10CS761) 39 7 46 F
+(Object-Oriented Modeling & Design  - 10CS71) 16 17 33 F
+(Embedded Computing Systems  - 10CS72) 35 15 50 P
+(Java & J2EE  - 10CS753) 26 16 42 F
+(Programming the Web  - 10CS73) 25 20 45 F
+(Advanced Computer Architectures  - 10CS74) 49 13 62 P
+(Networks Lab.  - 10CSL77) 46 18 64 P
+(Web Programming Lab.  - 10CSL78) 38 24 62 P
+total= 404
+**
+1rn11cs031
+GIRISH S NALAWADE sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 47 25 72 P
+(C# Programming & .Net  - 10CS761) 47 20 67 P
+(Embedded Computing Systems  - 10CS72) 48 23 71 P
+(Programming the Web  - 10CS73) 43 25 68 P
+(Java & J2EE  - 10CS753) 50 22 72 P
+(Advanced Computer Architectures  - 10CS74) 47 18 65 P
+(Networks Lab.  - 10CSL77) 48 25 73 P
+(Web Programming Lab.  - 10CSL78) 43 25 68 P
+total= 556
+**
+1rn11cs032
+HARINI R R sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 44 25 69 P
+(C# Programming & .Net  - 10CS761) 54 23 77 P
+(Embedded Computing Systems  - 10CS72) 66 25 91 P
+(Programming the Web  - 10CS73) 57 25 82 P
+(Java & J2EE  - 10CS753) 61 25 86 P
+(Advanced Computer Architectures  - 10CS74) 54 23 77 P
+(Networks Lab.  - 10CSL77) 49 25 74 P
+(Web Programming Lab.  - 10CSL78) 40 25 65 P
+total= 621
+**
+1rn11cs033
+INCHARA RAJ sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 65 25 90 P
+(C# Programming & .Net  - 10CS761) 58 21 79 P
+(Embedded Computing Systems  - 10CS72) 70 25 95 P
+(Programming the Web  - 10CS73) 68 25 93 P
+(Java & J2EE  - 10CS753) 64 25 89 P
+(Advanced Computer Architectures  - 10CS74) 66 21 87 P
+(Networks Lab.  - 10CSL77) 48 25 73 P
+(Web Programming Lab.  - 10CSL78) 44 25 69 P
+total= 675
+**
+1rn11cs034
+J L SHWETA sem: 7 Result: SC
+(Object-Oriented Modeling & Design  - 10CS71) 36 24 60 P
+(C# Programming & .Net  - 10CS761) 40 12 52 P
+(Embedded Computing Systems  - 10CS72) 35 25 60 P
+(Programming the Web  - 10CS73) 41 25 66 P
+(Java & J2EE  - 10CS753) 47 25 72 P
+(Advanced Computer Architectures  - 10CS74) 53 21 74 P
+(Networks Lab.  - 10CSL77) 28 21 49 P
+(Web Programming Lab.  - 10CSL78) 42 24 66 P
+total= 499
+**
+1rn11cs035
+JAYAD AADRIT sem: 7 Result: SC
+(Object-Oriented Modeling & Design  - 10CS71) 44 18 62 P
+(C# Programming & .Net  - 10CS761) 50 17 67 P
+(Embedded Computing Systems  - 10CS72) 53 15 68 P
+(Programming the Web  - 10CS73) 44 16 60 P
+(Java & J2EE  - 10CS753) 56 22 78 P
+(Advanced Computer Architectures  - 10CS74) 52 6 58 P
+(Networks Lab.  - 10CSL77) 48 21 69 P
+(Web Programming Lab.  - 10CSL78) 41 24 65 P
+total= 527
+**
+1rn11cs036
+JHALAA CHINOY T sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 52 25 77 P
+(C# Programming & .Net  - 10CS761) 59 22 81 P
+(Embedded Computing Systems  - 10CS72) 65 25 90 P
+(Programming the Web  - 10CS73) 54 25 79 P
+(Java & J2EE  - 10CS753) 70 24 94 P
+(Advanced Computer Architectures  - 10CS74) 62 23 85 P
+(Networks Lab.  - 10CSL77) 48 25 73 P
+(Web Programming Lab.  - 10CSL78) 44 25 69 P
+total= 648
+**
+1rn11cs039
+K S BOPPAIAH sem: 7 Result: SC
+(Object-Oriented Modeling & Design  - 10CS71) 41 21 62 P
+(C# Programming & .Net  - 10CS761) 39 17 56 P
+(Embedded Computing Systems  - 10CS72) 45 22 67 P
+(Programming the Web  - 10CS73) 44 25 69 P
+(Java & J2EE  - 10CS753) 51 22 73 P
+(Advanced Computer Architectures  - 10CS74) 35 19 54 P
+(Networks Lab.  - 10CSL77) 46 24 70 P
+(Web Programming Lab.  - 10CSL78) 40 25 65 P
+total= 516
+**
+1rn11cs040
+KARNIKA N N sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 76 25 101 P
+(C# Programming & .Net  - 10CS761) 58 25 83 P
+(Embedded Computing Systems  - 10CS72) 68 25 93 P
+(Programming the Web  - 10CS73) 58 25 83 P
+(Java & J2EE  - 10CS753) 58 25 83 P
+(Advanced Computer Architectures  - 10CS74) 71 24 95 P
+(Networks Lab.  - 10CSL77) 48 25 73 P
+(Web Programming Lab.  - 10CSL78) 49 25 74 P
+total= 685
+**
+1rn11cs041
+KARTIK JAGADISH MAYYA sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 58 25 83 P
+(C# Programming & .Net  - 10CS761) 51 23 74 P
+(Embedded Computing Systems  - 10CS72) 60 23 83 P
+(Programming the Web  - 10CS73) 51 25 76 P
+(Java & J2EE  - 10CS753) 55 25 80 P
+(Advanced Computer Architectures  - 10CS74) 60 17 77 P
+(Networks Lab.  - 10CSL77) 45 25 70 P
+(Web Programming Lab.  - 10CSL78) 30 25 55 P
+total= 598
+**
+1rn11cs042
+KARUNA K SORAGANVI sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 61 25 86 P
+(C# Programming & .Net  - 10CS761) 51 25 76 P
+(Embedded Computing Systems  - 10CS72) 67 25 92 P
+(Programming the Web  - 10CS73) 46 25 71 P
+(Java & J2EE  - 10CS753) 51 24 75 P
+(Advanced Computer Architectures  - 10CS74) 58 23 81 P
+(Networks Lab.  - 10CSL77) 46 23 69 P
+(Web Programming Lab.  - 10CSL78) 40 25 65 P
+total= 615
+**
+1rn11cs043
+KAVYA.M sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 48 25 73 P
+(C# Programming & .Net  - 10CS761) 44 18 62 P
+(Embedded Computing Systems  - 10CS72) 41 25 66 P
+(Programming the Web  - 10CS73) 41 25 66 P
+(Java & J2EE  - 10CS753) 45 20 65 P
+(Advanced Computer Architectures  - 10CS74) 51 19 70 P
+(Networks Lab.  - 10CSL77) 45 23 68 P
+(Web Programming Lab.  - 10CSL78) 44 25 69 P
+total= 540
+**
+1rn11cs044
+KEERTHANA K P sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 75 25 100 P
+(C# Programming & .Net  - 10CS761) 63 21 84 P
+(Embedded Computing Systems  - 10CS72) 72 25 97 P
+(Programming the Web  - 10CS73) 50 24 74 P
+(Java & J2EE  - 10CS753) 61 22 83 P
+(Advanced Computer Architectures  - 10CS74) 76 23 99 P
+(Networks Lab.  - 10CSL77) 48 24 72 P
+(Web Programming Lab.  - 10CSL78) 40 25 65 P
+total= 674
+**
+1rn11cs045
+KIRAN GOWDA K sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 51 23 74 P
+(C# Programming & .Net  - 10CS761) 64 25 89 P
+(Embedded Computing Systems  - 10CS72) 61 24 85 P
+(Programming the Web  - 10CS73) 57 23 80 P
+(Java & J2EE  - 10CS753) 63 24 87 P
+(Advanced Computer Architectures  - 10CS74) 67 21 88 P
+(Networks Lab.  - 10CSL77) 48 21 69 P
+(Web Programming Lab.  - 10CSL78) 43 25 68 P
+total= 640
+**
+1rn11cs051
+M RAKESH SHENOY sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 55 25 80 P
+(C# Programming & .Net  - 10CS761) 49 25 74 P
+(Embedded Computing Systems  - 10CS72) 72 23 95 P
+(Programming the Web  - 10CS73) 57 25 82 P
+(Java & J2EE  - 10CS753) 60 25 85 P
+(Advanced Computer Architectures  - 10CS74) 62 23 85 P
+(Networks Lab.  - 10CSL77) 49 25 74 P
+(Web Programming Lab.  - 10CSL78) 42 25 67 P
+total= 642
+**
+1rn11cs052
+M. SHRUTHI SUBBAIAH sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 67 25 92 P
+(C# Programming & .Net  - 10CS761) 79 25 104 P
+(Embedded Computing Systems  - 10CS72) 78 25 103 P
+(Programming the Web  - 10CS73) 56 25 81 P
+(Java & J2EE  - 10CS753) 67 25 92 P
+(Advanced Computer Architectures  - 10CS74) 70 25 95 P
+(Networks Lab.  - 10CSL77) 47 25 72 P
+(Web Programming Lab.  - 10CSL78) 40 25 65 P
+total= 704
+**
+1rn11cs053
+MANISH KUMAR sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 74 24 98 P
+(C# Programming & .Net  - 10CS761) 62 23 85 P
+(Embedded Computing Systems  - 10CS72) 78 25 103 P
+(Programming the Web  - 10CS73) 51 25 76 P
+(Java & J2EE  - 10CS753) 70 24 94 P
+(Advanced Computer Architectures  - 10CS74) 61 25 86 P
+(Networks Lab.  - 10CSL77) 46 25 71 P
+(Web Programming Lab.  - 10CSL78) 42 25 67 P
+total= 680
+**
+1rn11cs054
+MANJESH REDDY N sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 67 24 91 P
+(C# Programming & .Net  - 10CS761) 52 18 70 P
+(Embedded Computing Systems  - 10CS72) 73 25 98 P
+(Programming the Web  - 10CS73) 65 25 90 P
+(Java & J2EE  - 10CS753) 57 25 82 P
+(Advanced Computer Architectures  - 10CS74) 63 22 85 P
+(Networks Lab.  - 10CSL77) 49 25 74 P
+(Web Programming Lab.  - 10CSL78) 43 25 68 P
+total= 658
+**
+1rn11cs055
+MAYANK KUMAR JAGNANI sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 38 25 63 P
+(C# Programming & .Net  - 10CS761) 48 20 68 P
+(Embedded Computing Systems  - 10CS72) 58 22 80 P
+(Programming the Web  - 10CS73) 60 25 85 P
+(Java & J2EE  - 10CS753) 68 25 93 P
+(Advanced Computer Architectures  - 10CS74) 58 25 83 P
+(Networks Lab.  - 10CSL77) 47 25 72 P
+(Web Programming Lab.  - 10CSL78) 38 25 63 P
+total= 607
+**
+1rn11cs056
+MOHAMMED SALMAN KHALANDER sem: 7 Result: SC
+(Object-Oriented Modeling & Design  - 10CS71) 49 23 72 P
+(C# Programming & .Net  - 10CS761) 46 17 63 P
+(Embedded Computing Systems  - 10CS72) 50 19 69 P
+(Programming the Web  - 10CS73) 47 23 70 P
+(Java & J2EE  - 10CS753) 53 19 72 P
+(Advanced Computer Architectures  - 10CS74) 38 20 58 P
+(Networks Lab.  - 10CSL77) 45 20 65 P
+(Web Programming Lab.  - 10CSL78) 31 25 56 P
+total= 525
+**
+1rn11cs058
+NAYAN GARG sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 61 25 86 P
+(C# Programming & .Net  - 10CS761) 45 23 68 P
+(Embedded Computing Systems  - 10CS72) 58 25 83 P
+(Programming the Web  - 10CS73) 48 25 73 P
+(Java & J2EE  - 10CS753) 60 25 85 P
+(Advanced Computer Architectures  - 10CS74) 59 23 82 P
+(Networks Lab.  - 10CSL77) 49 25 74 P
+(Web Programming Lab.  - 10CSL78) 41 25 66 P
+total= 617
+**
+1rn11cs059
+NEERAJ KUMAR sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 71 25 96 P
+(C# Programming & .Net  - 10CS761) 56 23 79 P
+(Embedded Computing Systems  - 10CS72) 70 25 95 P
+(Programming the Web  - 10CS73) 48 25 73 P
+(Java & J2EE  - 10CS753) 71 25 96 P
+(Advanced Computer Architectures  - 10CS74) 68 24 92 P
+(Networks Lab.  - 10CSL77) 47 25 72 P
+(Web Programming Lab.  - 10CSL78) 40 25 65 P
+total= 668
+**
+1rn11cs060
+NITIN KUMAR SINGH sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 75 25 100 P
+(C# Programming & .Net  - 10CS761) 58 24 82 P
+(Embedded Computing Systems  - 10CS72) 63 25 88 P
+(Programming the Web  - 10CS73) 71 25 96 P
+(Java & J2EE  - 10CS753) 74 23 97 P
+(Advanced Computer Architectures  - 10CS74) 58 23 81 P
+(Networks Lab.  - 10CSL77) 50 25 75 P
+(Web Programming Lab.  - 10CSL78) 44 25 69 P
+total= 688
+**
+1rn11cs061
+NITYASHREE V sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 58 25 83 P
+(C# Programming & .Net  - 10CS761) 53 20 73 P
+(Embedded Computing Systems  - 10CS72) 57 23 80 P
+(Programming the Web  - 10CS73) 53 25 78 P
+(Java & J2EE  - 10CS753) 57 25 82 P
+(Advanced Computer Architectures  - 10CS74) 50 22 72 P
+(Networks Lab.  - 10CSL77) 46 25 71 P
+(Web Programming Lab.  - 10CSL78) 43 25 68 P
+total= 607
+**
+1rn11cs062
+NIVEDITA PANT sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 77 25 102 P
+(C# Programming & .Net  - 10CS761) 55 20 75 P
+(Embedded Computing Systems  - 10CS72) 63 24 87 P
+(Programming the Web  - 10CS73) 62 25 87 P
+(Java & J2EE  - 10CS753) 73 25 98 P
+(Advanced Computer Architectures  - 10CS74) 61 25 86 P
+(Networks Lab.  - 10CSL77) 48 25 73 P
+(Web Programming Lab.  - 10CSL78) 44 25 69 P
+total= 677
+**
+1rn11cs065
+POOJA.M sem: 7 Result: SC
+(Object-Oriented Modeling & Design  - 10CS71) 38 25 63 P
+(C# Programming & .Net  - 10CS761) 49 16 65 P
+(Embedded Computing Systems  - 10CS72) 42 22 64 P
+(Programming the Web  - 10CS73) 35 24 59 P
+(Java & J2EE  - 10CS753) 49 21 70 P
+(Advanced Computer Architectures  - 10CS74) 50 18 68 P
+(Networks Lab.  - 10CSL77) 49 22 71 P
+(Web Programming Lab.  - 10CSL78) 36 25 61 P
+total= 521
+**
+1rn11cs066
+PRABHAT SINGH CHOUDHARY sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 53 25 78 P
+(C# Programming & .Net  - 10CS761) 63 22 85 P
+(Embedded Computing Systems  - 10CS72) 46 25 71 P
+(Programming the Web  - 10CS73) 47 25 72 P
+(Java & J2EE  - 10CS753) 63 25 88 P
+(Advanced Computer Architectures  - 10CS74) 47 18 65 P
+(Networks Lab.  - 10CSL77) 47 25 72 P
+(Web Programming Lab.  - 10CSL78) 43 25 68 P
+total= 599
+**
+1rn11cs067
+PRADEEP KUMAR.M sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 68 25 93 P
+(C# Programming & .Net  - 10CS761) 62 20 82 P
+(Embedded Computing Systems  - 10CS72) 56 24 80 P
+(Programming the Web  - 10CS73) 53 25 78 P
+(Java & J2EE  - 10CS753) 56 22 78 P
+(Advanced Computer Architectures  - 10CS74) 60 21 81 P
+(Networks Lab.  - 10CSL77) 48 25 73 P
+(Web Programming Lab.  - 10CSL78) 40 25 65 P
+total= 630
+**
+1rn11cs068
+PRADEEPA .G sem: 7 Result: SC
+(Object-Oriented Modeling & Design  - 10CS71) 53 25 78 P
+(C# Programming & .Net  - 10CS761) 50 18 68 P
+(Embedded Computing Systems  - 10CS72) 35 19 54 P
+(Programming the Web  - 10CS73) 35 25 60 P
+(Java & J2EE  - 10CS753) 39 21 60 P
+(Advanced Computer Architectures  - 10CS74) 53 21 74 P
+(Networks Lab.  - 10CSL77) 47 24 71 P
+(Web Programming Lab.  - 10CSL78) 37 25 62 P
+total= 527
+**
+1rn11cs069
+PRAGYA sem: 7 Result: FAIL
+(C# Programming & .Net  - 10CS761) 54 17 71 P
+(Object-Oriented Modeling & Design  - 10CS71) 47 23 70 P
+(Embedded Computing Systems  - 10CS72) 49 23 72 P
+(Programming the Web  - 10CS73) 26 25 51 F
+(Java & J2EE  - 10CS753) 40 17 57 P
+(Advanced Computer Architectures  - 10CS74) 44 18 62 P
+(Networks Lab.  - 10CSL77) 42 23 65 P
+(Web Programming Lab.  - 10CSL78) 32 24 56 P
+total= 504
+**
+1rn11cs070
+PRAJWAL B sem: 7 Result: SC
+(Object-Oriented Modeling & Design  - 10CS71) 45 24 69 P
+(C# Programming & .Net  - 10CS761) 37 15 52 P
+(Embedded Computing Systems  - 10CS72) 41 21 62 P
+(Programming the Web  - 10CS73) 35 20 55 P
+(Java & J2EE  - 10CS753) 40 20 60 P
+(Advanced Computer Architectures  - 10CS74) 42 15 57 P
+(Networks Lab.  - 10CSL77) 32 21 53 P
+(Web Programming Lab.  - 10CSL78) 36 24 60 P
+total= 468
+**
+1rn11cs071
+PRAJWALA J sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 43 25 68 P
+(C# Programming & .Net  - 10CS761) 35 17 52 P
+(Embedded Computing Systems  - 10CS72) 57 24 81 P
+(Programming the Web  - 10CS73) 52 25 77 P
+(Java & J2EE  - 10CS753) 42 21 63 P
+(Advanced Computer Architectures  - 10CS74) 50 17 67 P
+(Networks Lab.  - 10CSL77) 48 23 71 P
+(Web Programming Lab.  - 10CSL78) 42 25 67 P
+total= 546
+**
+1rn11cs072
+PREETY JAIN sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 44 25 69 P
+(C# Programming & .Net  - 10CS761) 40 15 55 P
+(Embedded Computing Systems  - 10CS72) 59 22 81 P
+(Programming the Web  - 10CS73) 55 25 80 P
+(Java & J2EE  - 10CS753) 41 24 65 P
+(Advanced Computer Architectures  - 10CS74) 51 21 72 P
+(Networks Lab.  - 10CSL77) 45 22 67 P
+(Web Programming Lab.  - 10CSL78) 25 24 49 P
+total= 540
+**
+1rn11cs073
+PRIYANKA.R sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 61 25 86 P
+(C# Programming & .Net  - 10CS761) 44 24 68 P
+(Embedded Computing Systems  - 10CS72) 52 25 77 P
+(Programming the Web  - 10CS73) 50 24 74 P
+(Java & J2EE  - 10CS753) 35 23 58 P
+(Advanced Computer Architectures  - 10CS74) 39 23 62 P
+(Networks Lab.  - 10CSL77) 42 25 67 P
+(Web Programming Lab.  - 10CSL78) 46 25 71 P
+total= 563
+**
+1rn11cs074
+RAHUL CHANDRAN sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 47 24 71 P
+(C# Programming & .Net  - 10CS761) 45 20 65 P
+(Embedded Computing Systems  - 10CS72) 56 23 79 P
+(Programming the Web  - 10CS73) 55 24 79 P
+(Java & J2EE  - 10CS753) 49 20 69 P
+(Advanced Computer Architectures  - 10CS74) 62 17 79 P
+(Networks Lab.  - 10CSL77) 32 23 55 P
+(Web Programming Lab.  - 10CSL78) 31 25 56 P
+total= 553
+**
+1rn11cs075
+RAHUL M S sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 45 25 70 P
+(C# Programming & .Net  - 10CS761) 56 25 81 P
+(Embedded Computing Systems  - 10CS72) 66 25 91 P
+(Programming the Web  - 10CS73) 66 24 90 P
+(Java & J2EE  - 10CS753) 60 25 85 P
+(Advanced Computer Architectures  - 10CS74) 64 23 87 P
+(Networks Lab.  - 10CSL77) 48 25 73 P
+(Web Programming Lab.  - 10CSL78) 45 25 70 P
+total= 647
+**
+1rn11cs076
+RAJITH KUMAR SHETTY sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 41 22 63 P
+(C# Programming & .Net  - 10CS761) 51 21 72 P
+(Embedded Computing Systems  - 10CS72) 59 25 84 P
+(Programming the Web  - 10CS73) 45 22 67 P
+(Java & J2EE  - 10CS753) 54 23 77 P
+(Advanced Computer Architectures  - 10CS74) 42 20 62 P
+(Networks Lab.  - 10CSL77) 38 24 62 P
+(Web Programming Lab.  - 10CSL78) 45 20 65 P
+total= 552
+**
+1rn11cs077
+RAJKIRAN R sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 52 25 77 P
+(C# Programming & .Net  - 10CS761) 62 25 87 P
+(Embedded Computing Systems  - 10CS72) 61 25 86 P
+(Programming the Web  - 10CS73) 59 25 84 P
+(Java & J2EE  - 10CS753) 61 25 86 P
+(Advanced Computer Architectures  - 10CS74) 58 25 83 P
+(Networks Lab.  - 10CSL77) 49 25 74 P
+(Web Programming Lab.  - 10CSL78) 49 25 74 P
+total= 651
+**
+1rn11cs078
+RANJITHA T.G. sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 50 25 75 P
+(C# Programming & .Net  - 10CS761) 57 25 82 P
+(Embedded Computing Systems  - 10CS72) 59 25 84 P
+(Programming the Web  - 10CS73) 59 25 84 P
+(Java & J2EE  - 10CS753) 60 25 85 P
+(Advanced Computer Architectures  - 10CS74) 69 21 90 P
+(Networks Lab.  - 10CSL77) 48 25 73 P
+(Web Programming Lab.  - 10CSL78) 48 25 73 P
+total= 646
+**
+1rn11cs079
+RASHMI .C sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 43 25 68 P
+(C# Programming & .Net  - 10CS761) 47 25 72 P
+(Embedded Computing Systems  - 10CS72) 51 23 74 P
+(Programming the Web  - 10CS73) 50 24 74 P
+(Java & J2EE  - 10CS753) 52 24 76 P
+(Advanced Computer Architectures  - 10CS74) 57 21 78 P
+(Networks Lab.  - 10CSL77) 45 25 70 P
+(Web Programming Lab.  - 10CSL78) 42 25 67 P
+total= 579
+**
+1rn11cs080
+RASHMI JAISWAL sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 55 25 80 P
+(C# Programming & .Net  - 10CS761) 50 24 74 P
+(Embedded Computing Systems  - 10CS72) 58 23 81 P
+(Programming the Web  - 10CS73) 62 23 85 P
+(Java & J2EE  - 10CS753) 55 25 80 P
+(Advanced Computer Architectures  - 10CS74) 64 25 89 P
+(Networks Lab.  - 10CSL77) 42 25 67 P
+(Web Programming Lab.  - 10CSL78) 47 25 72 P
+total= 630
+**
+1rn11cs081
+RASHMI M R sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 60 25 85 P
+(C# Programming & .Net  - 10CS761) 68 25 93 P
+(Embedded Computing Systems  - 10CS72) 66 25 91 P
+(Programming the Web  - 10CS73) 68 25 93 P
+(Java & J2EE  - 10CS753) 54 25 79 P
+(Advanced Computer Architectures  - 10CS74) 72 23 95 P
+(Networks Lab.  - 10CSL77) 47 25 72 P
+(Web Programming Lab.  - 10CSL78) 48 25 73 P
+total= 681
+**
+1rn11cs082
+RISHABH KUMAR sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 43 24 67 P
+(C# Programming & .Net  - 10CS761) 54 25 79 P
+(Embedded Computing Systems  - 10CS72) 48 21 69 P
+(Programming the Web  - 10CS73) 46 23 69 P
+(Java & J2EE  - 10CS753) 44 25 69 P
+(Advanced Computer Architectures  - 10CS74) 47 19 66 P
+(Networks Lab.  - 10CSL77) 45 25 70 P
+(Web Programming Lab.  - 10CSL78) 48 24 72 P
+total= 561
+**
+1rn11cs084
+RITESH BHAT sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 50 25 75 P
+(C# Programming & .Net  - 10CS761) 53 25 78 P
+(Embedded Computing Systems  - 10CS72) 69 25 94 P
+(Programming the Web  - 10CS73) 61 25 86 P
+(Java & J2EE  - 10CS753) 60 25 85 P
+(Advanced Computer Architectures  - 10CS74) 74 25 99 P
+(Networks Lab.  - 10CSL77) 47 25 72 P
+(Web Programming Lab.  - 10CSL78) 48 25 73 P
+total= 662
+**
+1rn11cs085
+ROHITH R sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 45 24 69 P
+(C# Programming & .Net  - 10CS761) 41 18 59 P
+(Embedded Computing Systems  - 10CS72) 35 24 59 P
+(Programming the Web  - 10CS73) 40 22 62 P
+(Java & J2EE  - 10CS753) 57 23 80 P
+(Advanced Computer Architectures  - 10CS74) 54 21 75 P
+(Networks Lab.  - 10CSL77) 42 25 67 P
+(Web Programming Lab.  - 10CSL78) 47 24 71 P
+total= 542
+**
+1rn11cs086
+S HARSHITHA sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 47 23 70 P
+(C# Programming & .Net  - 10CS761) 47 21 68 P
+(Embedded Computing Systems  - 10CS72) 42 21 63 P
+(Programming the Web  - 10CS73) 50 23 73 P
+(Java & J2EE  - 10CS753) 43 22 65 P
+(Advanced Computer Architectures  - 10CS74) 50 21 71 P
+(Networks Lab.  - 10CSL77) 47 25 72 P
+(Web Programming Lab.  - 10CSL78) 46 25 71 P
+total= 553
+**
+1rn11cs087
+S.SWETHA sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 59 22 81 P
+(C# Programming & .Net  - 10CS761) 48 25 73 P
+(Embedded Computing Systems  - 10CS72) 45 23 68 P
+(Programming the Web  - 10CS73) 47 21 68 P
+(Java & J2EE  - 10CS753) 43 25 68 P
+(Advanced Computer Architectures  - 10CS74) 43 22 65 P
+(Networks Lab.  - 10CSL77) 44 25 69 P
+(Web Programming Lab.  - 10CSL78) 35 25 60 P
+total= 552
+**
+1rn11cs089
+SAKET SINHA sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 56 22 78 P
+(C# Programming & .Net  - 10CS761) 36 22 58 P
+(Embedded Computing Systems  - 10CS72) 56 24 80 P
+(Programming the Web  - 10CS73) 49 22 71 P
+(Java & J2EE  - 10CS753) 48 25 73 P
+(Advanced Computer Architectures  - 10CS74) 45 23 68 P
+(Networks Lab.  - 10CSL77) 41 25 66 P
+(Web Programming Lab.  - 10CSL78) 43 25 68 P
+total= 562
+**
+1rn11cs090
+SAMYAK S TELSANG sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 47 25 72 P
+(C# Programming & .Net  - 10CS761) 55 25 80 P
+(Embedded Computing Systems  - 10CS72) 47 25 72 P
+(Programming the Web  - 10CS73) 61 25 86 P
+(Java & J2EE  - 10CS753) 54 25 79 P
+(Advanced Computer Architectures  - 10CS74) 50 25 75 P
+(Networks Lab.  - 10CSL77) 42 25 67 P
+(Web Programming Lab.  - 10CSL78) 49 25 74 P
+total= 605
+**
+1rn11cs091
+SANDEEP D HEGDE sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 60 25 85 P
+(C# Programming & .Net  - 10CS761) 63 25 88 P
+(Embedded Computing Systems  - 10CS72) 61 25 86 P
+(Programming the Web  - 10CS73) 58 25 83 P
+(Java & J2EE  - 10CS753) 45 25 70 P
+(Advanced Computer Architectures  - 10CS74) 46 22 68 P
+(Networks Lab.  - 10CSL77) 47 25 72 P
+(Web Programming Lab.  - 10CSL78) 46 25 71 P
+total= 623
+**
+1rn11cs092
+SANJANA S N sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 80 25 105 P
+(C# Programming & .Net  - 10CS761) 78 25 103 P
+(Embedded Computing Systems  - 10CS72) 66 25 91 P
+(Programming the Web  - 10CS73) 58 25 83 P
+(Java & J2EE  - 10CS753) 57 25 82 P
+(Advanced Computer Architectures  - 10CS74) 68 25 93 P
+(Networks Lab.  - 10CSL77) 48 25 73 P
+(Web Programming Lab.  - 10CSL78) 49 25 74 P
+total= 704
+**
+1rn11cs093
+SANJAY T R sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 41 23 64 P
+(C# Programming & .Net  - 10CS761) 56 21 77 P
+(Embedded Computing Systems  - 10CS72) 56 24 80 P
+(Programming the Web  - 10CS73) 37 23 60 P
+(Java & J2EE  - 10CS753) 52 24 76 P
+(Advanced Computer Architectures  - 10CS74) 44 17 61 P
+(Networks Lab.  - 10CSL77) 43 21 64 P
+(Web Programming Lab.  - 10CSL78) 35 24 59 P
+total= 541
+**
+1rn11cs095
+SHEELA.P sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 53 25 78 P
+(C# Programming & .Net  - 10CS761) 47 25 72 P
+(Embedded Computing Systems  - 10CS72) 53 24 77 P
+(Programming the Web  - 10CS73) 48 25 73 P
+(Java & J2EE  - 10CS753) 44 25 69 P
+(Advanced Computer Architectures  - 10CS74) 41 23 64 P
+(Networks Lab.  - 10CSL77) 48 25 73 P
+(Web Programming Lab.  - 10CSL78) 35 25 60 P
+total= 566
+**
+1rn11cs096
+SHEETHAL GUPTA BU sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 64 23 87 P
+(C# Programming & .Net  - 10CS761) 63 24 87 P
+(Embedded Computing Systems  - 10CS72) 62 22 84 P
+(Programming the Web  - 10CS73) 52 23 75 P
+(Java & J2EE  - 10CS753) 54 25 79 P
+(Advanced Computer Architectures  - 10CS74) 51 24 75 P
+(Networks Lab.  - 10CSL77) 48 24 72 P
+(Web Programming Lab.  - 10CSL78) 49 25 74 P
+total= 633
+**
+1rn11cs097
+SHREESHA AITHAL sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 55 25 80 P
+(C# Programming & .Net  - 10CS761) 43 22 65 P
+(Embedded Computing Systems  - 10CS72) 55 24 79 P
+(Programming the Web  - 10CS73) 51 24 75 P
+(Java & J2EE  - 10CS753) 56 25 81 P
+(Advanced Computer Architectures  - 10CS74) 38 23 61 P
+(Networks Lab.  - 10CSL77) 44 24 68 P
+(Web Programming Lab.  - 10CSL78) 43 25 68 P
+total= 577
+**
+1rn11cs098
+SHREYA SHASHANK sem: 7 Result: SC
+(Object-Oriented Modeling & Design  - 10CS71) 45 23 68 P
+(C# Programming & .Net  - 10CS761) 37 24 61 P
+(Embedded Computing Systems  - 10CS72) 59 22 81 P
+(Programming the Web  - 10CS73) 40 21 61 P
+(Java & J2EE  - 10CS753) 35 25 60 P
+(Advanced Computer Architectures  - 10CS74) 37 25 62 P
+(Networks Lab.  - 10CSL77) 35 25 60 P
+(Web Programming Lab.  - 10CSL78) 44 25 69 P
+total= 522
+**
+1rn11cs099
+SHREYAS.S.BHARADWAJ sem: 7 Result: SC
+(Object-Oriented Modeling & Design  - 10CS71) 35 22 57 P
+(C# Programming & .Net  - 10CS761) 42 24 66 P
+(Embedded Computing Systems  - 10CS72) 35 20 55 P
+(Programming the Web  - 10CS73) 48 23 71 P
+(Java & J2EE  - 10CS753) 35 23 58 P
+(Advanced Computer Architectures  - 10CS74) 42 21 63 P
+(Networks Lab.  - 10CSL77) 30 24 54 P
+(Web Programming Lab.  - 10CSL78) 46 25 71 P
+total= 495
+**
+1rn11cs100
+SHRIHARSHA R BHAGWAT sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 67 25 92 P
+(C# Programming & .Net  - 10CS761) 55 25 80 P
+(Embedded Computing Systems  - 10CS72) 56 25 81 P
+(Programming the Web  - 10CS73) 77 24 101 P
+(Java & J2EE  - 10CS753) 76 25 101 P
+(Advanced Computer Architectures  - 10CS74) 65 25 90 P
+(Networks Lab.  - 10CSL77) 43 24 67 P
+(Web Programming Lab.  - 10CSL78) 47 25 72 P
+total= 684
+**
+1rn11cs101
+SHWETHA.K. sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 59 24 83 P
+(C# Programming & .Net  - 10CS761) 49 24 73 P
+(Embedded Computing Systems  - 10CS72) 56 25 81 P
+(Programming the Web  - 10CS73) 70 23 93 P
+(Java & J2EE  - 10CS753) 64 25 89 P
+(Advanced Computer Architectures  - 10CS74) 74 25 99 P
+(Networks Lab.  - 10CSL77) 45 25 70 P
+(Web Programming Lab.  - 10CSL78) 48 25 73 P
+total= 661
+**
+1rn11cs102
+SKANDA N sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 43 25 68 P
+(C# Programming & .Net  - 10CS761) 43 24 67 P
+(Embedded Computing Systems  - 10CS72) 44 24 68 P
+(Programming the Web  - 10CS73) 52 22 74 P
+(Java & J2EE  - 10CS753) 51 22 73 P
+(Advanced Computer Architectures  - 10CS74) 49 22 71 P
+(Networks Lab.  - 10CSL77) 44 25 69 P
+(Web Programming Lab.  - 10CSL78) 41 25 66 P
+total= 556
+**
+1rn11cs103
+SNEHA SRINIVAS GAURAV sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 59 24 83 P
+(C# Programming & .Net  - 10CS761) 39 24 63 P
+(Embedded Computing Systems  - 10CS72) 43 25 68 P
+(Programming the Web  - 10CS73) 67 24 91 P
+(Java & J2EE  - 10CS753) 55 25 80 P
+(Advanced Computer Architectures  - 10CS74) 65 22 87 P
+(Networks Lab.  - 10CSL77) 28 24 52 P
+(Web Programming Lab.  - 10CSL78) 40 24 64 P
+total= 588
+**
+1rn11cs104
+SNEHAL SURENDRA DESAI sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 75 25 100 P
+(C# Programming & .Net  - 10CS761) 67 24 91 P
+(Embedded Computing Systems  - 10CS72) 54 25 79 P
+(Programming the Web  - 10CS73) 80 24 104 P
+(Java & J2EE  - 10CS753) 72 25 97 P
+(Advanced Computer Architectures  - 10CS74) 73 25 98 P
+(Networks Lab.  - 10CSL77) 48 25 73 P
+(Web Programming Lab.  - 10CSL78) 47 25 72 P
+total= 714
+**
+1rn11cs105
+SOURAV GHOSH sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 56 23 79 P
+(C# Programming & .Net  - 10CS761) 45 25 70 P
+(Embedded Computing Systems  - 10CS72) 43 23 66 P
+(Programming the Web  - 10CS73) 72 23 95 P
+(Java & J2EE  - 10CS753) 47 25 72 P
+(Advanced Computer Architectures  - 10CS74) 56 22 78 P
+(Networks Lab.  - 10CSL77) 41 23 64 P
+(Web Programming Lab.  - 10CSL78) 40 24 64 P
+total= 588
+**
+1rn11cs106
+SUBHASHINI NARESH sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 54 25 79 P
+(C# Programming & .Net  - 10CS761) 52 23 75 P
+(Embedded Computing Systems  - 10CS72) 51 25 76 P
+(Programming the Web  - 10CS73) 65 24 89 P
+(Java & J2EE  - 10CS753) 70 24 94 P
+(Advanced Computer Architectures  - 10CS74) 64 21 85 P
+(Networks Lab.  - 10CSL77) 44 25 69 P
+(Web Programming Lab.  - 10CSL78) 41 25 66 P
+total= 633
+**
+1rn11cs108
+SUMEET KUMAR SHRIVASTAVA sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 54 24 78 P
+(C# Programming & .Net  - 10CS761) 44 24 68 P
+(Embedded Computing Systems  - 10CS72) 36 24 60 P
+(Programming the Web  - 10CS73) 48 23 71 P
+(Java & J2EE  - 10CS753) 57 24 81 P
+(Advanced Computer Architectures  - 10CS74) 64 22 86 P
+(Networks Lab.  - 10CSL77) 42 25 67 P
+(Web Programming Lab.  - 10CSL78) 44 25 69 P
+total= 580
+**
+1rn11cs109
+SUNIL sem: 7 Result: SC
+(Object-Oriented Modeling & Design  - 10CS71) 47 17 64 P
+(C# Programming & .Net  - 10CS761) 37 13 50 P
+(Embedded Computing Systems  - 10CS72) 47 22 69 P
+(Programming the Web  - 10CS73) 43 18 61 P
+(Java & J2EE  - 10CS753) 38 23 61 P
+(Advanced Computer Architectures  - 10CS74) 52 19 71 P
+(Networks Lab.  - 10CSL77) 30 20 50 P
+(Web Programming Lab.  - 10CSL78) 42 22 64 P
+total= 490
+**
+1rn11cs110
+SWATI HEGDE sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 47 24 71 P
+(C# Programming & .Net  - 10CS761) 35 22 57 P
+(Embedded Computing Systems  - 10CS72) 52 24 76 P
+(Programming the Web  - 10CS73) 45 22 67 P
+(Java & J2EE  - 10CS753) 63 24 87 P
+(Advanced Computer Architectures  - 10CS74) 63 22 85 P
+(Networks Lab.  - 10CSL77) 28 23 51 P
+(Web Programming Lab.  - 10CSL78) 24 23 47 P
+total= 541
+**
+1rn11cs111
+TALLURI MEHER SHIVESH sem: 7 Result: FAIL
+(Object-Oriented Modeling & Design  - 10CS71) 52 20 72 P
+(C# Programming & .Net  - 10CS761) 35 18 53 P
+(Embedded Computing Systems  - 10CS72) 44 20 64 P
+(Programming the Web  - 10CS73) 36 20 56 P
+(Java & J2EE  - 10CS753) 36 20 56 P
+(Advanced Computer Architectures  - 10CS74) 26 18 44 F
+(Networks Lab.  - 10CSL77) 22 20 42 P
+(Web Programming Lab.  - 10CSL78) 29 21 50 P
+total= 437
+**
+1rn11cs114
+UTTHAM H sem: 7 Result: SC
+(Object-Oriented Modeling & Design  - 10CS71) 57 21 78 P
+(C# Programming & .Net  - 10CS761) 42 20 62 P
+(Embedded Computing Systems  - 10CS72) 54 20 74 P
+(Programming the Web  - 10CS73) 43 22 65 P
+(Java & J2EE  - 10CS753) 38 20 58 P
+(Advanced Computer Architectures  - 10CS74) 46 19 65 P
+(Networks Lab.  - 10CSL77) 25 20 45 P
+(Web Programming Lab.  - 10CSL78) 47 23 70 P
+total= 517
+**
+1rn11cs115
+UZMA NAAZ sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 65 23 88 P
+(C# Programming & .Net  - 10CS761) 52 24 76 P
+(Embedded Computing Systems  - 10CS72) 66 25 91 P
+(Programming the Web  - 10CS73) 53 25 78 P
+(Java & J2EE  - 10CS753) 58 25 83 P
+(Advanced Computer Architectures  - 10CS74) 48 25 73 P
+(Networks Lab.  - 10CSL77) 45 24 69 P
+(Web Programming Lab.  - 10CSL78) 47 25 72 P
+total= 630
+**
+1rn11cs116
+VAIBHAV SRIVASTAVA sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 57 25 82 P
+(C# Programming & .Net  - 10CS761) 47 23 70 P
+(Embedded Computing Systems  - 10CS72) 74 25 99 P
+(Programming the Web  - 10CS73) 57 23 80 P
+(Java & J2EE  - 10CS753) 66 25 91 P
+(Advanced Computer Architectures  - 10CS74) 51 23 74 P
+(Networks Lab.  - 10CSL77) 42 23 65 P
+(Web Programming Lab.  - 10CSL78) 49 25 74 P
+total= 635
+**
+1rn11cs117
+VIBHA HR sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 54 23 77 P
+(C# Programming & .Net  - 10CS761) 49 25 74 P
+(Embedded Computing Systems  - 10CS72) 60 25 85 P
+(Programming the Web  - 10CS73) 55 24 79 P
+(Java & J2EE  - 10CS753) 66 24 90 P
+(Advanced Computer Architectures  - 10CS74) 52 23 75 P
+(Networks Lab.  - 10CSL77) 41 23 64 P
+(Web Programming Lab.  - 10CSL78) 22 25 47 P
+total= 591
+**
+1rn11cs118
+VIDYA M sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 44 25 69 P
+(C# Programming & .Net  - 10CS761) 35 23 58 P
+(Embedded Computing Systems  - 10CS72) 54 25 79 P
+(Programming the Web  - 10CS73) 56 23 79 P
+(Java & J2EE  - 10CS753) 38 24 62 P
+(Advanced Computer Architectures  - 10CS74) 55 19 74 P
+(Networks Lab.  - 10CSL77) 40 24 64 P
+(Web Programming Lab.  - 10CSL78) 43 25 68 P
+total= 553
+**
+1rn11cs119
+VIGNESH KUDVA P sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 55 25 80 P
+(C# Programming & .Net  - 10CS761) 50 25 75 P
+(Embedded Computing Systems  - 10CS72) 60 25 85 P
+(Programming the Web  - 10CS73) 54 23 77 P
+(Java & J2EE  - 10CS753) 46 25 71 P
+(Advanced Computer Architectures  - 10CS74) 36 23 59 P
+(Networks Lab.  - 10CSL77) 48 25 73 P
+(Web Programming Lab.  - 10CSL78) 49 25 74 P
+total= 594
+**
+1rn11cs120
+VIJETHA P.V sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 76 23 99 P
+(C# Programming & .Net  - 10CS761) 70 25 95 P
+(Embedded Computing Systems  - 10CS72) 75 25 100 P
+(Programming the Web  - 10CS73) 62 25 87 P
+(Java & J2EE  - 10CS753) 76 25 101 P
+(Advanced Computer Architectures  - 10CS74) 52 21 73 P
+(Networks Lab.  - 10CSL77) 49 25 74 P
+(Web Programming Lab.  - 10CSL78) 49 25 74 P
+total= 703
+**
+1rn11cs121
+VIKRAM GOPALI sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 78 25 103 P
+(C# Programming & .Net  - 10CS761) 73 25 98 P
+(Embedded Computing Systems  - 10CS72) 62 25 87 P
+(Programming the Web  - 10CS73) 72 25 97 P
+(Java & J2EE  - 10CS753) 61 25 86 P
+(Advanced Computer Architectures  - 10CS74) 55 24 79 P
+(Networks Lab.  - 10CSL77) 39 25 64 P
+(Web Programming Lab.  - 10CSL78) 49 25 74 P
+total= 688
+**
+1rn11cs122
+VINAYA KRISHNA P sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 60 24 84 P
+(C# Programming & .Net  - 10CS761) 55 22 77 P
+(Embedded Computing Systems  - 10CS72) 56 23 79 P
+(Programming the Web  - 10CS73) 72 22 94 P
+(Java & J2EE  - 10CS753) 43 25 68 P
+(Advanced Computer Architectures  - 10CS74) 50 19 69 P
+(Networks Lab.  - 10CSL77) 22 24 46 P
+(Web Programming Lab.  - 10CSL78) 25 25 50 P
+total= 567
+**
+1rn11cs123
+VISHAL BAJAJ sem: 7 Result: FAIL
+(Object-Oriented Modeling & Design  - 10CS71) 35 25 60 P
+(C# Programming & .Net  - 10CS761) 15 23 38 F
+(Embedded Computing Systems  - 10CS72) 39 25 64 P
+(Programming the Web  - 10CS73) 47 23 70 P
+(Java & J2EE  - 10CS753) 45 25 70 P
+(Advanced Computer Architectures  - 10CS74) 50 23 73 P
+(Networks Lab.  - 10CSL77) 37 24 61 P
+(Web Programming Lab.  - 10CSL78) 46 25 71 P
+total= 507
+**
+1rn11cs124
+VISHWANATHA sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 62 25 87 P
+(C# Programming & .Net  - 10CS761) 59 24 83 P
+(Embedded Computing Systems  - 10CS72) 64 25 89 P
+(Programming the Web  - 10CS73) 62 24 86 P
+(Java & J2EE  - 10CS753) 62 25 87 P
+(Advanced Computer Architectures  - 10CS74) 45 24 69 P
+(Networks Lab.  - 10CSL77) 43 25 68 P
+(Web Programming Lab.  - 10CSL78) 46 25 71 P
+total= 640
+**
+1rn11cs125
+VISHWAS S R sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 64 25 89 P
+(C# Programming & .Net  - 10CS761) 60 23 83 P
+(Embedded Computing Systems  - 10CS72) 56 24 80 P
+(Programming the Web  - 10CS73) 73 25 98 P
+(Java & J2EE  - 10CS753) 59 25 84 P
+(Advanced Computer Architectures  - 10CS74) 61 24 85 P
+(Networks Lab.  - 10CSL77) 35 25 60 P
+(Web Programming Lab.  - 10CSL78) 45 25 70 P
+total= 649
+**
+1rn11cs126
+YESHWANTH PAL M sem: 7 Result: FAIL
+(Object-Oriented Modeling & Design  - 10CS71) 35 22 57 P
+(C# Programming & .Net  - 10CS761) 23 17 40 F
+(Embedded Computing Systems  - 10CS72) 22 20 42 F
+(Programming the Web  - 10CS73) 43 21 64 P
+(Java & J2EE  - 10CS753) 20 20 40 F
+(Advanced Computer Architectures  - 10CS74) 35 22 57 P
+(Networks Lab.  - 10CSL77) 35 21 56 P
+(Web Programming Lab.  - 10CSL78) 23 25 48 P
+total= 404
+**
+1rn11cs128
+JENY JASMINE sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 60 25 85 P
+(C# Programming & .Net  - 10CS761) 60 25 85 P
+(Embedded Computing Systems  - 10CS72) 60 25 85 P
+(Programming the Web  - 10CS73) 67 24 91 P
+(Java & J2EE  - 10CS753) 56 25 81 P
+(Advanced Computer Architectures  - 10CS74) 63 23 86 P
+(Networks Lab.  - 10CSL77) 47 25 72 P
+(Web Programming Lab.  - 10CSL78) 46 25 71 P
+total= 656
+**
+1rn11cs129
+GAGANASHREE.B sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 52 23 75 P
+(C# Programming & .Net  - 10CS761) 55 24 79 P
+(Embedded Computing Systems  - 10CS72) 50 24 74 P
+(Programming the Web  - 10CS73) 69 24 93 P
+(Java & J2EE  - 10CS753) 54 25 79 P
+(Advanced Computer Architectures  - 10CS74) 63 20 83 P
+(Networks Lab.  - 10CSL77) 49 25 74 P
+(Web Programming Lab.  - 10CSL78) 45 25 70 P
+total= 630
+**
+1rn11cs130
+MANOJ PRABHAKAR.N sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 46 25 71 P
+(C# Programming & .Net  - 10CS761) 65 25 90 P
+(Embedded Computing Systems  - 10CS72) 46 25 71 P
+(Programming the Web  - 10CS73) 69 23 92 P
+(Java & J2EE  - 10CS753) 70 23 93 P
+(Advanced Computer Architectures  - 10CS74) 55 22 77 P
+(Networks Lab.  - 10CSL77) 45 20 65 P
+(Web Programming Lab.  - 10CSL78) 47 25 72 P
+total= 631
+**
+1rn11cs131
+AISHWARYA ASHOK SHETTY sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 70 24 94 P
+(C# Programming & .Net  - 10CS761) 53 25 78 P
+(Embedded Computing Systems  - 10CS72) 62 25 87 P
+(Programming the Web  - 10CS73) 65 25 90 P
+(Java & J2EE  - 10CS753) 51 25 76 P
+(Advanced Computer Architectures  - 10CS74) 51 22 73 P
+(Networks Lab.  - 10CSL77) 45 25 70 P
+(Web Programming Lab.  - 10CSL78) 45 25 70 P
+total= 638
+**
+1rn11cs132
+SURBHI RAJGARHIA sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 75 24 99 P
+(C# Programming & .Net  - 10CS761) 57 25 82 P
+(Embedded Computing Systems  - 10CS72) 65 24 89 P
+(Programming the Web  - 10CS73) 69 23 92 P
+(Java & J2EE  - 10CS753) 57 24 81 P
+(Advanced Computer Architectures  - 10CS74) 74 23 97 P
+(Networks Lab.  - 10CSL77) 44 23 67 P
+(Web Programming Lab.  - 10CSL78) 44 25 69 P
+total= 676
+**
+1rn11cs133
+ABHISHEK SP sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 66 25 91 P
+(C# Programming & .Net  - 10CS761) 60 25 85 P
+(Embedded Computing Systems  - 10CS72) 63 25 88 P
+(Programming the Web  - 10CS73) 74 25 99 P
+(Java & J2EE  - 10CS753) 50 25 75 P
+(Advanced Computer Architectures  - 10CS74) 48 22 70 P
+(Networks Lab.  - 10CSL77) 46 25 71 P
+(Web Programming Lab.  - 10CSL78) 49 25 74 P
+total= 653
+**
+1rn11cs134
+MANISHA SHARMA sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 59 25 84 P
+(C# Programming & .Net  - 10CS761) 57 25 82 P
+(Embedded Computing Systems  - 10CS72) 68 25 93 P
+(Programming the Web  - 10CS73) 63 24 87 P
+(Java & J2EE  - 10CS753) 56 25 81 P
+(Advanced Computer Architectures  - 10CS74) 65 24 89 P
+(Networks Lab.  - 10CSL77) 42 25 67 P
+(Web Programming Lab.  - 10CSL78) 44 25 69 P
+total= 652
+**
+1rn11cs135
+RUHI KUMARI sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 55 25 80 P
+(C# Programming & .Net  - 10CS761) 39 24 63 P
+(Embedded Computing Systems  - 10CS72) 52 25 77 P
+(Programming the Web  - 10CS73) 54 24 78 P
+(Java & J2EE  - 10CS753) 66 25 91 P
+(Advanced Computer Architectures  - 10CS74) 40 22 62 P
+(Networks Lab.  - 10CSL77) 41 25 66 P
+(Web Programming Lab.  - 10CSL78) 35 25 60 P
+total= 577
+**
+1rn11cs136
+PUNEETH KUMAR P sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 38 25 63 P
+(C# Programming & .Net  - 10CS761) 57 23 80 P
+(Embedded Computing Systems  - 10CS72) 55 22 77 P
+(Programming the Web  - 10CS73) 40 20 60 P
+(Java & J2EE  - 10CS753) 60 25 85 P
+(Advanced Computer Architectures  - 10CS74) 54 25 79 P
+(Networks Lab.  - 10CSL77) 41 25 66 P
+(Web Programming Lab.  - 10CSL78) 22 25 47 P
+total= 557
+**
+1rn11cs137
+VASISHTA P SHASTRY sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 56 20 76 P
+(C# Programming & .Net  - 10CS761) 50 19 69 P
+(Embedded Computing Systems  - 10CS72) 56 22 78 P
+(Programming the Web  - 10CS73) 64 23 87 P
+(Java & J2EE  - 10CS753) 44 23 67 P
+(Advanced Computer Architectures  - 10CS74) 53 17 70 P
+(Networks Lab.  - 10CSL77) 30 25 55 P
+(Web Programming Lab.  - 10CSL78) 45 25 70 P
+total= 572
+**
+1rn11cs138
+MOHAN R sem: 7 Result: SC
+(Object-Oriented Modeling & Design  - 10CS71) 46 25 71 P
+(C# Programming & .Net  - 10CS761) 47 18 65 P
+(Embedded Computing Systems  - 10CS72) 44 24 68 P
+(Programming the Web  - 10CS73) 36 24 60 P
+(Java & J2EE  - 10CS753) 46 25 71 P
+(Advanced Computer Architectures  - 10CS74) 50 24 74 P
+(Networks Lab.  - 10CSL77) 35 23 58 P
+(Web Programming Lab.  - 10CSL78) 41 25 66 P
+total= 533
+**
+1rn11cs139
+PRIYANKA .S sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 77 23 100 P
+(C# Programming & .Net  - 10CS761) 58 19 77 P
+(Embedded Computing Systems  - 10CS72) 59 22 81 P
+(Programming the Web  - 10CS73) 57 25 82 P
+(Java & J2EE  - 10CS753) 52 25 77 P
+(Advanced Computer Architectures  - 10CS74) 56 22 78 P
+(Networks Lab.  - 10CSL77) 40 22 62 P
+(Web Programming Lab.  - 10CSL78) 49 25 74 P
+total= 631
+**
+1rn11cs140
+PRIYANKA DHANKAR sem: 7 Result: SC
+(Object-Oriented Modeling & Design  - 10CS71) 46 24 70 P
+(C# Programming & .Net  - 10CS761) 40 17 57 P
+(Embedded Computing Systems  - 10CS72) 36 23 59 P
+(Programming the Web  - 10CS73) 41 25 66 P
+(Java & J2EE  - 10CS753) 39 17 56 P
+(Advanced Computer Architectures  - 10CS74) 45 17 62 P
+(Networks Lab.  - 10CSL77) 30 21 51 P
+(Web Programming Lab.  - 10CSL78) 30 25 55 P
+total= 476
+**
+1rn11cs141
+CHETHAN B N sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 52 24 76 P
+(C# Programming & .Net  - 10CS761) 35 25 60 P
+(Embedded Computing Systems  - 10CS72) 40 24 64 P
+(Programming the Web  - 10CS73) 60 23 83 P
+(Java & J2EE  - 10CS753) 39 25 64 P
+(Advanced Computer Architectures  - 10CS74) 50 25 75 P
+(Networks Lab.  - 10CSL77) 35 20 55 P
+(Web Programming Lab.  - 10CSL78) 40 24 64 P
+total= 541
+**
+1rn12cs400
+ABDUL KHAYUM sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 55 25 80 P
+(C# Programming & .Net  - 10CS761) 56 19 75 P
+(Embedded Computing Systems  - 10CS72) 53 24 77 P
+(Programming the Web  - 10CS73) 57 25 82 P
+(Java & J2EE  - 10CS753) 51 22 73 P
+(Advanced Computer Architectures  - 10CS74) 54 22 76 P
+(Networks Lab.  - 10CSL77) 42 20 62 P
+(Web Programming Lab.  - 10CSL78) 47 25 72 P
+total= 597
+**
+1rn12cs401
+ABHISHEK C BAGEWADI sem: 7 Result: SC
+(Object-Oriented Modeling & Design  - 10CS71) 44 24 68 P
+(C# Programming & .Net  - 10CS761) 45 15 60 P
+(Embedded Computing Systems  - 10CS72) 65 21 86 P
+(Java & J2EE  - 10CS753) 46 23 69 P
+(Programming the Web  - 10CS73) 50 23 73 P
+(Advanced Computer Architectures  - 10CS74) 35 17 52 P
+(Networks Lab.  - 10CSL77) 28 23 51 P
+(Web Programming Lab.  - 10CSL78) 20 25 45 P
+total= 504
+**
+1rn12cs402
+ARUNA.A sem: 7 Result: FAIL
+(Object-Oriented Modeling & Design  - 10CS71) 35 23 58 P
+(C# Programming & .Net  - 10CS761) 19 15 34 F
+(Embedded Computing Systems  - 10CS72) 27 22 49 F
+(Programming the Web  - 10CS73) 35 22 57 P
+(Java & J2EE  - 10CS753) 37 21 58 P
+(Advanced Computer Architectures  - 10CS74) 46 20 66 P
+(Networks Lab.  - 10CSL77) 30 24 54 P
+(Web Programming Lab.  - 10CSL78) 34 24 58 P
+total= 434
+**
+1rn12cs403
+AYSHWARYA SHIRLEY PAUL M sem: 7 Result: FAIL
+(Object-Oriented Modeling & Design  - 10CS71) 53 23 76 P
+(C# Programming & .Net  - 10CS761) 29 15 44 F
+(Embedded Computing Systems  - 10CS72) 45 19 64 P
+(Java & J2EE  - 10CS753) 39 15 54 P
+(Programming the Web  - 10CS73) 39 23 62 P
+(Advanced Computer Architectures  - 10CS74) 49 15 64 P
+(Networks Lab.  - 10CSL77) 30 25 55 P
+(Web Programming Lab.  - 10CSL78) 37 24 61 P
+total= 480
+**
+1rn12cs405
+DEEPIKA K sem: 7 Result: SC
+(Object-Oriented Modeling & Design  - 10CS71) 41 25 66 P
+(C# Programming & .Net  - 10CS761) 39 17 56 P
+(Embedded Computing Systems  - 10CS72) 38 19 57 P
+(Programming the Web  - 10CS73) 50 23 73 P
+(Java & J2EE  - 10CS753) 35 22 57 P
+(Advanced Computer Architectures  - 10CS74) 58 16 74 P
+(Networks Lab.  - 10CSL77) 35 22 57 P
+(Web Programming Lab.  - 10CSL78) 44 25 69 P
+total= 509
+**
+1rn12cs406
+HARINI.M sem: 7 Result: SC
+(Object-Oriented Modeling & Design  - 10CS71) 35 24 59 P
+(C# Programming & .Net  - 10CS761) 35 18 53 P
+(Embedded Computing Systems  - 10CS72) 44 23 67 P
+(Java & J2EE  - 10CS753) 59 23 82 P
+(Programming the Web  - 10CS73) 53 25 78 P
+(Advanced Computer Architectures  - 10CS74) 42 20 62 P
+(Networks Lab.  - 10CSL77) 30 22 52 P
+(Web Programming Lab.  - 10CSL78) 44 25 69 P
+total= 522
+**
+1rn12cs407
+JAGADISH K M sem: 7 Result: SC
+(Object-Oriented Modeling & Design  - 10CS71) 35 17 52 P
+(C# Programming & .Net  - 10CS761) 35 15 50 P
+(Embedded Computing Systems  - 10CS72) 48 18 66 P
+(Java & J2EE  - 10CS753) 55 20 75 P
+(Programming the Web  - 10CS73) 42 20 62 P
+(Advanced Computer Architectures  - 10CS74) 40 16 56 P
+(Networks Lab.  - 10CSL77) 25 22 47 P
+(Web Programming Lab.  - 10CSL78) 46 25 71 P
+total= 479
+**
+1rn12cs408
+KIRAN RAJ D S sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 57 24 81 P
+(C# Programming & .Net  - 10CS761) 36 19 55 P
+(Embedded Computing Systems  - 10CS72) 58 23 81 P
+(Programming the Web  - 10CS73) 57 25 82 P
+(Java & J2EE  - 10CS753) 55 20 75 P
+(Advanced Computer Architectures  - 10CS74) 36 24 60 P
+(Networks Lab.  - 10CSL77) 45 22 67 P
+(Web Programming Lab.  - 10CSL78) 44 25 69 P
+total= 570
+**
+1rn12cs409
+LINGARAJ G C sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 49 25 74 P
+(C# Programming & .Net  - 10CS761) 43 20 63 P
+(Embedded Computing Systems  - 10CS72) 60 21 81 P
+(Programming the Web  - 10CS73) 56 25 81 P
+(Java & J2EE  - 10CS753) 53 20 73 P
+(Advanced Computer Architectures  - 10CS74) 45 21 66 P
+(Networks Lab.  - 10CSL77) 40 24 64 P
+(Web Programming Lab.  - 10CSL78) 41 25 66 P
+total= 568
+**
+1rn12cs411
+NANDA KUMAR D sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 44 18 62 P
+(C# Programming & .Net  - 10CS761) 60 24 84 P
+(Embedded Computing Systems  - 10CS72) 39 22 61 P
+(Java & J2EE  - 10CS753) 51 24 75 P
+(Programming the Web  - 10CS73) 73 18 91 P
+(Advanced Computer Architectures  - 10CS74) 40 20 60 P
+(Networks Lab.  - 10CSL77) 40 23 63 P
+(Web Programming Lab.  - 10CSL78) 50 24 74 P
+total= 19
+**
+1rn12cs412
+NITHIN B R sem: 7 Result: SC
+(Object-Oriented Modeling & Design  - 10CS71) 35 25 60 P
+(C# Programming & .Net  - 10CS761) 37 19 56 P
+(Embedded Computing Systems  - 10CS72) 69 23 92 P
+(Programming the Web  - 10CS73) 47 20 67 P
+(Java & J2EE  - 10CS753) 41 24 65 P
+(Advanced Computer Architectures  - 10CS74) 39 22 61 P
+(Networks Lab.  - 10CSL77) 45 25 70 P
+(Web Programming Lab.  - 10CSL78) 38 24 62 P
+total= 533
+**
+1rn12cs413
+PRASHANTH B R sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 40 24 64 P
+(C# Programming & .Net  - 10CS761) 48 24 72 P
+(Embedded Computing Systems  - 10CS72) 62 24 86 P
+(Programming the Web  - 10CS73) 62 23 85 P
+(Java & J2EE  - 10CS753) 55 24 79 P
+(Advanced Computer Architectures  - 10CS74) 48 23 71 P
+(Networks Lab.  - 10CSL77) 38 22 60 P
+(Web Programming Lab.  - 10CSL78) 49 25 74 P
+total= 591
+**
+1rn12cs414
+RAJANI DODDAMANI sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 73 25 98 P
+(C# Programming & .Net  - 10CS761) 43 23 66 P
+(Embedded Computing Systems  - 10CS72) 37 25 62 P
+(Programming the Web  - 10CS73) 51 23 74 P
+(Java & J2EE  - 10CS753) 52 25 77 P
+(Advanced Computer Architectures  - 10CS74) 59 23 82 P
+(Networks Lab.  - 10CSL77) 42 25 67 P
+(Web Programming Lab.  - 10CSL78) 48 25 73 P
+total= 599
+**
+1rn12cs415
+RANJITHA R sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 63 25 88 P
+(C# Programming & .Net  - 10CS761) 50 23 73 P
+(Embedded Computing Systems  - 10CS72) 58 25 83 P
+(Programming the Web  - 10CS73) 67 23 90 P
+(Java & J2EE  - 10CS753) 45 25 70 P
+(Advanced Computer Architectures  - 10CS74) 42 23 65 P
+(Networks Lab.  - 10CSL77) 42 25 67 P
+(Web Programming Lab.  - 10CSL78) 45 25 70 P
+total= 606
+**
+1rn12cs416
+RASHMI N sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 66 25 91 P
+(C# Programming & .Net  - 10CS761) 38 20 58 P
+(Embedded Computing Systems  - 10CS72) 66 24 90 P
+(Java & J2EE  - 10CS753) 45 24 69 P
+(Programming the Web  - 10CS73) 52 21 73 P
+(Advanced Computer Architectures  - 10CS74) 37 17 54 P
+(Networks Lab.  - 10CSL77) 41 25 66 P
+(Web Programming Lab.  - 10CSL78) 48 25 73 P
+total= 574
+**
+1rn12cs418
+SAVITA sem: 7 Result: SC
+(Object-Oriented Modeling & Design  - 10CS71) 50 25 75 P
+(C# Programming & .Net  - 10CS761) 37 22 59 P
+(Embedded Computing Systems  - 10CS72) 45 24 69 P
+(Programming the Web  - 10CS73) 52 22 74 P
+(Java & J2EE  - 10CS753) 45 24 69 P
+(Advanced Computer Architectures  - 10CS74) 35 22 57 P
+(Networks Lab.  - 10CSL77) 41 24 65 P
+(Web Programming Lab.  - 10CSL78) 41 25 66 P
+total= 534
+**
+1rn12cs419
+SHIVAKUMAR C PATIL sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 68 24 92 P
+(C# Programming & .Net  - 10CS761) 44 24 68 P
+(Embedded Computing Systems  - 10CS72) 52 24 76 P
+(Programming the Web  - 10CS73) 66 23 89 P
+(Java & J2EE  - 10CS753) 66 25 91 P
+(Advanced Computer Architectures  - 10CS74) 51 23 74 P
+(Networks Lab.  - 10CSL77) 40 24 64 P
+(Web Programming Lab.  - 10CSL78) 46 23 69 P
+total= 623
+**
+1rn12cs420
+SINDHURA T N sem: 7 Result: SC
+(Object-Oriented Modeling & Design  - 10CS71) 62 25 87 P
+(C# Programming & .Net  - 10CS761) 35 19 54 P
+(Embedded Computing Systems  - 10CS72) 46 24 70 P
+(Java & J2EE  - 10CS753) 42 24 66 P
+(Programming the Web  - 10CS73) 52 22 74 P
+(Advanced Computer Architectures  - 10CS74) 47 23 70 P
+(Networks Lab.  - 10CSL77) 30 25 55 P
+(Web Programming Lab.  - 10CSL78) 30 23 53 P
+total= 529
+**
+1rn12cs422
+SUPRIYA sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 67 25 92 P
+(C# Programming & .Net  - 10CS761) 38 22 60 P
+(Embedded Computing Systems  - 10CS72) 55 24 79 P
+(Programming the Web  - 10CS73) 59 23 82 P
+(Java & J2EE  - 10CS753) 45 20 65 P
+(Advanced Computer Architectures  - 10CS74) 43 21 64 P
+(Networks Lab.  - 10CSL77) 44 24 68 P
+(Web Programming Lab.  - 10CSL78) 44 25 69 P
+total= 579
+**
+1rn12cs423
+THUMESH T sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 59 25 84 P
+(C# Programming & .Net  - 10CS761) 42 18 60 P
+(Embedded Computing Systems  - 10CS72) 47 24 71 P
+(Java & J2EE  - 10CS753) 53 20 73 P
+(Programming the Web  - 10CS73) 57 23 80 P
+(Advanced Computer Architectures  - 10CS74) 43 18 61 P
+(Networks Lab.  - 10CSL77) 40 22 62 P
+(Web Programming Lab.  - 10CSL78) 46 25 71 P
+total= 562
+**
+false
+139

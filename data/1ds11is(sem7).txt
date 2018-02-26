@@ -1,0 +1,1490 @@
+1ds11is001
+AARAV CHANDRA sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 54 23 77 P
+(Information Systems  - 10IS72) 62 19 81 P
+(Programming the Web  - 10CS73) 60 17 77 P
+(JAVA & J2EE  - 10IS753) 46 21 67 P
+(Data Warehousing & Data Mining  - 10IS74) 48 24 72 P
+(Storage Area Networks  - 10IS765) 64 20 84 P
+(Networks Lab.  - 10CSL77) 45 21 66 P
+(Web Programming Lab.  - 10CSL78) 46 21 67 P
+total= 591
+**
+1ds11is002
+ABHISHEK sem: 7 Result: SC
+(Object-Oriented Modeling & Design  - 10CS71) 53 15 68 P
+(Information Systems  - 10IS72) 58 15 73 P
+(Programming the Web  - 10CS73) 49 15 64 P
+(JAVA & J2EE  - 10IS753) 44 18 62 P
+(Data Warehousing & Data Mining  - 10IS74) 45 17 62 P
+(Storage Area Networks  - 10IS765) 45 15 60 P
+(Networks Lab.  - 10CSL77) 45 20 65 P
+(Web Programming Lab.  - 10CSL78) 40 22 62 P
+total= 516
+**
+1ds11is003
+ABHISHEK KUMAR sem: 7 Result: SC
+(Object-Oriented Modeling & Design  - 10CS71) 48 15 63 P
+(Information Systems  - 10IS72) 56 15 71 P
+(Programming the Web  - 10CS73) 43 15 58 P
+(JAVA & J2EE  - 10IS753) 40 18 58 P
+(Data Warehousing & Data Mining  - 10IS74) 36 15 51 P
+(Storage Area Networks  - 10IS765) 54 16 70 P
+(Networks Lab.  - 10CSL77) 44 22 66 P
+(Web Programming Lab.  - 10CSL78) 27 24 51 P
+total= 488
+**
+1ds11is004
+ADITYA VIKRAM GODAWAT sem: 7 Result: SC
+(Object-Oriented Modeling & Design  - 10CS71) 54 15 69 P
+(Information Systems  - 10IS72) 59 18 77 P
+(Programming the Web  - 10CS73) 43 15 58 P
+(JAVA & J2EE  - 10IS753) 35 16 51 P
+(Data Warehousing & Data Mining  - 10IS74) 49 19 68 P
+(Storage Area Networks  - 10IS765) 44 17 61 P
+(Networks Lab.  - 10CSL77) 47 17 64 P
+(Web Programming Lab.  - 10CSL78) 20 20 40 P
+total= 488
+**
+1ds11is005
+AKASH KUMAR sem: 7 Result: SC
+(Object-Oriented Modeling & Design  - 10CS71) 50 16 66 P
+(Information Systems  - 10IS72) 62 16 78 P
+(Programming the Web  - 10CS73) 40 15 55 P
+(JAVA & J2EE  - 10IS753) 35 20 55 P
+(Data Warehousing & Data Mining  - 10IS74) 49 15 64 P
+(Storage Area Networks  - 10IS765) 40 15 55 P
+(Networks Lab.  - 10CSL77) 45 20 65 P
+(Web Programming Lab.  - 10CSL78) 41 21 62 P
+total= 500
+**
+1ds11is008
+AKSHITA JAYANTILAL sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 69 23 92 P
+(Information Systems  - 10IS72) 52 18 70 P
+(Programming the Web  - 10CS73) 57 20 77 P
+(JAVA & J2EE  - 10IS753) 55 24 79 P
+(Data Warehousing & Data Mining  - 10IS74) 60 24 84 P
+(Storage Area Networks  - 10IS765) 70 23 93 P
+(Networks Lab.  - 10CSL77) 47 25 72 P
+(Web Programming Lab.  - 10CSL78) 48 24 72 P
+total= 639
+**
+1ds11is010
+AMRIN BANU sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 68 24 92 P
+(Information Systems  - 10IS72) 80 23 103 P
+(Programming the Web  - 10CS73) 65 25 90 P
+(JAVA & J2EE  - 10IS753) 62 25 87 P
+(Data Warehousing & Data Mining  - 10IS74) 66 25 91 P
+(Storage Area Networks  - 10IS765) 75 24 99 P
+(Networks Lab.  - 10CSL77) 48 25 73 P
+(Web Programming Lab.  - 10CSL78) 48 25 73 P
+total= 708
+**
+1ds11is011
+ANKIT BANSAL sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 61 22 83 P
+(Information Systems  - 10IS72) 79 22 101 P
+(Programming the Web  - 10CS73) 61 23 84 P
+(JAVA & J2EE  - 10IS753) 37 23 60 P
+(Data Warehousing & Data Mining  - 10IS74) 59 25 84 P
+(Storage Area Networks  - 10IS765) 71 21 92 P
+(Networks Lab.  - 10CSL77) 49 22 71 P
+(Web Programming Lab.  - 10CSL78) 45 24 69 P
+total= 644
+**
+1ds11is012
+ANUSHA ANU sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 53 24 77 P
+(Information Systems  - 10IS72) 79 23 102 P
+(Programming the Web  - 10CS73) 62 20 82 P
+(JAVA & J2EE  - 10IS753) 44 22 66 P
+(Data Warehousing & Data Mining  - 10IS74) 60 25 85 P
+(Storage Area Networks  - 10IS765) 66 23 89 P
+(Networks Lab.  - 10CSL77) 45 24 69 P
+(Web Programming Lab.  - 10CSL78) 47 22 69 P
+total= 639
+**
+1ds11is013
+ANUSHA J sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 63 25 88 P
+(Information Systems  - 10IS72) 78 22 100 P
+(Programming the Web  - 10CS73) 64 22 86 P
+(JAVA & J2EE  - 10IS753) 54 24 78 P
+(Data Warehousing & Data Mining  - 10IS74) 80 25 105 P
+(Storage Area Networks  - 10IS765) 77 24 101 P
+(Networks Lab.  - 10CSL77) 47 24 71 P
+(Web Programming Lab.  - 10CSL78) 47 24 71 P
+total= 700
+**
+1ds11is014
+ANVESH RAJ DN sem: 7 Result: SC
+(Object-Oriented Modeling & Design  - 10CS71) 53 13 66 P
+(Information Systems  - 10IS72) 62 14 76 P
+(Programming the Web  - 10CS73) 49 15 64 P
+(JAVA & J2EE  - 10IS753) 39 15 54 P
+(Data Warehousing & Data Mining  - 10IS74) 47 16 63 P
+(Storage Area Networks  - 10IS765) 56 12 68 P
+(Networks Lab.  - 10CSL77) 31 22 53 P
+(Web Programming Lab.  - 10CSL78) 43 20 63 P
+total= 507
+**
+1ds11is015
+APPACHU.P.M sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 54 19 73 P
+(Information Systems  - 10IS72) 78 15 93 P
+(Programming the Web  - 10CS73) 52 16 68 P
+(JAVA & J2EE  - 10IS753) 35 15 50 P
+(Data Warehousing & Data Mining  - 10IS74) 46 19 65 P
+(Storage Area Networks  - 10IS765) 56 15 71 P
+(Networks Lab.  - 10CSL77) 44 18 62 P
+(Web Programming Lab.  - 10CSL78) 44 24 68 P
+total= 550
+**
+1ds11is016
+ASHA .M sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 44 24 68 P
+(Information Systems  - 10IS72) 65 18 83 P
+(Programming the Web  - 10CS73) 61 21 82 P
+(JAVA & J2EE  - 10IS753) 50 22 72 P
+(Data Warehousing & Data Mining  - 10IS74) 54 25 79 P
+(Storage Area Networks  - 10IS765) 60 20 80 P
+(Networks Lab.  - 10CSL77) 47 19 66 P
+(Web Programming Lab.  - 10CSL78) 28 24 52 P
+total= 582
+**
+1ds11is018
+ASHISH PANDURANGI sem: 7 Result: FAIL
+(Object-Oriented Modeling & Design  - 10CS71) 37 17 54 P
+(Information Systems  - 10IS72) 37 17 54 P
+(Programming the Web  - 10CS73) 21 15 36 F
+(JAVA & J2EE  - 10IS753) 27 17 44 F
+(Data Warehousing & Data Mining  - 10IS74) 41 17 58 P
+(Storage Area Networks  - 10IS765) 53 15 68 P
+(Networks Lab.  - 10CSL77) 45 17 62 P
+(Web Programming Lab.  - 10CSL78) 10 20 30 F
+total= 406
+**
+1ds11is019
+ASHWITHA T.S sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 59 23 82 P
+(Information Systems  - 10IS72) 60 18 78 P
+(Programming the Web  - 10CS73) 52 20 72 P
+(JAVA & J2EE  - 10IS753) 53 22 75 P
+(Data Warehousing & Data Mining  - 10IS74) 55 25 80 P
+(Storage Area Networks  - 10IS765) 69 17 86 P
+(Networks Lab.  - 10CSL77) 40 25 65 P
+(Web Programming Lab.  - 10CSL78) 43 22 65 P
+total= 603
+**
+1ds11is021
+AVINASH KUMAR sem: 7 Result: FAIL
+(Object-Oriented Modeling & Design  - 10CS71) 35 15 50 P
+(Information Systems  - 10IS72) 29 14 43 F
+(Programming the Web  - 10CS73) 35 15 50 P
+(JAVA & J2EE  - 10IS753) 35 15 50 P
+(Data Warehousing & Data Mining  - 10IS74) 37 15 52 P
+(Storage Area Networks  - 10IS765) 36 10 46 F
+(Networks Lab.  - 10CSL77) 46 22 68 P
+(Web Programming Lab.  - 10CSL78) 23 21 44 P
+total= 403
+**
+1ds11is023
+CHAITRA A sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 64 22 86 P
+(Information Systems  - 10IS72) 68 18 86 P
+(Programming the Web  - 10CS73) 60 24 84 P
+(JAVA & J2EE  - 10IS753) 62 24 86 P
+(Data Warehousing & Data Mining  - 10IS74) 48 25 73 P
+(Storage Area Networks  - 10IS765) 58 22 80 P
+(Networks Lab.  - 10CSL77) 41 23 64 P
+(Web Programming Lab.  - 10CSL78) 45 25 70 P
+total= 630
+**
+1ds11is024
+CHANDAN. A.J sem: 7 Result: SC
+(Object-Oriented Modeling & Design  - 10CS71) 36 19 55 P
+(Information Systems  - 10IS72) 57 15 72 P
+(Programming the Web  - 10CS73) 36 17 53 P
+(JAVA & J2EE  - 10IS753) 35 21 56 P
+(Data Warehousing & Data Mining  - 10IS74) 44 23 67 P
+(Storage Area Networks  - 10IS765) 68 15 83 P
+(Networks Lab.  - 10CSL77) 45 19 64 P
+(Web Programming Lab.  - 10CSL78) 41 20 61 P
+total= 511
+**
+1ds11is025
+CHENNA KESHAVA REDDY S sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 52 21 73 P
+(Information Systems  - 10IS72) 75 21 96 P
+(Programming the Web  - 10CS73) 39 15 54 P
+(JAVA & J2EE  - 10IS753) 46 23 69 P
+(Data Warehousing & Data Mining  - 10IS74) 41 23 64 P
+(Storage Area Networks  - 10IS765) 69 18 87 P
+(Networks Lab.  - 10CSL77) 43 21 64 P
+(Web Programming Lab.  - 10CSL78) 20 24 44 P
+total= 551
+**
+1ds11is026
+CHINNAPPA M P sem: 7 Result: SC
+(Object-Oriented Modeling & Design  - 10CS71) 52 20 72 P
+(Information Systems  - 10IS72) 67 21 88 P
+(Programming the Web  - 10CS73) 48 15 63 P
+(JAVA & J2EE  - 10IS753) 35 18 53 P
+(Data Warehousing & Data Mining  - 10IS74) 36 19 55 P
+(Storage Area Networks  - 10IS765) 68 15 83 P
+(Networks Lab.  - 10CSL77) 40 20 60 P
+(Web Programming Lab.  - 10CSL78) 20 20 40 P
+total= 514
+**
+1ds11is027
+DANISH ALAM sem: 7 Result: SC
+(Object-Oriented Modeling & Design  - 10CS71) 51 19 70 P
+(Information Systems  - 10IS72) 61 15 76 P
+(Programming the Web  - 10CS73) 35 15 50 P
+(JAVA & J2EE  - 10IS753) 46 15 61 P
+(Data Warehousing & Data Mining  - 10IS74) 38 14 52 P
+(Storage Area Networks  - 10IS765) 43 10 53 P
+(Networks Lab.  - 10CSL77) 43 19 62 P
+(Web Programming Lab.  - 10CSL78) 42 20 62 P
+total= 486
+**
+1ds11is028
+DEEPTHI.K sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 81 24 105 P
+(Information Systems  - 10IS72) 76 19 95 P
+(Programming the Web  - 10CS73) 56 21 77 P
+(JAVA & J2EE  - 10IS753) 55 24 79 P
+(Data Warehousing & Data Mining  - 10IS74) 54 25 79 P
+(Storage Area Networks  - 10IS765) 70 23 93 P
+(Networks Lab.  - 10CSL77) 43 25 68 P
+(Web Programming Lab.  - 10CSL78) 46 24 70 P
+total= 666
+**
+1ds11is029
+DIPAK KUMAR sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 45 23 68 P
+(Information Systems  - 10IS72) 74 20 94 P
+(Programming the Web  - 10CS73) 46 20 66 P
+(JAVA & J2EE  - 10IS753) 51 22 73 P
+(Data Warehousing & Data Mining  - 10IS74) 54 23 77 P
+(Storage Area Networks  - 10IS765) 65 21 86 P
+(Networks Lab.  - 10CSL77) 49 25 74 P
+(Web Programming Lab.  - 10CSL78) 46 24 70 P
+total= 608
+**
+1ds11is030
+DIVYA PURI sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 35 20 55 P
+(Information Systems  - 10IS72) 71 19 90 P
+(Programming the Web  - 10CS73) 37 22 59 P
+(JAVA & J2EE  - 10IS753) 49 25 74 P
+(Data Warehousing & Data Mining  - 10IS74) 35 20 55 P
+(Storage Area Networks  - 10IS765) 51 16 67 P
+(Networks Lab.  - 10CSL77) 43 25 68 P
+(Web Programming Lab.  - 10CSL78) 46 24 70 P
+total= 540
+**
+1ds11is031
+EVITA LOBO sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 58 22 80 P
+(Information Systems  - 10IS72) 70 21 91 P
+(Programming the Web  - 10CS73) 36 18 54 P
+(JAVA & J2EE  - 10IS753) 49 21 70 P
+(Data Warehousing & Data Mining  - 10IS74) 37 25 62 P
+(Storage Area Networks  - 10IS765) 70 20 90 P
+(Networks Lab.  - 10CSL77) 47 24 71 P
+(Web Programming Lab.  - 10CSL78) 22 22 44 P
+total= 562
+**
+1ds11is032
+GOWRI DATH sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 82 23 105 P
+(Information Systems  - 10IS72) 83 18 101 P
+(Programming the Web  - 10CS73) 56 19 75 P
+(JAVA & J2EE  - 10IS753) 59 19 78 P
+(Data Warehousing & Data Mining  - 10IS74) 53 25 78 P
+(Storage Area Networks  - 10IS765) 69 20 89 P
+(Networks Lab.  - 10CSL77) 47 24 71 P
+(Web Programming Lab.  - 10CSL78) 45 23 68 P
+total= 665
+**
+1ds11is033
+GURURAJ SHANKAR NAIK sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 64 17 81 P
+(Information Systems  - 10IS72) 77 18 95 P
+(Programming the Web  - 10CS73) 44 16 60 P
+(JAVA & J2EE  - 10IS753) 47 20 67 P
+(Data Warehousing & Data Mining  - 10IS74) 49 18 67 P
+(Storage Area Networks  - 10IS765) 72 17 89 P
+(Networks Lab.  - 10CSL77) 44 19 63 P
+(Web Programming Lab.  - 10CSL78) 20 20 40 P
+total= 562
+**
+1ds11is034
+HARSHITHA.S sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 66 23 89 P
+(Information Systems  - 10IS72) 78 18 96 P
+(Programming the Web  - 10CS73) 52 19 71 P
+(JAVA & J2EE  - 10IS753) 49 22 71 P
+(Data Warehousing & Data Mining  - 10IS74) 55 25 80 P
+(Storage Area Networks  - 10IS765) 60 23 83 P
+(Networks Lab.  - 10CSL77) 47 23 70 P
+(Web Programming Lab.  - 10CSL78) 46 23 69 P
+total= 630
+**
+1ds11is035
+ISHAN TIWARY sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 55 20 75 P
+(Information Systems  - 10IS72) 71 17 88 P
+(Programming the Web  - 10CS73) 52 22 74 P
+(JAVA & J2EE  - 10IS753) 58 23 81 P
+(Data Warehousing & Data Mining  - 10IS74) 35 22 57 P
+(Storage Area Networks  - 10IS765) 65 20 85 P
+(Networks Lab.  - 10CSL77) 48 18 66 P
+(Web Programming Lab.  - 10CSL78) 47 23 70 P
+total= 596
+**
+1ds11is036
+JAYA SINGH sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 63 25 88 P
+(Information Systems  - 10IS72) 70 22 92 P
+(Programming the Web  - 10CS73) 58 17 75 P
+(JAVA & J2EE  - 10IS753) 41 22 63 P
+(Data Warehousing & Data Mining  - 10IS74) 40 24 64 P
+(Storage Area Networks  - 10IS765) 67 19 86 P
+(Networks Lab.  - 10CSL77) 35 23 58 P
+(Web Programming Lab.  - 10CSL78) 22 25 47 P
+total= 573
+**
+1ds11is039
+JITENDRA KUMAR sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 49 15 64 P
+(Information Systems  - 10IS72) 64 19 83 P
+(Programming the Web  - 10CS73) 47 17 64 P
+(JAVA & J2EE  - 10IS753) 53 15 68 P
+(Data Warehousing & Data Mining  - 10IS74) 35 19 54 P
+(Storage Area Networks  - 10IS765) 58 15 73 P
+(Networks Lab.  - 10CSL77) 45 24 69 P
+(Web Programming Lab.  - 10CSL78) 40 23 63 P
+total= 540
+**
+1ds11is040
+KARNAM SHUBHA sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 60 23 83 P
+(Information Systems  - 10IS72) 75 21 96 P
+(Programming the Web  - 10CS73) 75 18 93 P
+(JAVA & J2EE  - 10IS753) 58 22 80 P
+(Data Warehousing & Data Mining  - 10IS74) 80 23 103 P
+(Storage Area Networks  - 10IS765) 70 21 91 P
+(Networks Lab.  - 10CSL77) 48 23 71 P
+(Web Programming Lab.  - 10CSL78) 47 23 70 P
+total= 687
+**
+1ds11is042
+KHETAN B sem: 7 Result: FAIL
+(Object-Oriented Modeling & Design  - 10CS71) 48 20 68 P
+(Information Systems  - 10IS72) 53 16 69 P
+(Programming the Web  - 10CS73) 53 15 68 P
+(JAVA & J2EE  - 10IS753) 43 17 60 P
+(Data Warehousing & Data Mining  - 10IS74) 26 20 46 F
+(Storage Area Networks  - 10IS765) 62 15 77 P
+(Networks Lab.  - 10CSL77) 41 18 59 P
+(Web Programming Lab.  - 10CSL78) 45 23 68 P
+total= 515
+**
+1ds11is043
+KISHORE K ADIGA sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 57 21 78 P
+(Information Systems  - 10IS72) 54 16 70 P
+(Programming the Web  - 10CS73) 65 21 86 P
+(JAVA & J2EE  - 10IS753) 51 23 74 P
+(Data Warehousing & Data Mining  - 10IS74) 60 21 81 P
+(Storage Area Networks  - 10IS765) 63 20 83 P
+(Networks Lab.  - 10CSL77) 48 18 66 P
+(Web Programming Lab.  - 10CSL78) 47 22 69 P
+total= 607
+**
+1ds11is044
+KUNAL GAUTAM sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 47 23 70 P
+(Information Systems  - 10IS72) 60 16 76 P
+(Programming the Web  - 10CS73) 56 15 71 P
+(JAVA & J2EE  - 10IS753) 52 20 72 P
+(Data Warehousing & Data Mining  - 10IS74) 62 23 85 P
+(Storage Area Networks  - 10IS765) 60 17 77 P
+(Networks Lab.  - 10CSL77) 43 18 61 P
+(Web Programming Lab.  - 10CSL78) 40 22 62 P
+total= 574
+**
+1ds11is045
+MADAN GOPAL G sem: 7 Result: SC
+(Object-Oriented Modeling & Design  - 10CS71) 37 15 52 P
+(Information Systems  - 10IS72) 41 15 56 P
+(Programming the Web  - 10CS73) 44 16 60 P
+(JAVA & J2EE  - 10IS753) 39 15 54 P
+(Data Warehousing & Data Mining  - 10IS74) 39 15 54 P
+(Storage Area Networks  - 10IS765) 47 15 62 P
+(Networks Lab.  - 10CSL77) 34 21 55 P
+(Web Programming Lab.  - 10CSL78) 40 24 64 P
+total= 457
+**
+1ds11is046
+MANASA M sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 61 24 85 P
+(Information Systems  - 10IS72) 60 20 80 P
+(Programming the Web  - 10CS73) 63 18 81 P
+(JAVA & J2EE  - 10IS753) 49 19 68 P
+(Data Warehousing & Data Mining  - 10IS74) 79 25 104 P
+(Storage Area Networks  - 10IS765) 59 18 77 P
+(Networks Lab.  - 10CSL77) 46 23 69 P
+(Web Programming Lab.  - 10CSL78) 46 23 69 P
+total= 633
+**
+1ds11is047
+MANOGNA.S sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 59 21 80 P
+(Information Systems  - 10IS72) 72 20 92 P
+(Programming the Web  - 10CS73) 65 18 83 P
+(JAVA & J2EE  - 10IS753) 56 23 79 P
+(Data Warehousing & Data Mining  - 10IS74) 82 25 107 P
+(Storage Area Networks  - 10IS765) 67 21 88 P
+(Networks Lab.  - 10CSL77) 49 25 74 P
+(Web Programming Lab.  - 10CSL78) 40 24 64 P
+total= 667
+**
+1ds11is048
+MANOJ KUMAR.P sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 50 20 70 P
+(Information Systems  - 10IS72) 63 16 79 P
+(Programming the Web  - 10CS73) 49 15 64 P
+(JAVA & J2EE  - 10IS753) 40 16 56 P
+(Data Warehousing & Data Mining  - 10IS74) 61 22 83 P
+(Storage Area Networks  - 10IS765) 68 19 87 P
+(Networks Lab.  - 10CSL77) 34 20 54 P
+(Web Programming Lab.  - 10CSL78) 46 23 69 P
+total= 562
+**
+1ds11is049
+MEGHALI CHAKRABORTY sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 41 23 64 P
+(Information Systems  - 10IS72) 74 15 89 P
+(Programming the Web  - 10CS73) 71 25 96 P
+(JAVA & J2EE  - 10IS753) 56 24 80 P
+(Data Warehousing & Data Mining  - 10IS74) 77 25 102 P
+(Storage Area Networks  - 10IS765) 68 17 85 P
+(Networks Lab.  - 10CSL77) 46 23 69 P
+(Web Programming Lab.  - 10CSL78) 48 24 72 P
+total= 657
+**
+1ds11is050
+MOHIT RAJ sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 37 22 59 P
+(Information Systems  - 10IS72) 63 19 82 P
+(Programming the Web  - 10CS73) 67 19 86 P
+(JAVA & J2EE  - 10IS753) 56 22 78 P
+(Data Warehousing & Data Mining  - 10IS74) 74 23 97 P
+(Storage Area Networks  - 10IS765) 70 19 89 P
+(Networks Lab.  - 10CSL77) 48 21 69 P
+(Web Programming Lab.  - 10CSL78) 47 25 72 P
+total= 632
+**
+1ds11is051
+NAGACHANDRA KP sem: 7 Result: FAIL
+(Object-Oriented Modeling & Design  - 10CS71) 41 24 65 P
+(Information Systems  - 10IS72) 60 21 81 P
+(Programming the Web  - 10CS73) 67 23 90 P
+(JAVA & J2EE  - 10IS753) 50 23 73 P
+(Data Warehousing & Data Mining  - 10IS74) 44 25 69 P
+(Storage Area Networks  - 10IS765) 65 23 88 P
+(Networks Lab.  - 10CSL77) 0 23 23 A
+(Web Programming Lab.  - 10CSL78) 0 21 21 A
+total= 510
+**
+1ds11is052
+NAGASWATHIKOTHAMASU sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 40 24 64 P
+(Information Systems  - 10IS72) 72 24 96 P
+(Programming the Web  - 10CS73) 63 23 86 P
+(JAVA & J2EE  - 10IS753) 61 25 86 P
+(Data Warehousing & Data Mining  - 10IS74) 53 23 76 P
+(Storage Area Networks  - 10IS765) 65 24 89 P
+(Networks Lab.  - 10CSL77) 46 23 69 P
+(Web Programming Lab.  - 10CSL78) 48 25 73 P
+total= 639
+**
+1ds11is053
+NAMRATA A P sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 43 21 64 P
+(Information Systems  - 10IS72) 61 19 80 P
+(Programming the Web  - 10CS73) 63 23 86 P
+(JAVA & J2EE  - 10IS753) 62 23 85 P
+(Data Warehousing & Data Mining  - 10IS74) 54 21 75 P
+(Storage Area Networks  - 10IS765) 66 21 87 P
+(Networks Lab.  - 10CSL77) 44 23 67 P
+(Web Programming Lab.  - 10CSL78) 47 24 71 P
+total= 615
+**
+1ds11is054
+NARRA MOHITH sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 46 15 61 P
+(Information Systems  - 10IS72) 67 13 80 P
+(Programming the Web  - 10CS73) 53 16 69 P
+(JAVA & J2EE  - 10IS753) 52 17 69 P
+(Data Warehousing & Data Mining  - 10IS74) 49 17 66 P
+(Storage Area Networks  - 10IS765) 55 12 67 P
+(Networks Lab.  - 10CSL77) 48 24 72 P
+(Web Programming Lab.  - 10CSL78) 38 20 58 P
+total= 542
+**
+1ds11is055
+NEERAJ JAIN sem: 7 Result: FAIL
+(Object-Oriented Modeling & Design  - 10CS71) 35 15 50 P
+(Information Systems  - 10IS72) 35 12 47 F
+(Programming the Web  - 10CS73) 44 15 59 P
+(JAVA & J2EE  - 10IS753) 35 15 50 P
+(Data Warehousing & Data Mining  - 10IS74) 36 14 50 P
+(Storage Area Networks  - 10IS765) 40 15 55 P
+(Networks Lab.  - 10CSL77) 46 24 70 P
+(Web Programming Lab.  - 10CSL78) 37 19 56 P
+total= 437
+**
+1ds11is059
+PAVAN G sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 48 19 67 P
+(Information Systems  - 10IS72) 73 21 94 P
+(Programming the Web  - 10CS73) 53 16 69 P
+(JAVA & J2EE  - 10IS753) 57 17 74 P
+(Data Warehousing & Data Mining  - 10IS74) 49 22 71 P
+(Storage Area Networks  - 10IS765) 54 18 72 P
+(Networks Lab.  - 10CSL77) 47 15 62 P
+(Web Programming Lab.  - 10CSL78) 47 25 72 P
+total= 581
+**
+1ds11is060
+PRAMOD PANDEY sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 59 25 84 P
+(Information Systems  - 10IS72) 77 18 95 P
+(Programming the Web  - 10CS73) 61 21 82 P
+(JAVA & J2EE  - 10IS753) 63 23 86 P
+(Data Warehousing & Data Mining  - 10IS74) 65 25 90 P
+(Storage Area Networks  - 10IS765) 70 23 93 P
+(Networks Lab.  - 10CSL77) 49 25 74 P
+(Web Programming Lab.  - 10CSL78) 49 25 74 P
+total= 678
+**
+1ds11is061
+PRASHANTH.B sem: 7 Result: SC
+(Object-Oriented Modeling & Design  - 10CS71) 50 23 73 P
+(Information Systems  - 10IS72) 68 17 85 P
+(Programming the Web  - 10CS73) 45 15 60 P
+(JAVA & J2EE  - 10IS753) 39 11 50 P
+(Data Warehousing & Data Mining  - 10IS74) 54 16 70 P
+(Storage Area Networks  - 10IS765) 60 15 75 P
+(Networks Lab.  - 10CSL77) 38 18 56 P
+(Web Programming Lab.  - 10CSL78) 35 20 55 P
+total= 524
+**
+1ds11is062
+PRATEEK S. BHARADWAJ sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 56 21 77 P
+(Information Systems  - 10IS72) 76 19 95 P
+(Programming the Web  - 10CS73) 57 21 78 P
+(JAVA & J2EE  - 10IS753) 57 22 79 P
+(Data Warehousing & Data Mining  - 10IS74) 58 24 82 P
+(Storage Area Networks  - 10IS765) 63 21 84 P
+(Networks Lab.  - 10CSL77) 47 24 71 P
+(Web Programming Lab.  - 10CSL78) 47 25 72 P
+total= 638
+**
+1ds11is063
+PRAVEEN MALAPUR sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 48 20 68 P
+(Information Systems  - 10IS72) 63 19 82 P
+(Programming the Web  - 10CS73) 49 24 73 P
+(JAVA & J2EE  - 10IS753) 43 20 63 P
+(Data Warehousing & Data Mining  - 10IS74) 45 24 69 P
+(Storage Area Networks  - 10IS765) 69 22 91 P
+(Networks Lab.  - 10CSL77) 47 19 66 P
+(Web Programming Lab.  - 10CSL78) 40 24 64 P
+total= 576
+**
+1ds11is064
+PREETHAM B sem: 7 Result: SC
+(Object-Oriented Modeling & Design  - 10CS71) 49 15 64 P
+(Information Systems  - 10IS72) 73 15 88 P
+(Programming the Web  - 10CS73) 46 15 61 P
+(JAVA & J2EE  - 10IS753) 35 16 51 P
+(Data Warehousing & Data Mining  - 10IS74) 63 15 78 P
+(Storage Area Networks  - 10IS765) 67 15 82 P
+(Networks Lab.  - 10CSL77) 28 15 43 P
+(Web Programming Lab.  - 10CSL78) 40 22 62 P
+total= 529
+**
+1ds11is065
+PRIYA V M sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 55 24 79 P
+(Information Systems  - 10IS72) 69 22 91 P
+(Programming the Web  - 10CS73) 61 20 81 P
+(JAVA & J2EE  - 10IS753) 52 23 75 P
+(Data Warehousing & Data Mining  - 10IS74) 62 24 86 P
+(Storage Area Networks  - 10IS765) 71 22 93 P
+(Networks Lab.  - 10CSL77) 46 25 71 P
+(Web Programming Lab.  - 10CSL78) 47 22 69 P
+total= 645
+**
+1ds11is066
+PRIYANKA PAWAR sem: 7 Result: SC
+(Object-Oriented Modeling & Design  - 10CS71) 44 17 61 P
+(Information Systems  - 10IS72) 48 18 66 P
+(Programming the Web  - 10CS73) 41 16 57 P
+(JAVA & J2EE  - 10IS753) 40 15 55 P
+(Data Warehousing & Data Mining  - 10IS74) 53 22 75 P
+(Storage Area Networks  - 10IS765) 58 16 74 P
+(Networks Lab.  - 10CSL77) 33 20 53 P
+(Web Programming Lab.  - 10CSL78) 38 20 58 P
+total= 499
+**
+1ds11is067
+PROTUSHA DUTTA sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 60 17 77 P
+(Information Systems  - 10IS72) 56 19 75 P
+(Programming the Web  - 10CS73) 58 15 73 P
+(JAVA & J2EE  - 10IS753) 51 22 73 P
+(Data Warehousing & Data Mining  - 10IS74) 59 25 84 P
+(Storage Area Networks  - 10IS765) 54 16 70 P
+(Networks Lab.  - 10CSL77) 47 25 72 P
+(Web Programming Lab.  - 10CSL78) 48 24 72 P
+total= 596
+**
+1ds11is068
+R ROHITH sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 60 24 84 P
+(Information Systems  - 10IS72) 60 21 81 P
+(Programming the Web  - 10CS73) 59 21 80 P
+(JAVA & J2EE  - 10IS753) 54 24 78 P
+(Data Warehousing & Data Mining  - 10IS74) 53 22 75 P
+(Storage Area Networks  - 10IS765) 62 22 84 P
+(Networks Lab.  - 10CSL77) 46 20 66 P
+(Web Programming Lab.  - 10CSL78) 47 25 72 P
+total= 620
+**
+1ds11is069
+RAJAT DHASMANA sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 49 19 68 P
+(Information Systems  - 10IS72) 61 15 76 P
+(Programming the Web  - 10CS73) 58 20 78 P
+(JAVA & J2EE  - 10IS753) 52 20 72 P
+(Data Warehousing & Data Mining  - 10IS74) 76 24 100 P
+(Storage Area Networks  - 10IS765) 68 21 89 P
+(Networks Lab.  - 10CSL77) 45 21 66 P
+(Web Programming Lab.  - 10CSL78) 39 22 61 P
+total= 610
+**
+1ds11is070
+RAKSHA S sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 71 23 94 P
+(Information Systems  - 10IS72) 61 22 83 P
+(Programming the Web  - 10CS73) 60 22 82 P
+(JAVA & J2EE  - 10IS753) 51 21 72 P
+(Data Warehousing & Data Mining  - 10IS74) 74 22 96 P
+(Storage Area Networks  - 10IS765) 72 23 95 P
+(Networks Lab.  - 10CSL77) 45 20 65 P
+(Web Programming Lab.  - 10CSL78) 45 25 70 P
+total= 657
+**
+1ds11is071
+RAKSHA.VISWANATHA sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 50 21 71 P
+(Information Systems  - 10IS72) 61 19 80 P
+(Programming the Web  - 10CS73) 60 20 80 P
+(JAVA & J2EE  - 10IS753) 47 22 69 P
+(Data Warehousing & Data Mining  - 10IS74) 71 24 95 P
+(Storage Area Networks  - 10IS765) 64 20 84 P
+(Networks Lab.  - 10CSL77) 45 23 68 P
+(Web Programming Lab.  - 10CSL78) 33 22 55 P
+total= 602
+**
+1ds11is073
+RAMYA SIMHADRI sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 62 24 86 P
+(Information Systems  - 10IS72) 69 23 92 P
+(Programming the Web  - 10CS73) 52 21 73 P
+(JAVA & J2EE  - 10IS753) 55 23 78 P
+(Data Warehousing & Data Mining  - 10IS74) 76 25 101 P
+(Storage Area Networks  - 10IS765) 66 21 87 P
+(Networks Lab.  - 10CSL77) 46 20 66 P
+(Web Programming Lab.  - 10CSL78) 35 25 60 P
+total= 643
+**
+1ds11is074
+RAMYA YADAV R.P sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 60 24 84 P
+(Information Systems  - 10IS72) 67 19 86 P
+(Programming the Web  - 10CS73) 70 22 92 P
+(JAVA & J2EE  - 10IS753) 74 23 97 P
+(Data Warehousing & Data Mining  - 10IS74) 87 25 112 P
+(Storage Area Networks  - 10IS765) 66 21 87 P
+(Networks Lab.  - 10CSL77) 42 24 66 P
+(Web Programming Lab.  - 10CSL78) 37 23 60 P
+total= 684
+**
+1ds11is075
+RAMYA.S sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 58 25 83 P
+(Information Systems  - 10IS72) 79 18 97 P
+(Programming the Web  - 10CS73) 45 21 66 P
+(JAVA & J2EE  - 10IS753) 69 24 93 P
+(Data Warehousing & Data Mining  - 10IS74) 68 23 91 P
+(Storage Area Networks  - 10IS765) 58 23 81 P
+(Networks Lab.  - 10CSL77) 41 24 65 P
+(Web Programming Lab.  - 10CSL78) 47 24 71 P
+total= 647
+**
+1ds11is077
+ROHAN SHETTY sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 42 22 64 P
+(Information Systems  - 10IS72) 53 15 68 P
+(Programming the Web  - 10CS73) 63 15 78 P
+(JAVA & J2EE  - 10IS753) 52 18 70 P
+(Data Warehousing & Data Mining  - 10IS74) 42 21 63 P
+(Storage Area Networks  - 10IS765) 51 16 67 P
+(Networks Lab.  - 10CSL77) 46 15 61 P
+(Web Programming Lab.  - 10CSL78) 44 23 67 P
+total= 540
+**
+1ds11is078
+ROMIT KUMAR sem: 7 Result: SC
+(Object-Oriented Modeling & Design  - 10CS71) 35 20 55 P
+(Information Systems  - 10IS72) 35 15 50 P
+(Programming the Web  - 10CS73) 38 16 54 P
+(JAVA & J2EE  - 10IS753) 42 17 59 P
+(Data Warehousing & Data Mining  - 10IS74) 52 22 74 P
+(Storage Area Networks  - 10IS765) 46 15 61 P
+(Networks Lab.  - 10CSL77) 44 16 60 P
+(Web Programming Lab.  - 10CSL78) 33 23 56 P
+total= 469
+**
+1ds11is079
+ROSHNI Y GADIYAR sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 48 15 63 P
+(Information Systems  - 10IS72) 72 15 87 P
+(Programming the Web  - 10CS73) 51 15 66 P
+(JAVA & J2EE  - 10IS753) 63 15 78 P
+(Data Warehousing & Data Mining  - 10IS74) 40 23 63 P
+(Storage Area Networks  - 10IS765) 65 15 80 P
+(Networks Lab.  - 10CSL77) 41 24 65 P
+(Web Programming Lab.  - 10CSL78) 42 21 63 P
+total= 565
+**
+1ds11is080
+SACHIN B K sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 42 18 60 P
+(Information Systems  - 10IS72) 65 20 85 P
+(Programming the Web  - 10CS73) 46 16 62 P
+(JAVA & J2EE  - 10IS753) 50 17 67 P
+(Data Warehousing & Data Mining  - 10IS74) 51 19 70 P
+(Storage Area Networks  - 10IS765) 56 17 73 P
+(Networks Lab.  - 10CSL77) 40 25 65 P
+(Web Programming Lab.  - 10CSL78) 43 23 66 P
+total= 548
+**
+1ds11is081
+SAHANA SATEESH BHANDARI sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 57 16 73 P
+(Information Systems  - 10IS72) 66 17 83 P
+(Programming the Web  - 10CS73) 64 21 85 P
+(JAVA & J2EE  - 10IS753) 56 18 74 P
+(Data Warehousing & Data Mining  - 10IS74) 57 23 80 P
+(Storage Area Networks  - 10IS765) 61 22 83 P
+(Networks Lab.  - 10CSL77) 46 25 71 P
+(Web Programming Lab.  - 10CSL78) 36 22 58 P
+total= 607
+**
+1ds11is082
+SAMEER AHMED sem: 7 Result: SC
+(Object-Oriented Modeling & Design  - 10CS71) 42 21 63 P
+(Information Systems  - 10IS72) 57 16 73 P
+(Programming the Web  - 10CS73) 46 15 61 P
+(JAVA & J2EE  - 10IS753) 53 21 74 P
+(Data Warehousing & Data Mining  - 10IS74) 40 21 61 P
+(Storage Area Networks  - 10IS765) 53 21 74 P
+(Networks Lab.  - 10CSL77) 45 20 65 P
+(Web Programming Lab.  - 10CSL78) 43 20 63 P
+total= 534
+**
+1ds11is083
+SANDHYA C sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 65 24 89 P
+(Information Systems  - 10IS72) 63 18 81 P
+(Programming the Web  - 10CS73) 69 23 92 P
+(JAVA & J2EE  - 10IS753) 71 25 96 P
+(Data Warehousing & Data Mining  - 10IS74) 55 25 80 P
+(Storage Area Networks  - 10IS765) 74 24 98 P
+(Networks Lab.  - 10CSL77) 41 25 66 P
+(Web Programming Lab.  - 10CSL78) 48 25 73 P
+total= 675
+**
+1ds11is084
+SHARATKUMAR HEGDE sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 54 22 76 P
+(Information Systems  - 10IS72) 67 20 87 P
+(Programming the Web  - 10CS73) 67 15 82 P
+(JAVA & J2EE  - 10IS753) 38 20 58 P
+(Data Warehousing & Data Mining  - 10IS74) 56 20 76 P
+(Storage Area Networks  - 10IS765) 55 24 79 P
+(Networks Lab.  - 10CSL77) 39 21 60 P
+(Web Programming Lab.  - 10CSL78) 35 22 57 P
+total= 575
+**
+1ds11is085
+SHASHANK SINHA sem: 7 Result: FAIL
+(Object-Oriented Modeling & Design  - 10CS71) 42 19 61 P
+(Information Systems  - 10IS72) 68 15 83 P
+(Programming the Web  - 10CS73) 40 15 55 P
+(JAVA & J2EE  - 10IS753) 25 16 41 F
+(Data Warehousing & Data Mining  - 10IS74) 48 19 67 P
+(Storage Area Networks  - 10IS765) 39 15 54 P
+(Networks Lab.  - 10CSL77) 46 24 70 P
+(Web Programming Lab.  - 10CSL78) 38 22 60 P
+total= 491
+**
+1ds11is086
+SHAVAL POPLI sem: 7 Result: FAIL
+(Object-Oriented Modeling & Design  - 10CS71) 42 15 57 P
+(Information Systems  - 10IS72) 60 15 75 P
+(Programming the Web  - 10CS73) 39 15 54 P
+(JAVA & J2EE  - 10IS753) 28 16 44 F
+(Data Warehousing & Data Mining  - 10IS74) 45 18 63 P
+(Storage Area Networks  - 10IS765) 48 15 63 P
+(Networks Lab.  - 10CSL77) 40 25 65 P
+(Web Programming Lab.  - 10CSL78) 40 22 62 P
+total= 483
+**
+1ds11is087
+SHILPA.D sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 51 21 72 P
+(Information Systems  - 10IS72) 70 15 85 P
+(Programming the Web  - 10CS73) 58 19 77 P
+(JAVA & J2EE  - 10IS753) 65 24 89 P
+(Data Warehousing & Data Mining  - 10IS74) 77 24 101 P
+(Storage Area Networks  - 10IS765) 82 23 105 P
+(Networks Lab.  - 10CSL77) 48 25 73 P
+(Web Programming Lab.  - 10CSL78) 40 23 63 P
+total= 665
+**
+1ds11is088
+SHIVAM ODEKA sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 47 20 67 P
+(Information Systems  - 10IS72) 65 16 81 P
+(Programming the Web  - 10CS73) 65 16 81 P
+(JAVA & J2EE  - 10IS753) 58 18 76 P
+(Data Warehousing & Data Mining  - 10IS74) 66 18 84 P
+(Storage Area Networks  - 10IS765) 71 15 86 P
+(Networks Lab.  - 10CSL77) 40 23 63 P
+(Web Programming Lab.  - 10CSL78) 35 23 58 P
+total= 596
+**
+1ds11is089
+SHREESHA KUMAR BHAT sem: 7 Result: SC
+(Object-Oriented Modeling & Design  - 10CS71) 47 15 62 P
+(Information Systems  - 10IS72) 62 15 77 P
+(Programming the Web  - 10CS73) 47 15 62 P
+(JAVA & J2EE  - 10IS753) 42 19 61 P
+(Data Warehousing & Data Mining  - 10IS74) 54 15 69 P
+(Storage Area Networks  - 10IS765) 62 16 78 P
+(Networks Lab.  - 10CSL77) 46 25 71 P
+(Web Programming Lab.  - 10CSL78) 30 22 52 P
+total= 532
+**
+1ds11is090
+SHREYAS N sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 51 19 70 P
+(Information Systems  - 10IS72) 64 22 86 P
+(Programming the Web  - 10CS73) 52 15 67 P
+(JAVA & J2EE  - 10IS753) 51 17 68 P
+(Data Warehousing & Data Mining  - 10IS74) 69 19 88 P
+(Storage Area Networks  - 10IS765) 63 17 80 P
+(Networks Lab.  - 10CSL77) 45 24 69 P
+(Web Programming Lab.  - 10CSL78) 32 22 54 P
+total= 582
+**
+1ds11is091
+SHREYAS S sem: 7 Result: SC
+(Object-Oriented Modeling & Design  - 10CS71) 49 15 64 P
+(Information Systems  - 10IS72) 53 15 68 P
+(Programming the Web  - 10CS73) 52 15 67 P
+(JAVA & J2EE  - 10IS753) 41 20 61 P
+(Data Warehousing & Data Mining  - 10IS74) 50 18 68 P
+(Storage Area Networks  - 10IS765) 46 18 64 P
+(Networks Lab.  - 10CSL77) 39 24 63 P
+(Web Programming Lab.  - 10CSL78) 36 21 57 P
+total= 512
+**
+1ds11is092
+SHRUTHI .S sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 50 20 70 P
+(Information Systems  - 10IS72) 67 15 82 P
+(Programming the Web  - 10CS73) 64 15 79 P
+(JAVA & J2EE  - 10IS753) 42 21 63 P
+(Data Warehousing & Data Mining  - 10IS74) 66 24 90 P
+(Storage Area Networks  - 10IS765) 54 19 73 P
+(Networks Lab.  - 10CSL77) 46 25 71 P
+(Web Programming Lab.  - 10CSL78) 38 23 61 P
+total= 589
+**
+1ds11is093
+SHRUTHI RAJAGOPAL sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 62 23 85 P
+(Information Systems  - 10IS72) 65 20 85 P
+(Programming the Web  - 10CS73) 58 25 83 P
+(JAVA & J2EE  - 10IS753) 60 24 84 P
+(Data Warehousing & Data Mining  - 10IS74) 62 25 87 P
+(Storage Area Networks  - 10IS765) 74 24 98 P
+(Networks Lab.  - 10CSL77) 45 25 70 P
+(Web Programming Lab.  - 10CSL78) 37 22 59 P
+total= 651
+**
+1ds11is095
+SHWETHA.R sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 72 25 97 P
+(Information Systems  - 10IS72) 78 18 96 P
+(Programming the Web  - 10CS73) 64 23 87 P
+(JAVA & J2EE  - 10IS753) 60 25 85 P
+(Data Warehousing & Data Mining  - 10IS74) 68 25 93 P
+(Storage Area Networks  - 10IS765) 77 24 101 P
+(Networks Lab.  - 10CSL77) 45 25 70 P
+(Web Programming Lab.  - 10CSL78) 47 25 72 P
+total= 701
+**
+1ds11is097
+SRINIVASA B G sem: 7 Result: FAIL
+(Object-Oriented Modeling & Design  - 10CS71) 6 10 16 F
+(Information Systems  - 10IS72) 15 11 26 F
+(Programming the Web  - 10CS73) 0 15 15 A
+(JAVA & J2EE  - 10IS753) 0 15 15 A
+(Data Warehousing & Data Mining  - 10IS74) 0 15 15 A
+(Storage Area Networks  - 10IS765) 0 10 10 A
+(Networks Lab.  - 10CSL77) 24 15 39 P
+(Web Programming Lab.  - 10CSL78) 20 15 35 P
+total= 171
+**
+1ds11is098
+SRISHTI KUMARI sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 63 24 87 P
+(Information Systems  - 10IS72) 63 21 84 P
+(Programming the Web  - 10CS73) 59 24 83 P
+(JAVA & J2EE  - 10IS753) 66 25 91 P
+(Data Warehousing & Data Mining  - 10IS74) 57 25 82 P
+(Storage Area Networks  - 10IS765) 72 23 95 P
+(Networks Lab.  - 10CSL77) 46 23 69 P
+(Web Programming Lab.  - 10CSL78) 48 22 70 P
+total= 661
+**
+1ds11is099
+SUDHA ASHOK K sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 46 25 71 P
+(Information Systems  - 10IS72) 76 18 94 P
+(Programming the Web  - 10CS73) 62 18 80 P
+(JAVA & J2EE  - 10IS753) 71 22 93 P
+(Data Warehousing & Data Mining  - 10IS74) 62 24 86 P
+(Storage Area Networks  - 10IS765) 69 23 92 P
+(Networks Lab.  - 10CSL77) 44 24 68 P
+(Web Programming Lab.  - 10CSL78) 47 23 70 P
+total= 654
+**
+1ds11is100
+SUDHEENDRA M BHARADWAJ sem: 7 Result: SC
+(Object-Oriented Modeling & Design  - 10CS71) 47 15 62 P
+(Information Systems  - 10IS72) 55 15 70 P
+(Programming the Web  - 10CS73) 52 15 67 P
+(JAVA & J2EE  - 10IS753) 51 16 67 P
+(Data Warehousing & Data Mining  - 10IS74) 51 15 66 P
+(Storage Area Networks  - 10IS765) 61 15 76 P
+(Networks Lab.  - 10CSL77) 45 22 67 P
+(Web Programming Lab.  - 10CSL78) 25 22 47 P
+total= 522
+**
+1ds11is101
+SUDIPTA SAHA sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 49 24 73 P
+(Information Systems  - 10IS72) 58 21 79 P
+(Programming the Web  - 10CS73) 72 22 94 P
+(JAVA & J2EE  - 10IS753) 67 24 91 P
+(Data Warehousing & Data Mining  - 10IS74) 50 24 74 P
+(Storage Area Networks  - 10IS765) 74 25 99 P
+(Networks Lab.  - 10CSL77) 46 25 71 P
+(Web Programming Lab.  - 10CSL78) 48 25 73 P
+total= 654
+**
+1ds11is102
+SULTAN BAIG sem: 7 Result: SC
+(Object-Oriented Modeling & Design  - 10CS71) 41 21 62 P
+(Information Systems  - 10IS72) 43 16 59 P
+(Programming the Web  - 10CS73) 52 15 67 P
+(JAVA & J2EE  - 10IS753) 50 18 68 P
+(Data Warehousing & Data Mining  - 10IS74) 51 20 71 P
+(Storage Area Networks  - 10IS765) 47 17 64 P
+(Networks Lab.  - 10CSL77) 39 22 61 P
+(Web Programming Lab.  - 10CSL78) 30 20 50 P
+total= 502
+**
+1ds11is103
+SUPREETHA S sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 63 25 88 P
+(Information Systems  - 10IS72) 62 19 81 P
+(Programming the Web  - 10CS73) 71 23 94 P
+(JAVA & J2EE  - 10IS753) 68 25 93 P
+(Data Warehousing & Data Mining  - 10IS74) 61 25 86 P
+(Storage Area Networks  - 10IS765) 66 25 91 P
+(Networks Lab.  - 10CSL77) 45 25 70 P
+(Web Programming Lab.  - 10CSL78) 48 25 73 P
+total= 676
+**
+1ds11is105
+SYED ABDUL WASEEM sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 60 17 77 P
+(Information Systems  - 10IS72) 63 16 79 P
+(Programming the Web  - 10CS73) 50 16 66 P
+(JAVA & J2EE  - 10IS753) 54 20 74 P
+(Data Warehousing & Data Mining  - 10IS74) 62 24 86 P
+(Storage Area Networks  - 10IS765) 58 23 81 P
+(Networks Lab.  - 10CSL77) 46 22 68 P
+(Web Programming Lab.  - 10CSL78) 46 18 64 P
+total= 595
+**
+1ds11is106
+VAIBHAV RAJNIKANT DEDHIA sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 57 22 79 P
+(Information Systems  - 10IS72) 55 17 72 P
+(Programming the Web  - 10CS73) 56 17 73 P
+(JAVA & J2EE  - 10IS753) 46 17 63 P
+(Data Warehousing & Data Mining  - 10IS74) 62 24 86 P
+(Storage Area Networks  - 10IS765) 67 18 85 P
+(Networks Lab.  - 10CSL77) 41 22 63 P
+(Web Programming Lab.  - 10CSL78) 46 16 62 P
+total= 583
+**
+1ds11is107
+VANSHIKA AGARWAL sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 71 25 96 P
+(Information Systems  - 10IS72) 69 23 92 P
+(Programming the Web  - 10CS73) 66 23 89 P
+(JAVA & J2EE  - 10IS753) 68 24 92 P
+(Data Warehousing & Data Mining  - 10IS74) 49 25 74 P
+(Storage Area Networks  - 10IS765) 76 23 99 P
+(Networks Lab.  - 10CSL77) 47 24 71 P
+(Web Programming Lab.  - 10CSL78) 47 25 72 P
+total= 685
+**
+1ds11is108
+VEENA.K sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 60 23 83 P
+(Information Systems  - 10IS72) 56 20 76 P
+(Programming the Web  - 10CS73) 54 17 71 P
+(JAVA & J2EE  - 10IS753) 61 20 81 P
+(Data Warehousing & Data Mining  - 10IS74) 53 22 75 P
+(Storage Area Networks  - 10IS765) 60 19 79 P
+(Networks Lab.  - 10CSL77) 44 24 68 P
+(Web Programming Lab.  - 10CSL78) 45 20 65 P
+total= 598
+**
+1ds11is109
+VICKY GUPTA sem: 7 Result: SC
+(Object-Oriented Modeling & Design  - 10CS71) 49 15 64 P
+(Information Systems  - 10IS72) 43 16 59 P
+(Programming the Web  - 10CS73) 52 16 68 P
+(JAVA & J2EE  - 10IS753) 36 15 51 P
+(Data Warehousing & Data Mining  - 10IS74) 47 18 65 P
+(Storage Area Networks  - 10IS765) 55 16 71 P
+(Networks Lab.  - 10CSL77) 44 24 68 P
+(Web Programming Lab.  - 10CSL78) 47 22 69 P
+total= 515
+**
+1ds11is110
+VIVEK.A.N sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 55 21 76 P
+(Information Systems  - 10IS72) 61 22 83 P
+(Programming the Web  - 10CS73) 71 19 90 P
+(JAVA & J2EE  - 10IS753) 55 19 74 P
+(Data Warehousing & Data Mining  - 10IS74) 62 25 87 P
+(Storage Area Networks  - 10IS765) 59 18 77 P
+(Networks Lab.  - 10CSL77) 46 23 69 P
+(Web Programming Lab.  - 10CSL78) 46 22 68 P
+total= 624
+**
+1ds11is111
+YASHIKA.V sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 70 24 94 P
+(Information Systems  - 10IS72) 77 20 97 P
+(Programming the Web  - 10CS73) 64 20 84 P
+(JAVA & J2EE  - 10IS753) 70 22 92 P
+(Data Warehousing & Data Mining  - 10IS74) 61 24 85 P
+(Storage Area Networks  - 10IS765) 68 21 89 P
+(Networks Lab.  - 10CSL77) 47 24 71 P
+(Web Programming Lab.  - 10CSL78) 46 24 70 P
+total= 682
+**
+1ds11is112
+ANUPAMA TRIPATHI sem: 7 Result: SC
+(Object-Oriented Modeling & Design  - 10CS71) 54 19 73 P
+(Information Systems  - 10IS72) 46 18 64 P
+(Programming the Web  - 10CS73) 47 15 62 P
+(JAVA & J2EE  - 10IS753) 35 15 50 P
+(Data Warehousing & Data Mining  - 10IS74) 48 19 67 P
+(Storage Area Networks  - 10IS765) 51 18 69 P
+(Networks Lab.  - 10CSL77) 38 17 55 P
+(Web Programming Lab.  - 10CSL78) 28 14 42 P
+total= 482
+**
+1ds11is113
+DARSHAN DUTT D sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 67 23 90 P
+(Information Systems  - 10IS72) 74 18 92 P
+(Programming the Web  - 10CS73) 63 19 82 P
+(JAVA & J2EE  - 10IS753) 57 19 76 P
+(Data Warehousing & Data Mining  - 10IS74) 54 20 74 P
+(Storage Area Networks  - 10IS765) 72 23 95 P
+(Networks Lab.  - 10CSL77) 38 25 63 P
+(Web Programming Lab.  - 10CSL78) 38 22 60 P
+total= 632
+**
+1ds11is114
+ADITYA S RAO sem: 7 Result: FAIL
+(Object-Oriented Modeling & Design  - 10CS71) 19 15 34 F
+(Information Systems  - 10IS72) 36 14 50 P
+(Programming the Web  - 10CS73) 27 15 42 F
+(JAVA & J2EE  - 10IS753) 22 15 37 F
+(Data Warehousing & Data Mining  - 10IS74) 41 15 56 P
+(Storage Area Networks  - 10IS765) 38 12 50 P
+(Networks Lab.  - 10CSL77) 20 18 38 P
+(Web Programming Lab.  - 10CSL78) 20 14 34 P
+total= 341
+**
+1ds11is115
+GAYATRI P sem: 7 Result: SC
+(Object-Oriented Modeling & Design  - 10CS71) 37 19 56 P
+(Information Systems  - 10IS72) 40 15 55 P
+(Programming the Web  - 10CS73) 41 17 58 P
+(JAVA & J2EE  - 10IS753) 38 16 54 P
+(Data Warehousing & Data Mining  - 10IS74) 35 21 56 P
+(Storage Area Networks  - 10IS765) 48 15 63 P
+(Networks Lab.  - 10CSL77) 40 24 64 P
+(Web Programming Lab.  - 10CSL78) 49 22 71 P
+total= 477
+**
+1ds11is116
+GHOUSIA ALLA BAKASH SHAIKH sem: 7 Result: SC
+(Object-Oriented Modeling & Design  - 10CS71) 37 22 59 P
+(Information Systems  - 10IS72) 51 17 68 P
+(Programming the Web  - 10CS73) 57 17 74 P
+(JAVA & J2EE  - 10IS753) 45 16 61 P
+(Data Warehousing & Data Mining  - 10IS74) 48 20 68 P
+(Storage Area Networks  - 10IS765) 43 18 61 P
+(Networks Lab.  - 10CSL77) 32 25 57 P
+(Web Programming Lab.  - 10CSL78) 47 24 71 P
+total= 519
+**
+1ds11is117
+SWATHI P sem: 7 Result: FAIL
+(Object-Oriented Modeling & Design  - 10CS71) 46 17 63 P
+(Information Systems  - 10IS72) 26 15 41 F
+(Programming the Web  - 10CS73) 49 15 64 P
+(JAVA & J2EE  - 10IS753) 52 16 68 P
+(Data Warehousing & Data Mining  - 10IS74) 54 17 71 P
+(Storage Area Networks  - 10IS765) 50 15 65 P
+(Networks Lab.  - 10CSL77) 44 24 68 P
+(Web Programming Lab.  - 10CSL78) 35 22 57 P
+total= 497
+**
+1ds11is118
+NAFIYA MONIS sem: 7 Result: SC
+(Object-Oriented Modeling & Design  - 10CS71) 41 16 57 P
+(Information Systems  - 10IS72) 66 16 82 P
+(Programming the Web  - 10CS73) 50 15 65 P
+(JAVA & J2EE  - 10IS753) 45 16 61 P
+(Data Warehousing & Data Mining  - 10IS74) 47 22 69 P
+(Storage Area Networks  - 10IS765) 56 18 74 P
+(Networks Lab.  - 10CSL77) 31 23 54 P
+(Web Programming Lab.  - 10CSL78) 20 15 35 P
+total= 497
+**
+1ds11is119
+PRATIBHA SURANA sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 63 24 87 P
+(Information Systems  - 10IS72) 61 19 80 P
+(Programming the Web  - 10CS73) 49 23 72 P
+(JAVA & J2EE  - 10IS753) 51 21 72 P
+(Data Warehousing & Data Mining  - 10IS74) 52 21 73 P
+(Storage Area Networks  - 10IS765) 68 23 91 P
+(Networks Lab.  - 10CSL77) 45 21 66 P
+(Web Programming Lab.  - 10CSL78) 35 22 57 P
+total= 598
+**
+1ds11is120
+PRIYANKA RAO.N sem: 7 Result: FAIL
+(Object-Oriented Modeling & Design  - 10CS71) 51 23 74 P
+(Information Systems  - 10IS72) 62 17 79 P
+(Programming the Web  - 10CS73) 52 24 76 P
+(JAVA & J2EE  - 10IS753) 38 18 56 P
+(Data Warehousing & Data Mining  - 10IS74) 40 19 59 P
+(Storage Area Networks  - 10IS765) 26 17 43 F
+(Networks Lab.  - 10CSL77) 43 24 67 P
+(Web Programming Lab.  - 10CSL78) 40 23 63 P
+total= 517
+**
+1ds11is122
+MAMATHA D sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 48 23 71 P
+(Information Systems  - 10IS72) 76 17 93 P
+(Programming the Web  - 10CS73) 62 17 79 P
+(JAVA & J2EE  - 10IS753) 47 22 69 P
+(Data Warehousing & Data Mining  - 10IS74) 72 22 94 P
+(Storage Area Networks  - 10IS765) 67 15 82 P
+(Networks Lab.  - 10CSL77) 44 20 64 P
+(Web Programming Lab.  - 10CSL78) 46 22 68 P
+total= 620
+**
+1ds12is400
+ANMOL ARSHIYA sem: 7 Result: FAIL
+(Object-Oriented Modeling & Design  - 10CS71) 28 21 49 F
+(Information Systems  - 10IS72) 71 15 86 P
+(Programming the Web  - 10CS73) 57 15 72 P
+(JAVA & J2EE  - 10IS753) 27 19 46 F
+(Data Warehousing & Data Mining  - 10IS74) 41 17 58 P
+(Storage Area Networks  - 10IS765) 41 15 56 P
+(Networks Lab.  - 10CSL77) 38 19 57 P
+(Web Programming Lab.  - 10CSL78) 44 21 65 P
+total= 489
+**
+1ds12is401
+DIVYA.S.V sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 42 21 63 P
+(Information Systems  - 10IS72) 77 15 92 P
+(Programming the Web  - 10CS73) 64 16 80 P
+(JAVA & J2EE  - 10IS753) 41 22 63 P
+(Data Warehousing & Data Mining  - 10IS74) 58 21 79 P
+(Storage Area Networks  - 10IS765) 66 15 81 P
+(Networks Lab.  - 10CSL77) 40 17 57 P
+(Web Programming Lab.  - 10CSL78) 40 20 60 P
+total= 575
+**
+1ds12is404
+HARISH.N sem: 7 Result: FAIL
+(Object-Oriented Modeling & Design  - 10CS71) 23 15 38 F
+(Information Systems  - 10IS72) 66 15 81 P
+(Programming the Web  - 10CS73) 14 15 29 F
+(JAVA & J2EE  - 10IS753) 29 15 44 F
+(Data Warehousing & Data Mining  - 10IS74) 27 15 42 F
+(Storage Area Networks  - 10IS765) 6 15 21 F
+(Networks Lab.  - 10CSL77) 39 18 57 P
+(Web Programming Lab.  - 10CSL78) 45 22 67 P
+total= 379
+**
+1ds12is405
+LINGESH.N sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 35 21 56 P
+(Information Systems  - 10IS72) 78 16 94 P
+(Programming the Web  - 10CS73) 51 23 74 P
+(JAVA & J2EE  - 10IS753) 57 22 79 P
+(Data Warehousing & Data Mining  - 10IS74) 45 21 66 P
+(Storage Area Networks  - 10IS765) 75 22 97 P
+(Networks Lab.  - 10CSL77) 42 22 64 P
+(Web Programming Lab.  - 10CSL78) 20 22 42 P
+total= 572
+**
+1ds12is406
+MANJUNATHA.B sem: 7 Result: FAIL
+(Object-Oriented Modeling & Design  - 10CS71) 21 22 43 F
+(Information Systems  - 10IS72) 56 20 76 P
+(Programming the Web  - 10CS73) 45 18 63 P
+(JAVA & J2EE  - 10IS753) 35 18 53 P
+(Data Warehousing & Data Mining  - 10IS74) 37 18 55 P
+(Storage Area Networks  - 10IS765) 50 15 65 P
+(Networks Lab.  - 10CSL77) 40 20 60 P
+(Web Programming Lab.  - 10CSL78) 22 24 46 P
+total= 461
+**
+1ds12is407
+MENSHALI TRILOK KUMAR sem: 7 Result: FAIL
+(Object-Oriented Modeling & Design  - 10CS71) 26 15 41 F
+(Information Systems  - 10IS72) 66 18 84 P
+(JAVA & J2EE  - 10IS753) 35 17 52 P
+(Programming the Web  - 10CS73) 37 15 52 P
+(Data Warehousing & Data Mining  - 10IS74) 38 15 53 P
+(Storage Area Networks  - 10IS765) 39 15 54 P
+(Networks Lab.  - 10CSL77) 46 17 63 P
+(Web Programming Lab.  - 10CSL78) 44 21 65 P
+total= 38
+**
+1ds12is409
+PRATHIK.M sem: 7 Result: SC
+(Object-Oriented Modeling & Design  - 10CS71) 35 19 54 P
+(Information Systems  - 10IS72) 49 20 69 P
+(Programming the Web  - 10CS73) 35 19 54 P
+(JAVA & J2EE  - 10IS753) 40 18 58 P
+(Data Warehousing & Data Mining  - 10IS74) 41 17 58 P
+(Storage Area Networks  - 10IS765) 53 16 69 P
+(Networks Lab.  - 10CSL77) 44 23 67 P
+(Web Programming Lab.  - 10CSL78) 46 21 67 P
+total= 496
+**
+1ds12is410
+PUNEETHRAJ.J.N sem: 7 Result: FAIL
+(Object-Oriented Modeling & Design  - 10CS71) 40 15 55 P
+(Information Systems  - 10IS72) 56 18 74 P
+(Programming the Web  - 10CS73) 35 16 51 P
+(JAVA & J2EE  - 10IS753) 27 22 49 F
+(Data Warehousing & Data Mining  - 10IS74) 48 20 68 P
+(Storage Area Networks  - 10IS765) 58 19 77 P
+(Networks Lab.  - 10CSL77) 46 24 70 P
+(Web Programming Lab.  - 10CSL78) 47 21 68 P
+total= 512
+**
+1ds12is411
+RAJINA.T.P sem: 7 Result: SC
+(Object-Oriented Modeling & Design  - 10CS71) 48 21 69 P
+(Information Systems  - 10IS72) 48 15 63 P
+(Programming the Web  - 10CS73) 37 18 55 P
+(JAVA & J2EE  - 10IS753) 35 16 51 P
+(Data Warehousing & Data Mining  - 10IS74) 38 18 56 P
+(Storage Area Networks  - 10IS765) 64 15 79 P
+(Networks Lab.  - 10CSL77) 47 17 64 P
+(Web Programming Lab.  - 10CSL78) 47 24 71 P
+total= 508
+**
+1ds12is412
+RAKESH.S.BELLUBBI sem: 7 Result: FAIL
+(Object-Oriented Modeling & Design  - 10CS71) 17 16 33 F
+(Information Systems  - 10IS72) 42 18 60 P
+(Programming the Web  - 10CS73) 45 15 60 P
+(JAVA & J2EE  - 10IS753) 35 15 50 P
+(Data Warehousing & Data Mining  - 10IS74) 27 15 42 F
+(Storage Area Networks  - 10IS765) 44 15 59 P
+(Networks Lab.  - 10CSL77) 32 17 49 P
+(Web Programming Lab.  - 10CSL78) 43 23 66 P
+total= 419
+**
+1ds12is413
+RAVI KUMAR H.R sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 62 23 85 P
+(Information Systems  - 10IS72) 62 16 78 P
+(Programming the Web  - 10CS73) 47 17 64 P
+(JAVA & J2EE  - 10IS753) 44 22 66 P
+(Data Warehousing & Data Mining  - 10IS74) 53 24 77 P
+(Storage Area Networks  - 10IS765) 64 21 85 P
+(Networks Lab.  - 10CSL77) 46 19 65 P
+(Web Programming Lab.  - 10CSL78) 46 22 68 P
+total= 588
+**
+1ds12is414
+RAVI PRASAD.B sem: 7 Result: SC
+(Object-Oriented Modeling & Design  - 10CS71) 58 15 73 P
+(Information Systems  - 10IS72) 49 17 66 P
+(Programming the Web  - 10CS73) 43 16 59 P
+(JAVA & J2EE  - 10IS753) 35 15 50 P
+(Data Warehousing & Data Mining  - 10IS74) 48 17 65 P
+(Storage Area Networks  - 10IS765) 53 15 68 P
+(Networks Lab.  - 10CSL77) 44 22 66 P
+(Web Programming Lab.  - 10CSL78) 46 24 70 P
+total= 517
+**
+1ds12is415
+SAGAR.S.R sem: 7 Result: FAIL
+(Object-Oriented Modeling & Design  - 10CS71) 67 15 82 P
+(Information Systems  - 10IS72) 48 18 66 P
+(Programming the Web  - 10CS73) 35 15 50 P
+(JAVA & J2EE  - 10IS753) 9 15 24 F
+(Data Warehousing & Data Mining  - 10IS74) 46 15 61 P
+(Storage Area Networks  - 10IS765) 51 15 66 P
+(Networks Lab.  - 10CSL77) 43 16 59 P
+(Web Programming Lab.  - 10CSL78) 40 22 62 P
+total= 470
+**
+1ds12is416
+SHARATH.N sem: 7 Result: FAIL
+(Object-Oriented Modeling & Design  - 10CS71) 35 15 50 P
+(Information Systems  - 10IS72) 52 17 69 P
+(Programming the Web  - 10CS73) 41 15 56 P
+(JAVA & J2EE  - 10IS753) 4 15 19 F
+(Data Warehousing & Data Mining  - 10IS74) 40 15 55 P
+(Storage Area Networks  - 10IS765) 65 15 80 P
+(Networks Lab.  - 10CSL77) 46 17 63 P
+(Web Programming Lab.  - 10CSL78) 40 22 62 P
+total= 35
+**
+1ds12is418
+SHWETHA.S sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 70 23 93 P
+(Information Systems  - 10IS72) 61 15 76 P
+(Programming the Web  - 10CS73) 67 20 87 P
+(JAVA & J2EE  - 10IS753) 49 21 70 P
+(Data Warehousing & Data Mining  - 10IS74) 58 23 81 P
+(Storage Area Networks  - 10IS765) 61 17 78 P
+(Networks Lab.  - 10CSL77) 37 22 59 P
+(Web Programming Lab.  - 10CSL78) 46 22 68 P
+total= 612
+**
+1ds12is419
+SOMAPRAKASHA.D sem: 7 Result: FCD
+(Object-Oriented Modeling & Design  - 10CS71) 76 23 99 P
+(Information Systems  - 10IS72) 65 17 82 P
+(Programming the Web  - 10CS73) 59 20 79 P
+(JAVA & J2EE  - 10IS753) 49 24 73 P
+(Data Warehousing & Data Mining  - 10IS74) 62 25 87 P
+(Storage Area Networks  - 10IS765) 70 24 94 P
+(Networks Lab.  - 10CSL77) 45 24 69 P
+(Web Programming Lab.  - 10CSL78) 35 22 57 P
+total= 640
+**
+1ds12is420
+SRINIVASA.J.G sem: 7 Result: FC
+(Object-Oriented Modeling & Design  - 10CS71) 66 20 86 P
+(Information Systems  - 10IS72) 55 20 75 P
+(Programming the Web  - 10CS73) 40 21 61 P
+(JAVA & J2EE  - 10IS753) 35 23 58 P
+(Data Warehousing & Data Mining  - 10IS74) 52 15 67 P
+(Storage Area Networks  - 10IS765) 61 15 76 P
+(Networks Lab.  - 10CSL77) 40 17 57 P
+(Web Programming Lab.  - 10CSL78) 42 23 65 P
+total= 545
+**
+1ds12is421
+SUMIT GHANATE sem: 7 Result: FAIL
+(Object-Oriented Modeling & Design  - 10CS71) 60 16 76 P
+(Information Systems  - 10IS72) 52 16 68 P
+(Programming the Web  - 10CS73) 47 16 63 P
+(JAVA & J2EE  - 10IS753) 25 17 42 F
+(Data Warehousing & Data Mining  - 10IS74) 50 17 67 P
+(Storage Area Networks  - 10IS765) 62 20 82 P
+(Networks Lab.  - 10CSL77) 47 17 64 P
+(Web Programming Lab.  - 10CSL78) 28 24 52 P
+total= 514
+**
+1ds12is422
+SURYA KIRAN .J sem: 7 Result: FAIL
+(Object-Oriented Modeling & Design  - 10CS71) 55 15 70 P
+(Information Systems  - 10IS72) 44 15 59 P
+(Programming the Web  - 10CS73) 46 15 61 P
+(JAVA & J2EE  - 10IS753) 20 15 35 F
+(Data Warehousing & Data Mining  - 10IS74) 36 15 51 P
+(Storage Area Networks  - 10IS765) 50 15 65 P
+(Networks Lab.  - 10CSL77) 32 23 55 P
+(Web Programming Lab.  - 10CSL78) 38 24 62 P
+total= 458
+**
+1ds12is423
+TEJAS S sem: 7 Result: FAIL
+(Object-Oriented Modeling & Design  - 10CS71) 53 15 68 P
+(Information Systems  - 10IS72) 48 15 63 P
+(Programming the Web  - 10CS73) 32 15 47 F
+(JAVA & J2EE  - 10IS753) 30 16 46 F
+(Data Warehousing & Data Mining  - 10IS74) 40 15 55 P
+(Storage Area Networks  - 10IS765) 50 15 65 P
+(Networks Lab.  - 10CSL77) 38 20 58 P
+(Web Programming Lab.  - 10CSL78) 40 22 62 P
+total= 45
+**
+false
+124

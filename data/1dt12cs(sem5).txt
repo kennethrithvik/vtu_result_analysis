@@ -1,0 +1,698 @@
+1dt12cs001
+ABDUR RAHIM sem: 5 Result: SC
+(Software Engineering  - 10IS51) 40 23 63 P
+(Systems Software  - 10CS52) 59 15 74 P
+(Operating Systems  - 10CS53) 39 23 62 P
+(Database Management Systems  - 10CS54) 68 23 91 P
+(Computer Networks - I  - 10CS55) 40 21 61 P
+(Formal Languages & Automata Theory  - 10CS56) 35 20 55 P
+(Database Applications Laboratory  - 10CSL57) 31 18 49 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 34 20 54 P
+total= 45
+**
+1dt12cs002
+ABHISHEK N K sem: 5 Result: FC
+(Software Engineering  - 10IS51) 44 17 61 P
+(Systems Software  - 10CS52) 52 20 72 P
+(Operating Systems  - 10CS53) 41 24 65 P
+(Database Management Systems  - 10CS54) 80 24 104 P
+(Computer Networks - I  - 10CS55) 42 23 65 P
+(Formal Languages & Automata Theory  - 10CS56) 35 17 52 P
+(Database Applications Laboratory  - 10CSL57) 46 22 68 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 45 20 65 P
+total= 552
+**
+1dt12cs003
+ABHISHEK RAJ sem: 5 Result: FC
+(Software Engineering  - 10IS51) 61 21 82 P
+(Systems Software  - 10CS52) 49 16 65 P
+(Operating Systems  - 10CS53) 36 25 61 P
+(Database Management Systems  - 10CS54) 72 24 96 P
+(Computer Networks - I  - 10CS55) 42 20 62 P
+(Formal Languages & Automata Theory  - 10CS56) 35 18 53 P
+(Database Applications Laboratory  - 10CSL57) 35 23 58 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 45 19 64 P
+total= 541
+**
+1dt12cs005
+AISHWARYA MAHESH sem: 5 Result: FC
+(Software Engineering  - 10IS51) 63 21 84 P
+(Systems Software  - 10CS52) 51 24 75 P
+(Operating Systems  - 10CS53) 49 25 74 P
+(Database Management Systems  - 10CS54) 49 25 74 P
+(Computer Networks - I  - 10CS55) 59 25 84 P
+(Formal Languages & Automata Theory  - 10CS56) 42 24 66 P
+(Database Applications Laboratory  - 10CSL57) 47 23 70 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 46 23 69 P
+total= 596
+**
+1dt12cs006
+AKASH KASHYAP R sem: 5 Result: FCD
+(Software Engineering  - 10IS51) 60 24 84 P
+(Systems Software  - 10CS52) 59 24 83 P
+(Operating Systems  - 10CS53) 53 25 78 P
+(Database Management Systems  - 10CS54) 81 25 106 P
+(Computer Networks - I  - 10CS55) 54 25 79 P
+(Formal Languages & Automata Theory  - 10CS56) 44 24 68 P
+(Database Applications Laboratory  - 10CSL57) 47 24 71 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 45 24 69 P
+total= 638
+**
+1dt12cs007
+AKHIL JALLA sem: 5 Result: FCD
+(Software Engineering  - 10IS51) 55 24 79 P
+(Systems Software  - 10CS52) 65 22 87 P
+(Operating Systems  - 10CS53) 58 25 83 P
+(Database Management Systems  - 10CS54) 83 24 107 P
+(Computer Networks - I  - 10CS55) 58 23 81 P
+(Formal Languages & Automata Theory  - 10CS56) 46 22 68 P
+(Database Applications Laboratory  - 10CSL57) 45 24 69 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 43 20 63 P
+total= 637
+**
+1dt12cs008
+ANINDITA DAS sem: 5 Result: FCD
+(Software Engineering  - 10IS51) 63 24 87 P
+(Systems Software  - 10CS52) 68 22 90 P
+(Operating Systems  - 10CS53) 65 25 90 P
+(Database Management Systems  - 10CS54) 88 25 113 P
+(Computer Networks - I  - 10CS55) 56 25 81 P
+(Formal Languages & Automata Theory  - 10CS56) 56 24 80 P
+(Database Applications Laboratory  - 10CSL57) 45 21 66 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 49 24 73 P
+total= 680
+**
+1dt12cs010
+ANKIT VISHWAKARMA sem: 5 Result: FC
+(Software Engineering  - 10IS51) 48 20 68 P
+(Systems Software  - 10CS52) 60 16 76 P
+(Operating Systems  - 10CS53) 43 23 66 P
+(Database Management Systems  - 10CS54) 74 25 99 P
+(Computer Networks - I  - 10CS55) 39 19 58 P
+(Formal Languages & Automata Theory  - 10CS56) 35 16 51 P
+(Database Applications Laboratory  - 10CSL57) 45 23 68 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 42 20 62 P
+total= 548
+**
+1dt12cs011
+ANURAG AGARWAL sem: 5 Result: FCD
+(Software Engineering  - 10IS51) 53 23 76 P
+(Systems Software  - 10CS52) 56 25 81 P
+(Operating Systems  - 10CS53) 51 25 76 P
+(Database Management Systems  - 10CS54) 81 25 106 P
+(Computer Networks - I  - 10CS55) 53 24 77 P
+(Formal Languages & Automata Theory  - 10CS56) 49 24 73 P
+(Database Applications Laboratory  - 10CSL57) 47 24 71 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 45 23 68 P
+total= 630
+**
+1dt12cs012
+ASHUTOSH DUBEY sem: 5 Result: FC
+(Software Engineering  - 10IS51) 40 20 60 P
+(Systems Software  - 10CS52) 56 21 77 P
+(Operating Systems  - 10CS53) 36 22 58 P
+(Database Management Systems  - 10CS54) 70 24 94 P
+(Computer Networks - I  - 10CS55) 38 20 58 P
+(Formal Languages & Automata Theory  - 10CS56) 36 19 55 P
+(Database Applications Laboratory  - 10CSL57) 48 23 71 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 41 22 63 P
+total= 540
+**
+1dt12cs013
+ATHREYA K.S sem: 5 Result: SC
+(Software Engineering  - 10IS51) 35 23 58 P
+(Systems Software  - 10CS52) 48 15 63 P
+(Operating Systems  - 10CS53) 35 22 57 P
+(Database Management Systems  - 10CS54) 43 24 67 P
+(Computer Networks - I  - 10CS55) 43 25 68 P
+(Formal Languages & Automata Theory  - 10CS56) 35 19 54 P
+(Database Applications Laboratory  - 10CSL57) 46 24 70 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 47 18 65 P
+total= 75
+**
+1dt12cs014
+ATUL VASUDEVAN sem: 5 Result: FCD
+(Software Engineering  - 10IS51) 42 24 66 P
+(Systems Software  - 10CS52) 48 23 71 P
+(Operating Systems  - 10CS53) 71 25 96 P
+(Database Management Systems  - 10CS54) 75 25 100 P
+(Computer Networks - I  - 10CS55) 55 25 80 P
+(Formal Languages & Automata Theory  - 10CS56) 49 24 73 P
+(Database Applications Laboratory  - 10CSL57) 45 24 69 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 48 23 71 P
+total= 630
+**
+1dt12cs015
+BHARADWAJA KARANTHA K sem: 5 Result: FAIL
+(Software Engineering  - 10IS51) 28 15 43 F
+(Systems Software  - 10CS52) 46 15 61 P
+(Operating Systems  - 10CS53) 35 19 54 P
+(Database Management Systems  - 10CS54) 63 23 86 P
+(Computer Networks - I  - 10CS55) 35 22 57 P
+(Formal Languages & Automata Theory  - 10CS56) 35 19 54 P
+(Database Applications Laboratory  - 10CSL57) 40 22 62 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 37 18 55 P
+total= 472
+**
+1dt12cs017
+CHAITRA .C sem: 5 Result: FAIL
+(Software Engineering  - 10IS51) 26 19 45 F
+(Systems Software  - 10CS52) 47 25 72 P
+(Operating Systems  - 10CS53) 49 24 73 P
+(Database Management Systems  - 10CS54) 78 25 103 P
+(Computer Networks - I  - 10CS55) 35 21 56 P
+(Formal Languages & Automata Theory  - 10CS56) 43 25 68 P
+(Database Applications Laboratory  - 10CSL57) 48 21 69 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 39 22 61 P
+total= 46
+**
+1dt12cs018
+DARSHAN D.T sem: 5 Result: FC
+(Software Engineering  - 10IS51) 52 21 73 P
+(Systems Software  - 10CS52) 60 23 83 P
+(Operating Systems  - 10CS53) 42 25 67 P
+(Database Management Systems  - 10CS54) 65 24 89 P
+(Computer Networks - I  - 10CS55) 52 23 75 P
+(Formal Languages & Automata Theory  - 10CS56) 41 20 61 P
+(Database Applications Laboratory  - 10CSL57) 47 21 68 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 46 20 66 P
+total= 75
+**
+1dt12cs019
+DISHA PANKAJ PATEL sem: 5 Result: FCD
+(Software Engineering  - 10IS51) 70 24 94 P
+(Systems Software  - 10CS52) 65 22 87 P
+(Operating Systems  - 10CS53) 72 25 97 P
+(Database Management Systems  - 10CS54) 70 25 95 P
+(Computer Networks - I  - 10CS55) 51 24 75 P
+(Formal Languages & Automata Theory  - 10CS56) 61 24 85 P
+(Database Applications Laboratory  - 10CSL57) 48 24 72 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 48 25 73 P
+total= 678
+**
+1dt12cs020
+EESHITA RAY CHOWDHURY sem: 5 Result: FC
+(Software Engineering  - 10IS51) 57 24 81 P
+(Systems Software  - 10CS52) 56 22 78 P
+(Operating Systems  - 10CS53) 59 25 84 P
+(Database Management Systems  - 10CS54) 63 23 86 P
+(Computer Networks - I  - 10CS55) 52 23 75 P
+(Formal Languages & Automata Theory  - 10CS56) 41 20 61 P
+(Database Applications Laboratory  - 10CSL57) 42 23 65 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 42 24 66 P
+total= 596
+**
+1dt12cs021
+GURURAJ sem: 5 Result: FC
+(Software Engineering  - 10IS51) 60 22 82 P
+(Systems Software  - 10CS52) 58 21 79 P
+(Operating Systems  - 10CS53) 50 23 73 P
+(Database Management Systems  - 10CS54) 63 24 87 P
+(Computer Networks - I  - 10CS55) 40 25 65 P
+(Formal Languages & Automata Theory  - 10CS56) 51 21 72 P
+(Database Applications Laboratory  - 10CSL57) 46 23 69 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 44 19 63 P
+total= 590
+**
+1dt12cs022
+K GOPI SHASHANK sem: 5 Result: FC
+(Software Engineering  - 10IS51) 55 23 78 P
+(Systems Software  - 10CS52) 52 18 70 P
+(Operating Systems  - 10CS53) 46 24 70 P
+(Database Management Systems  - 10CS54) 82 25 107 P
+(Computer Networks - I  - 10CS55) 43 24 67 P
+(Formal Languages & Automata Theory  - 10CS56) 37 20 57 P
+(Database Applications Laboratory  - 10CSL57) 46 22 68 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 47 18 65 P
+total= 582
+**
+1dt12cs023
+KEERTHI K.RAO M sem: 5 Result: FC
+(Software Engineering  - 10IS51) 58 22 80 P
+(Systems Software  - 10CS52) 52 24 76 P
+(Operating Systems  - 10CS53) 44 25 69 P
+(Database Management Systems  - 10CS54) 44 25 69 P
+(Computer Networks - I  - 10CS55) 55 25 80 P
+(Formal Languages & Automata Theory  - 10CS56) 41 24 65 P
+(Database Applications Laboratory  - 10CSL57) 48 22 70 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 47 22 69 P
+total= 578
+**
+1dt12cs024
+KRUPA PANCHAGNULA sem: 5 Result: FC
+(Software Engineering  - 10IS51) 41 20 61 P
+(Systems Software  - 10CS52) 63 21 84 P
+(Operating Systems  - 10CS53) 44 24 68 P
+(Database Management Systems  - 10CS54) 62 25 87 P
+(Computer Networks - I  - 10CS55) 56 25 81 P
+(Formal Languages & Automata Theory  - 10CS56) 43 23 66 P
+(Database Applications Laboratory  - 10CSL57) 48 24 72 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 47 23 70 P
+total= 589
+**
+1dt12cs025
+KUMARI NISHA sem: 5 Result: FCD
+(Software Engineering  - 10IS51) 69 24 93 P
+(Systems Software  - 10CS52) 65 25 90 P
+(Operating Systems  - 10CS53) 68 25 93 P
+(Database Management Systems  - 10CS54) 62 25 87 P
+(Computer Networks - I  - 10CS55) 67 25 92 P
+(Formal Languages & Automata Theory  - 10CS56) 56 25 81 P
+(Database Applications Laboratory  - 10CSL57) 47 23 70 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 46 25 71 P
+total= 677
+**
+1dt12cs026
+LAXMI M PATIL sem: 5 Result: FCD
+(Software Engineering  - 10IS51) 64 24 88 P
+(Systems Software  - 10CS52) 75 24 99 P
+(Operating Systems  - 10CS53) 57 25 82 P
+(Database Management Systems  - 10CS54) 52 25 77 P
+(Computer Networks - I  - 10CS55) 60 25 85 P
+(Formal Languages & Automata Theory  - 10CS56) 59 25 84 P
+(Database Applications Laboratory  - 10CSL57) 47 24 71 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 45 24 69 P
+total= 655
+**
+1dt12cs027
+MANJUNATH GANESH BHAGWAT sem: 5 Result: FC
+(Software Engineering  - 10IS51) 53 19 72 P
+(Systems Software  - 10CS52) 60 16 76 P
+(Operating Systems  - 10CS53) 51 22 73 P
+(Database Management Systems  - 10CS54) 52 24 76 P
+(Computer Networks - I  - 10CS55) 44 25 69 P
+(Formal Languages & Automata Theory  - 10CS56) 35 23 58 P
+(Database Applications Laboratory  - 10CSL57) 40 23 63 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 33 20 53 P
+total= 540
+**
+1dt12cs029
+MEGHA PRIYA sem: 5 Result: FCD
+(Software Engineering  - 10IS51) 61 19 80 P
+(Systems Software  - 10CS52) 67 24 91 P
+(Operating Systems  - 10CS53) 58 25 83 P
+(Database Management Systems  - 10CS54) 54 25 79 P
+(Computer Networks - I  - 10CS55) 51 24 75 P
+(Formal Languages & Automata Theory  - 10CS56) 51 25 76 P
+(Database Applications Laboratory  - 10CSL57) 47 23 70 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 47 24 71 P
+total= 630
+**
+1dt12cs030
+NAMITHA R sem: 5 Result: FC
+(Software Engineering  - 10IS51) 64 22 86 P
+(Systems Software  - 10CS52) 56 18 74 P
+(Operating Systems  - 10CS53) 42 23 65 P
+(Database Management Systems  - 10CS54) 45 25 70 P
+(Computer Networks - I  - 10CS55) 48 23 71 P
+(Formal Languages & Automata Theory  - 10CS56) 38 23 61 P
+(Database Applications Laboratory  - 10CSL57) 47 22 69 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 43 22 65 P
+total= 561
+**
+1dt12cs031
+PRASHANTH L sem: 5 Result: FAIL
+(Software Engineering  - 10IS51) 46 21 67 P
+(Systems Software  - 10CS52) 58 19 77 P
+(Operating Systems  - 10CS53) 27 25 52 F
+(Database Management Systems  - 10CS54) 43 25 68 P
+(Computer Networks - I  - 10CS55) 43 24 67 P
+(Formal Languages & Automata Theory  - 10CS56) 28 18 46 F
+(Database Applications Laboratory  - 10CSL57) 44 20 64 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 42 20 62 P
+total= 75
+**
+1dt12cs032
+PRAJWAL.S.DHARAN sem: 5 Result: FCD
+(Software Engineering  - 10IS51) 66 24 90 P
+(Systems Software  - 10CS52) 61 25 86 P
+(Operating Systems  - 10CS53) 68 25 93 P
+(Database Management Systems  - 10CS54) 60 25 85 P
+(Computer Networks - I  - 10CS55) 71 25 96 P
+(Formal Languages & Automata Theory  - 10CS56) 49 24 73 P
+(Database Applications Laboratory  - 10CSL57) 44 24 68 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 49 25 74 P
+total= 665
+**
+1dt12cs033
+R.ABHISHEK sem: 5 Result: FC
+(Software Engineering  - 10IS51) 52 20 72 P
+(Systems Software  - 10CS52) 58 18 76 P
+(Operating Systems  - 10CS53) 43 24 67 P
+(Database Management Systems  - 10CS54) 56 23 79 P
+(Computer Networks - I  - 10CS55) 62 23 85 P
+(Formal Languages & Automata Theory  - 10CS56) 51 21 72 P
+(Database Applications Laboratory  - 10CSL57) 48 24 72 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 48 19 67 P
+total= 590
+**
+1dt12cs034
+RAJ KUMAR YADAV sem: 5 Result: FAIL
+(Software Engineering  - 10IS51) 41 17 58 P
+(Systems Software  - 10CS52) 50 19 69 P
+(Operating Systems  - 10CS53) 35 21 56 P
+(Database Management Systems  - 10CS54) 22 25 47 F
+(Computer Networks - I  - 10CS55) 24 17 41 F
+(Formal Languages & Automata Theory  - 10CS56) 25 22 47 F
+(Database Applications Laboratory  - 10CSL57) 39 21 60 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 41 19 60 P
+total= 123
+**
+1dt12cs035
+RAKSHA .G.N.RAO sem: 5 Result: FCD
+(Software Engineering  - 10IS51) 76 24 100 P
+(Systems Software  - 10CS52) 72 25 97 P
+(Operating Systems  - 10CS53) 70 25 95 P
+(Database Management Systems  - 10CS54) 70 25 95 P
+(Computer Networks - I  - 10CS55) 64 25 89 P
+(Formal Languages & Automata Theory  - 10CS56) 52 25 77 P
+(Database Applications Laboratory  - 10CSL57) 48 24 72 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 49 25 74 P
+total= 699
+**
+1dt12cs036
+RAAZIYA SULTANA sem: 5 Result: FC
+(Software Engineering  - 10IS51) 61 23 84 P
+(Systems Software  - 10CS52) 57 24 81 P
+(Operating Systems  - 10CS53) 52 22 74 P
+(Database Management Systems  - 10CS54) 59 24 83 P
+(Computer Networks - I  - 10CS55) 50 25 75 P
+(Formal Languages & Automata Theory  - 10CS56) 43 25 68 P
+(Database Applications Laboratory  - 10CSL57) 47 24 71 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 47 23 70 P
+total= 606
+**
+1dt12cs039
+SHAHRUKH ALI sem: 5 Result: FCD
+(Software Engineering  - 10IS51) 66 24 90 P
+(Systems Software  - 10CS52) 72 23 95 P
+(Operating Systems  - 10CS53) 72 25 97 P
+(Database Management Systems  - 10CS54) 54 25 79 P
+(Computer Networks - I  - 10CS55) 59 25 84 P
+(Formal Languages & Automata Theory  - 10CS56) 54 22 76 P
+(Database Applications Laboratory  - 10CSL57) 46 24 70 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 48 24 72 P
+total= 663
+**
+1dt12cs040
+SHEENA SHRIVASTAVA sem: 5 Result: FCD
+(Software Engineering  - 10IS51) 61 25 86 P
+(Systems Software  - 10CS52) 74 25 99 P
+(Operating Systems  - 10CS53) 70 25 95 P
+(Database Management Systems  - 10CS54) 50 25 75 P
+(Computer Networks - I  - 10CS55) 59 25 84 P
+(Formal Languages & Automata Theory  - 10CS56) 60 25 85 P
+(Database Applications Laboratory  - 10CSL57) 44 23 67 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 47 25 72 P
+total= 663
+**
+1dt12cs041
+SHRESHTA VINAYAK sem: 5 Result: FCD
+(Software Engineering  - 10IS51) 67 24 91 P
+(Systems Software  - 10CS52) 62 23 85 P
+(Operating Systems  - 10CS53) 59 25 84 P
+(Database Management Systems  - 10CS54) 59 25 84 P
+(Computer Networks - I  - 10CS55) 61 24 85 P
+(Formal Languages & Automata Theory  - 10CS56) 35 22 57 P
+(Database Applications Laboratory  - 10CSL57) 46 24 70 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 49 22 71 P
+total= 630
+**
+1dt12cs042
+SHREYA DAS sem: 5 Result: FC
+(Software Engineering  - 10IS51) 64 21 85 P
+(Systems Software  - 10CS52) 63 15 78 P
+(Operating Systems  - 10CS53) 51 24 75 P
+(Database Management Systems  - 10CS54) 45 24 69 P
+(Computer Networks - I  - 10CS55) 42 21 63 P
+(Formal Languages & Automata Theory  - 10CS56) 48 16 64 P
+(Database Applications Laboratory  - 10CSL57) 34 21 55 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 46 20 66 P
+total= 98
+**
+1dt12cs043
+SHRUTHI S sem: 5 Result: FC
+(Software Engineering  - 10IS51) 54 24 78 P
+(Systems Software  - 10CS52) 54 24 78 P
+(Operating Systems  - 10CS53) 65 25 90 P
+(Database Management Systems  - 10CS54) 53 24 77 P
+(Computer Networks - I  - 10CS55) 50 25 75 P
+(Formal Languages & Automata Theory  - 10CS56) 43 25 68 P
+(Database Applications Laboratory  - 10CSL57) 43 24 67 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 43 22 65 P
+total= 598
+**
+1dt12cs045
+SOWJANYA.H sem: 5 Result: FCD
+(Software Engineering  - 10IS51) 54 23 77 P
+(Systems Software  - 10CS52) 64 25 89 P
+(Operating Systems  - 10CS53) 73 25 98 P
+(Database Management Systems  - 10CS54) 65 25 90 P
+(Computer Networks - I  - 10CS55) 50 25 75 P
+(Formal Languages & Automata Theory  - 10CS56) 44 24 68 P
+(Database Applications Laboratory  - 10CSL57) 47 22 69 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 46 25 71 P
+total= 637
+**
+1dt12cs046
+SOWMYA V sem: 5 Result: FC
+(Software Engineering  - 10IS51) 59 23 82 P
+(Systems Software  - 10CS52) 56 24 80 P
+(Operating Systems  - 10CS53) 52 25 77 P
+(Database Management Systems  - 10CS54) 56 25 81 P
+(Computer Networks - I  - 10CS55) 47 25 72 P
+(Formal Languages & Automata Theory  - 10CS56) 55 24 79 P
+(Database Applications Laboratory  - 10CSL57) 47 24 71 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 47 23 70 P
+total= 612
+**
+1dt12cs047
+SRI RAM B sem: 5 Result: FAIL
+(Software Engineering  - 10IS51) 54 23 77 P
+(Systems Software  - 10CS52) 54 16 70 P
+(Operating Systems  - 10CS53) 35 22 57 P
+(Database Management Systems  - 10CS54) 47 18 65 P
+(Computer Networks - I  - 10CS55) 35 21 56 P
+(Formal Languages & Automata Theory  - 10CS56) 26 20 46 F
+(Database Applications Laboratory  - 10CSL57) 45 22 67 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 43 23 66 P
+total= 504
+**
+1dt12cs048
+SUCHETHA HEGDE sem: 5 Result: FCD
+(Software Engineering  - 10IS51) 59 23 82 P
+(Systems Software  - 10CS52) 68 25 93 P
+(Operating Systems  - 10CS53) 60 25 85 P
+(Database Management Systems  - 10CS54) 57 25 82 P
+(Computer Networks - I  - 10CS55) 52 25 77 P
+(Formal Languages & Automata Theory  - 10CS56) 48 24 72 P
+(Database Applications Laboratory  - 10CSL57) 48 24 72 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 44 23 67 P
+total= 630
+**
+1dt12cs049
+SURBHI PANDEY sem: 5 Result: FC
+(Software Engineering  - 10IS51) 54 22 76 P
+(Systems Software  - 10CS52) 51 18 69 P
+(Operating Systems  - 10CS53) 36 25 61 P
+(Database Management Systems  - 10CS54) 53 25 78 P
+(Computer Networks - I  - 10CS55) 47 22 69 P
+(Formal Languages & Automata Theory  - 10CS56) 36 22 58 P
+(Database Applications Laboratory  - 10CSL57) 48 24 72 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 42 21 63 P
+total= 54
+**
+1dt12cs050
+SURESH S sem: 5 Result: FC
+(Software Engineering  - 10IS51) 63 23 86 P
+(Systems Software  - 10CS52) 60 20 80 P
+(Operating Systems  - 10CS53) 41 23 64 P
+(Database Management Systems  - 10CS54) 51 25 76 P
+(Computer Networks - I  - 10CS55) 47 24 71 P
+(Formal Languages & Automata Theory  - 10CS56) 38 21 59 P
+(Database Applications Laboratory  - 10CSL57) 43 21 64 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 41 19 60 P
+total= 560
+**
+1dt12cs051
+SHWETHA. P sem: 5 Result: SC
+(Software Engineering  - 10IS51) 45 20 65 P
+(Systems Software  - 10CS52) 45 22 67 P
+(Operating Systems  - 10CS53) 35 24 59 P
+(Database Management Systems  - 10CS54) 40 23 63 P
+(Computer Networks - I  - 10CS55) 43 25 68 P
+(Formal Languages & Automata Theory  - 10CS56) 39 22 61 P
+(Database Applications Laboratory  - 10CSL57) 37 19 56 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 45 19 64 P
+total= 108
+**
+1dt12cs053
+TEJAS H M sem: 5 Result: FC
+(Software Engineering  - 10IS51) 68 22 90 P
+(Systems Software  - 10CS52) 62 23 85 P
+(Operating Systems  - 10CS53) 41 25 66 P
+(Database Management Systems  - 10CS54) 49 25 74 P
+(Computer Networks - I  - 10CS55) 47 25 72 P
+(Formal Languages & Automata Theory  - 10CS56) 47 22 69 P
+(Database Applications Laboratory  - 10CSL57) 48 23 71 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 45 22 67 P
+total= 594
+**
+1dt12cs054
+UMESH P sem: 5 Result: FAIL
+(Software Engineering  - 10IS51) 35 18 53 P
+(Systems Software  - 10CS52) 38 19 57 P
+(Operating Systems  - 10CS53) 35 22 57 P
+(Database Management Systems  - 10CS54) 36 23 59 P
+(Computer Networks - I  - 10CS55) 23 22 45 F
+(Formal Languages & Automata Theory  - 10CS56) 22 17 39 F
+(Database Applications Laboratory  - 10CSL57) 43 22 65 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 41 19 60 P
+total= 138
+**
+1dt12cs055
+VIKAS D sem: 5 Result: FCD
+(Software Engineering  - 10IS51) 62 22 84 P
+(Systems Software  - 10CS52) 68 25 93 P
+(Operating Systems  - 10CS53) 44 25 69 P
+(Database Management Systems  - 10CS54) 62 25 87 P
+(Computer Networks - I  - 10CS55) 52 25 77 P
+(Formal Languages & Automata Theory  - 10CS56) 49 24 73 P
+(Database Applications Laboratory  - 10CSL57) 47 25 72 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 47 25 72 P
+total= 72
+**
+1dt12cs057
+SHIVAM SEHGAL sem: 5 Result: FC
+(Software Engineering  - 10IS51) 62 23 85 P
+(Systems Software  - 10CS52) 60 25 85 P
+(Operating Systems  - 10CS53) 57 24 81 P
+(Database Management Systems  - 10CS54) 56 25 81 P
+(Computer Networks - I  - 10CS55) 56 23 79 P
+(Formal Languages & Automata Theory  - 10CS56) 47 24 71 P
+(Database Applications Laboratory  - 10CSL57) 46 24 70 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 46 23 69 P
+total= 621
+**
+1dt12cs058
+PALLAVI M sem: 5 Result: FC
+(Software Engineering  - 10IS51) 43 20 63 P
+(Systems Software  - 10CS52) 54 19 73 P
+(Operating Systems  - 10CS53) 46 24 70 P
+(Database Management Systems  - 10CS54) 55 25 80 P
+(Computer Networks - I  - 10CS55) 47 24 71 P
+(Formal Languages & Automata Theory  - 10CS56) 37 22 59 P
+(Database Applications Laboratory  - 10CSL57) 47 23 70 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 44 21 65 P
+total= 551
+**
+1dt12cs059
+SYEDA SALEEMA ARFA sem: 5 Result: FAIL
+(Software Engineering  - 10IS51) 50 22 72 P
+(Systems Software  - 10CS52) 44 18 62 P
+(Operating Systems  - 10CS53) 41 24 65 P
+(Database Management Systems  - 10CS54) 27 23 50 F
+(Computer Networks - I  - 10CS55) 38 23 61 P
+(Formal Languages & Automata Theory  - 10CS56) 44 23 67 P
+(Database Applications Laboratory  - 10CSL57) 40 21 61 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 42 21 63 P
+total= 501
+**
+1dt13cs401
+JAMUNA C sem: 5 Result: SC
+(Software Engineering  - 10IS51) 53 22 75 P
+(Systems Software  - 10CS52) 46 20 66 P
+(Operating Systems  - 10CS53) 42 23 65 P
+(Database Management Systems  - 10CS54) 39 23 62 P
+(Computer Networks - I  - 10CS55) 35 21 56 P
+(Formal Languages & Automata Theory  - 10CS56) 35 17 52 P
+(Database Applications Laboratory  - 10CSL57) 36 21 57 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 42 20 62 P
+total= 155
+**
+1dt13cs402
+MONIKA.B sem: 5 Result: FAIL
+(Software Engineering  - 10IS51) 60 24 84 P
+(Systems Software  - 10CS52) 58 22 80 P
+(Operating Systems  - 10CS53) 48 25 73 P
+(Database Management Systems  - 10CS54) 59 25 84 P
+(Computer Networks - I  - 10CS55) 36 21 57 P
+(Formal Languages & Automata Theory  - 10CS56) 24 22 46 F
+(Database Applications Laboratory  - 10CSL57) 39 24 63 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 45 20 65 P
+total= 54
+**
+1dt13cs403
+NANDAKISHORE M sem: 5 Result: FC
+(Software Engineering  - 10IS51) 64 23 87 P
+(Systems Software  - 10CS52) 56 22 78 P
+(Operating Systems  - 10CS53) 63 24 87 P
+(Database Management Systems  - 10CS54) 35 23 58 P
+(Computer Networks - I  - 10CS55) 40 21 61 P
+(Formal Languages & Automata Theory  - 10CS56) 37 17 54 P
+(Database Applications Laboratory  - 10CSL57) 41 24 65 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 43 18 61 P
+total= 57
+**
+1dt13cs404
+NITHIN D KHANDELWAL sem: 5 Result: SC
+(Software Engineering  - 10IS51) 43 18 61 P
+(Systems Software  - 10CS52) 41 16 57 P
+(Operating Systems  - 10CS53) 50 15 65 P
+(Database Management Systems  - 10CS54) 36 20 56 P
+(Computer Networks - I  - 10CS55) 35 19 54 P
+(Formal Languages & Automata Theory  - 10CS56) 35 16 51 P
+(Database Applications Laboratory  - 10CSL57) 31 21 52 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 29 18 47 P
+total= 22
+**
+1dt13cs405
+POURAVARAJA K.P sem: 5 Result: FAIL
+(Software Engineering  - 10IS51) 41 19 60 P
+(Systems Software  - 10CS52) 41 19 60 P
+(Operating Systems  - 10CS53) 55 21 76 P
+(Database Management Systems  - 10CS54) 22 25 47 F
+(Computer Networks - I  - 10CS55) 38 24 62 P
+(Formal Languages & Automata Theory  - 10CS56) 39 18 57 P
+(Database Applications Laboratory  - 10CSL57) 38 24 62 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 37 22 59 P
+total= 120
+**
+1dt13cs406
+PRADEEP S sem: 5 Result: SC
+(Software Engineering  - 10IS51) 54 19 73 P
+(Systems Software  - 10CS52) 54 21 75 P
+(Operating Systems  - 10CS53) 64 25 89 P
+(Database Management Systems  - 10CS54) 35 19 54 P
+(Computer Networks - I  - 10CS55) 35 21 56 P
+(Formal Languages & Automata Theory  - 10CS56) 37 19 56 P
+(Database Applications Laboratory  - 10CSL57) 43 20 63 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 40 22 62 P
+total= 0
+**
+1dt13cs408
+SAVITHA.B sem: 5 Result: FC
+(Software Engineering  - 10IS51) 70 22 92 P
+(Systems Software  - 10CS52) 62 23 85 P
+(Operating Systems  - 10CS53) 63 25 88 P
+(Database Management Systems  - 10CS54) 52 24 76 P
+(Computer Networks - I  - 10CS55) 50 21 71 P
+(Formal Languages & Automata Theory  - 10CS56) 46 17 63 P
+(Database Applications Laboratory  - 10CSL57) 39 22 61 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 42 24 66 P
+total= 73
+**
+1dt13cs409
+SUNIL KUMAR S sem: 5 Result: FC
+(Software Engineering  - 10IS51) 46 22 68 P
+(Systems Software  - 10CS52) 63 20 83 P
+(Operating Systems  - 10CS53) 57 25 82 P
+(Database Management Systems  - 10CS54) 51 22 73 P
+(Computer Networks - I  - 10CS55) 42 24 66 P
+(Formal Languages & Automata Theory  - 10CS56) 40 18 58 P
+(Database Applications Laboratory  - 10CSL57) 37 17 54 P
+(Systems Software & Operating Systems Lab.  - 10CSL58) 34 19 53 P
+total= 0
+**
+false
+58

@@ -1,0 +1,1514 @@
+1ds14cs001
+A N RAVITEJA sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 69 23 92 P
+(Engineering Physics  - 14PHY12) 72 23 95 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 43 24 67 P
+(Elements of Mechanical Engineering  - 14EME14) 62 23 85 P
+(Basic Electrical Engineering  - 14ELE15) 62 25 87 P
+(Workshop Practice  - 14WSL16) 42 22 64 P
+(Engineering Physics Lab  - 14PHYL17) 46 23 69 P
+(Constitution of India & Professional Ethics  - 14CIP18) 21 19 40 P
+total= 559
+**
+1ds14cs002
+ABHIRAM BHARATHVAMSHI P S sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 81 24 105 P
+(Engineering Physics  - 14PHY12) 62 25 87 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 58 25 83 P
+(Elements of Mechanical Engineering  - 14EME14) 70 25 95 P
+(Basic Electrical Engineering  - 14ELE15) 84 25 109 P
+(Workshop Practice  - 14WSL16) 43 24 67 P
+(Engineering Physics Lab  - 14PHYL17) 49 25 74 P
+(Constitution of India & Professional Ethics  - 14CIP18) 30 24 54 P
+total= 620
+**
+1ds14cs003
+ABHISHEK SHUKLA sem: 1 Result: FAIL
+(Engineering Maths-I  - 14MAT11) 42 20 62 P
+(Engineering Physics  - 14PHY12) 48 20 68 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 45 25 70 P
+(Elements of Mechanical Engineering  - 14EME14) 40 22 62 P
+(Basic Electrical Engineering  - 14ELE15) 11 20 31 F
+(Workshop Practice  - 14WSL16) 35 21 56 P
+(Engineering Physics Lab  - 14PHYL17) 46 22 68 P
+(Constitution of India & Professional Ethics  - 14CIP18) 21 16 37 P
+total= 417
+**
+1ds14cs004
+ADITYA DEY sem: 1 Result: FAIL
+(Engineering Maths-I  - 14MAT11) 25 15 40 F
+(Engineering Physics  - 14PHY12) 27 15 42 F
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 39 18 57 P
+(Elements of Mechanical Engineering  - 14EME14) 38 18 56 P
+(Basic Electrical Engineering  - 14ELE15) 18 15 33 F
+(Workshop Practice  - 14WSL16) 43 24 67 P
+(Engineering Physics Lab  - 14PHYL17) 36 15 51 P
+(Constitution of India & Professional Ethics  - 14CIP18) 22 17 39 P
+total= 346
+**
+1ds14cs005
+ADITYA R SURYAVAMSHI sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 85 21 106 P
+(Engineering Physics  - 14PHY12) 74 23 97 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 70 25 95 P
+(Elements of Mechanical Engineering  - 14EME14) 56 24 80 P
+(Basic Electrical Engineering  - 14ELE15) 54 20 74 P
+(Workshop Practice  - 14WSL16) 43 24 67 P
+(Engineering Physics Lab  - 14PHYL17) 48 24 72 P
+(Constitution of India & Professional Ethics  - 14CIP18) 40 21 61 P
+total= 591
+**
+1ds14cs006
+AKSHAYA S sem: 1 Result: SC
+(Engineering Maths-I  - 14MAT11) 44 15 59 P
+(Engineering Physics  - 14PHY12) 35 16 51 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 43 18 61 P
+(Elements of Mechanical Engineering  - 14EME14) 56 22 78 P
+(Basic Electrical Engineering  - 14ELE15) 40 15 55 P
+(Workshop Practice  - 14WSL16) 35 24 59 P
+(Engineering Physics Lab  - 14PHYL17) 48 24 72 P
+(Constitution of India & Professional Ethics  - 14CIP18) 23 20 43 P
+total= 435
+**
+1ds14cs007
+AMAN RAUNIYAR sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 64 24 88 P
+(Engineering Physics  - 14PHY12) 62 22 84 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 59 25 84 P
+(Elements of Mechanical Engineering  - 14EME14) 63 24 87 P
+(Basic Electrical Engineering  - 14ELE15) 48 22 70 P
+(Workshop Practice  - 14WSL16) 43 24 67 P
+(Engineering Physics Lab  - 14PHYL17) 41 23 64 P
+(Constitution of India & Professional Ethics  - 14CIP18) 24 19 43 P
+total= 544
+**
+1ds14cs008
+AMANKUMAR sem: 1 Result: FAIL
+(Engineering Maths-I  - 14MAT11) 20 15 35 F
+(Engineering Physics  - 14PHY12) 3 15 18 F
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 38 17 55 P
+(Elements of Mechanical Engineering  - 14EME14) 22 10 32 F
+(Basic Electrical Engineering  - 14ELE15) 0 8 8 A
+(Workshop Practice  - 14WSL16) 38 17 55 P
+(Engineering Physics Lab  - 14PHYL17) 23 23 46 P
+(Constitution of India & Professional Ethics  - 14CIP18) 19 12 31 P
+total= 249
+**
+1ds14cs009
+ANKIT SHARMA sem: 1 Result: FAIL
+(Engineering Maths-I  - 14MAT11) 20 15 35 F
+(Engineering Physics  - 14PHY12) 20 20 40 F
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 41 16 57 P
+(Elements of Mechanical Engineering  - 14EME14) 36 20 56 P
+(Basic Electrical Engineering  - 14ELE15) 16 15 31 F
+(Workshop Practice  - 14WSL16) 38 21 59 P
+(Engineering Physics Lab  - 14PHYL17) 42 19 61 P
+(Constitution of India & Professional Ethics  - 14CIP18) 25 20 45 P
+total= 339
+**
+1ds14cs010
+ANTRA GUHA sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 58 20 78 P
+(Engineering Physics  - 14PHY12) 58 24 82 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 55 23 78 P
+(Elements of Mechanical Engineering  - 14EME14) 61 25 86 P
+(Basic Electrical Engineering  - 14ELE15) 73 24 97 P
+(Workshop Practice  - 14WSL16) 40 22 62 P
+(Engineering Physics Lab  - 14PHYL17) 48 24 72 P
+(Constitution of India & Professional Ethics  - 14CIP18) 29 15 44 P
+total= 555
+**
+1ds14cs011
+ANURAG BABEL sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 79 24 103 P
+(Engineering Physics  - 14PHY12) 78 25 103 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 74 25 99 P
+(Elements of Mechanical Engineering  - 14EME14) 63 25 88 P
+(Basic Electrical Engineering  - 14ELE15) 77 25 102 P
+(Workshop Practice  - 14WSL16) 42 24 66 P
+(Engineering Physics Lab  - 14PHYL17) 48 24 72 P
+(Constitution of India & Professional Ethics  - 14CIP18) 29 20 49 P
+total= 633
+**
+1ds14cs012
+ANUSHIL KUMAR sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 65 23 88 P
+(Engineering Physics  - 14PHY12) 56 24 80 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 46 25 71 P
+(Elements of Mechanical Engineering  - 14EME14) 46 23 69 P
+(Basic Electrical Engineering  - 14ELE15) 84 25 109 P
+(Workshop Practice  - 14WSL16) 44 22 66 P
+(Engineering Physics Lab  - 14PHYL17) 41 22 63 P
+(Constitution of India & Professional Ethics  - 14CIP18) 27 16 43 P
+total= 546
+**
+1ds14cs013
+ANUSHREE G sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 54 22 76 P
+(Engineering Physics  - 14PHY12) 76 25 101 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 58 25 83 P
+(Elements of Mechanical Engineering  - 14EME14) 54 25 79 P
+(Basic Electrical Engineering  - 14ELE15) 62 21 83 P
+(Workshop Practice  - 14WSL16) 44 23 67 P
+(Engineering Physics Lab  - 14PHYL17) 44 23 67 P
+(Constitution of India & Professional Ethics  - 14CIP18) 34 18 52 P
+total= 556
+**
+1ds14cs014
+APOORVA JAISWAL sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 82 25 107 P
+(Engineering Physics  - 14PHY12) 45 25 70 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 63 25 88 P
+(Elements of Mechanical Engineering  - 14EME14) 53 25 78 P
+(Basic Electrical Engineering  - 14ELE15) 80 25 105 P
+(Workshop Practice  - 14WSL16) 44 23 67 P
+(Engineering Physics Lab  - 14PHYL17) 46 23 69 P
+(Constitution of India & Professional Ethics  - 14CIP18) 30 17 47 P
+total= 584
+**
+1ds14cs015
+ARPAN NEPAL sem: 1 Result: FAIL
+(Engineering Maths-I  - 14MAT11) 35 16 51 P
+(Engineering Physics  - 14PHY12) 29 22 51 F
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 49 20 69 P
+(Elements of Mechanical Engineering  - 14EME14) 57 20 77 P
+(Basic Electrical Engineering  - 14ELE15) 49 19 68 P
+(Workshop Practice  - 14WSL16) 47 20 67 P
+(Engineering Physics Lab  - 14PHYL17) 46 23 69 P
+(Constitution of India & Professional Ethics  - 14CIP18) 24 21 45 P
+total= 452
+**
+1ds14cs016
+ASHISH AGARWAL sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 49 15 64 P
+(Engineering Physics  - 14PHY12) 59 22 81 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 76 25 101 P
+(Elements of Mechanical Engineering  - 14EME14) 55 23 78 P
+(Basic Electrical Engineering  - 14ELE15) 64 25 89 P
+(Workshop Practice  - 14WSL16) 42 23 65 P
+(Engineering Physics Lab  - 14PHYL17) 46 23 69 P
+(Constitution of India & Professional Ethics  - 14CIP18) 28 18 46 P
+total= 547
+**
+1ds14cs017
+ASHWIN GOPI KRISHNA sem: 1 Result: FC
+(Engineering Maths-I  - 14MAT11) 63 22 85 P
+(Engineering Physics  - 14PHY12) 35 24 59 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 43 25 68 P
+(Elements of Mechanical Engineering  - 14EME14) 55 24 79 P
+(Basic Electrical Engineering  - 14ELE15) 69 25 94 P
+(Workshop Practice  - 14WSL16) 44 23 67 P
+(Engineering Physics Lab  - 14PHYL17) 47 22 69 P
+(Constitution of India & Professional Ethics  - 14CIP18) 27 20 47 P
+total= 521
+**
+1ds14cs018
+AYUSH ARORA sem: 1 Result: FAIL
+(Engineering Maths-I  - 14MAT11) 67 25 92 P
+(Engineering Physics  - 14PHY12) 26 23 49 F
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 49 25 74 P
+(Elements of Mechanical Engineering  - 14EME14) 67 23 90 P
+(Basic Electrical Engineering  - 14ELE15) 35 25 60 P
+(Workshop Practice  - 14WSL16) 43 23 66 P
+(Engineering Physics Lab  - 14PHYL17) 40 24 64 P
+(Constitution of India & Professional Ethics  - 14CIP18) 28 21 49 P
+total= 495
+**
+1ds14cs019
+B TIAJUNGLA DOMINICA JAMIR sem: 1 Result: FAIL
+(Engineering Maths-I  - 14MAT11) 35 15 50 P
+(Engineering Physics  - 14PHY12) 41 23 64 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 43 20 63 P
+(Elements of Mechanical Engineering  - 14EME14) 69 22 91 P
+(Basic Electrical Engineering  - 14ELE15) 7 16 23 F
+(Workshop Practice  - 14WSL16) 43 20 63 P
+(Engineering Physics Lab  - 14PHYL17) 42 24 66 P
+(Constitution of India & Professional Ethics  - 14CIP18) 31 18 49 P
+total= 420
+**
+1ds14cs020
+BHARATH KUMAR K G sem: 1 Result: FC
+(Engineering Maths-I  - 14MAT11) 44 18 62 P
+(Engineering Physics  - 14PHY12) 35 22 57 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 50 25 75 P
+(Elements of Mechanical Engineering  - 14EME14) 73 22 95 P
+(Basic Electrical Engineering  - 14ELE15) 35 20 55 P
+(Workshop Practice  - 14WSL16) 45 23 68 P
+(Engineering Physics Lab  - 14PHYL17) 46 24 70 P
+(Constitution of India & Professional Ethics  - 14CIP18) 20 18 38 P
+total= 482
+**
+1ds14cs021
+BHARATH V sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 68 24 92 P
+(Engineering Physics  - 14PHY12) 64 25 89 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 55 25 80 P
+(Elements of Mechanical Engineering  - 14EME14) 72 24 96 P
+(Basic Electrical Engineering  - 14ELE15) 60 23 83 P
+(Workshop Practice  - 14WSL16) 44 24 68 P
+(Engineering Physics Lab  - 14PHYL17) 47 24 71 P
+(Constitution of India & Professional Ethics  - 14CIP18) 23 19 42 P
+total= 579
+**
+1ds14cs022
+BHAVANA R L sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 71 22 93 P
+(Engineering Physics  - 14PHY12) 82 25 107 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 63 25 88 P
+(Elements of Mechanical Engineering  - 14EME14) 74 25 99 P
+(Basic Electrical Engineering  - 14ELE15) 69 25 94 P
+(Workshop Practice  - 14WSL16) 42 24 66 P
+(Engineering Physics Lab  - 14PHYL17) 47 24 71 P
+(Constitution of India & Professional Ethics  - 14CIP18) 31 20 51 P
+total= 618
+**
+1ds14cs023
+BHAVANJALI B.M sem: 1 Result: FAIL
+(Engineering Maths-I  - 14MAT11) 35 15 50 P
+(Engineering Physics  - 14PHY12) 39 20 59 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 29 21 50 F
+(Elements of Mechanical Engineering  - 14EME14) 61 24 85 P
+(Basic Electrical Engineering  - 14ELE15) 21 15 36 F
+(Workshop Practice  - 14WSL16) 42 23 65 P
+(Engineering Physics Lab  - 14PHYL17) 48 23 71 P
+(Constitution of India & Professional Ethics  - 14CIP18) 24 20 44 P
+total= 416
+**
+1ds14cs024
+CHANDAN KUMAR B K sem: 1 Result: FAIL
+(Engineering Maths-I  - 14MAT11) 44 15 59 P
+(Engineering Physics  - 14PHY12) 37 18 55 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 35 21 56 P
+(Elements of Mechanical Engineering  - 14EME14) 42 23 65 P
+(Basic Electrical Engineering  - 14ELE15) 29 16 45 F
+(Workshop Practice  - 14WSL16) 42 23 65 P
+(Engineering Physics Lab  - 14PHYL17) 44 21 65 P
+(Constitution of India & Professional Ethics  - 14CIP18) 24 15 39 P
+total= 410
+**
+1ds14cs025
+CHANDRAMOULY K KANDACHAR sem: 1 Result: FC
+(Engineering Maths-I  - 14MAT11) 51 15 66 P
+(Engineering Physics  - 14PHY12) 54 22 76 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 55 24 79 P
+(Elements of Mechanical Engineering  - 14EME14) 50 24 74 P
+(Basic Electrical Engineering  - 14ELE15) 47 20 67 P
+(Workshop Practice  - 14WSL16) 38 22 60 P
+(Engineering Physics Lab  - 14PHYL17) 49 22 71 P
+(Constitution of India & Professional Ethics  - 14CIP18) 27 17 44 P
+total= 493
+**
+1ds14cs026
+CHETHAN B R sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 56 23 79 P
+(Engineering Physics  - 14PHY12) 77 24 101 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 60 25 85 P
+(Elements of Mechanical Engineering  - 14EME14) 60 25 85 P
+(Basic Electrical Engineering  - 14ELE15) 85 25 110 P
+(Workshop Practice  - 14WSL16) 42 24 66 P
+(Engineering Physics Lab  - 14PHYL17) 49 24 73 P
+(Constitution of India & Professional Ethics  - 14CIP18) 25 19 44 P
+total= 599
+**
+1ds14cs027
+DEEPAK KUMAR SINGH sem: 1 Result: FC
+(Engineering Maths-I  - 14MAT11) 58 24 82 P
+(Engineering Physics  - 14PHY12) 53 25 78 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 49 25 74 P
+(Elements of Mechanical Engineering  - 14EME14) 47 20 67 P
+(Basic Electrical Engineering  - 14ELE15) 76 20 96 P
+(Workshop Practice  - 14WSL16) 43 21 64 P
+(Engineering Physics Lab  - 14PHYL17) 46 24 70 P
+(Constitution of India & Professional Ethics  - 14CIP18) 20 15 35 P
+total= 531
+**
+1ds14cs028
+DEEPAK S MANJUNATH sem: 1 Result: FC
+(Engineering Maths-I  - 14MAT11) 51 20 71 P
+(Engineering Physics  - 14PHY12) 67 19 86 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 63 25 88 P
+(Elements of Mechanical Engineering  - 14EME14) 43 23 66 P
+(Basic Electrical Engineering  - 14ELE15) 49 21 70 P
+(Workshop Practice  - 14WSL16) 42 23 65 P
+(Engineering Physics Lab  - 14PHYL17) 45 22 67 P
+(Constitution of India & Professional Ethics  - 14CIP18) 18 18 36 P
+total= 513
+**
+1ds14cs029
+DHEEMANTH G K sem: 1 Result: SC
+(Engineering Maths-I  - 14MAT11) 35 16 51 P
+(Engineering Physics  - 14PHY12) 41 18 59 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 40 20 60 P
+(Elements of Mechanical Engineering  - 14EME14) 35 21 56 P
+(Basic Electrical Engineering  - 14ELE15) 37 17 54 P
+(Workshop Practice  - 14WSL16) 35 22 57 P
+(Engineering Physics Lab  - 14PHYL17) 44 21 65 P
+(Constitution of India & Professional Ethics  - 14CIP18) 18 12 30 P
+total= 402
+**
+1ds14cs030
+DIVAKAR R sem: 1 Result: SC
+(Engineering Maths-I  - 14MAT11) 49 15 64 P
+(Engineering Physics  - 14PHY12) 54 23 77 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 37 24 61 P
+(Elements of Mechanical Engineering  - 14EME14) 35 22 57 P
+(Basic Electrical Engineering  - 14ELE15) 38 18 56 P
+(Workshop Practice  - 14WSL16) 39 23 62 P
+(Engineering Physics Lab  - 14PHYL17) 48 23 71 P
+(Constitution of India & Professional Ethics  - 14CIP18) 21 16 37 P
+total= 448
+**
+1ds14cs031
+FEHAD AMIN KUNROO sem: 1 Result: FC
+(Engineering Maths-I  - 14MAT11) 60 18 78 P
+(Engineering Physics  - 14PHY12) 71 25 96 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 46 25 71 P
+(Elements of Mechanical Engineering  - 14EME14) 48 22 70 P
+(Basic Electrical Engineering  - 14ELE15) 36 25 61 P
+(Workshop Practice  - 14WSL16) 41 22 63 P
+(Engineering Physics Lab  - 14PHYL17) 41 23 64 P
+(Constitution of India & Professional Ethics  - 14CIP18) 28 15 43 P
+total= 503
+**
+1ds14cs032
+GATTU SARFRAZ AHMED sem: 1 Result: FC
+(Engineering Maths-I  - 14MAT11) 79 20 99 P
+(Engineering Physics  - 14PHY12) 54 23 77 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 51 23 74 P
+(Elements of Mechanical Engineering  - 14EME14) 41 22 63 P
+(Basic Electrical Engineering  - 14ELE15) 40 20 60 P
+(Workshop Practice  - 14WSL16) 40 19 59 P
+(Engineering Physics Lab  - 14PHYL17) 46 24 70 P
+(Constitution of India & Professional Ethics  - 14CIP18) 35 18 53 P
+total= 502
+**
+1ds14cs033
+HARISH MARUTI NAIK sem: 1 Result: FC
+(Engineering Maths-I  - 14MAT11) 62 21 83 P
+(Engineering Physics  - 14PHY12) 61 24 85 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 39 25 64 P
+(Elements of Mechanical Engineering  - 14EME14) 51 24 75 P
+(Basic Electrical Engineering  - 14ELE15) 50 21 71 P
+(Workshop Practice  - 14WSL16) 43 24 67 P
+(Engineering Physics Lab  - 14PHYL17) 44 25 69 P
+(Constitution of India & Professional Ethics  - 14CIP18) 22 15 37 P
+total= 514
+**
+1ds14cs034
+HARSHA M sem: 1 Result: FAIL
+(Engineering Maths-I  - 14MAT11) 4 10 14 F
+(Engineering Physics  - 14PHY12) 14 15 29 F
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 11 15 26 F
+(Elements of Mechanical Engineering  - 14EME14) 30 15 45 F
+(Basic Electrical Engineering  - 14ELE15) 7 11 18 F
+(Workshop Practice  - 14WSL16) 44 23 67 P
+(Engineering Physics Lab  - 14PHYL17) 8 22 30 F
+(Constitution of India & Professional Ethics  - 14CIP18) 18 12 30 P
+total= 229
+**
+1ds14cs035
+ISHIKA PURVI sem: 1 Result: FAIL
+(Engineering Maths-I  - 14MAT11) 44 15 59 P
+(Engineering Physics  - 14PHY12) 42 21 63 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 35 16 51 P
+(Elements of Mechanical Engineering  - 14EME14) 28 20 48 F
+(Basic Electrical Engineering  - 14ELE15) 9 13 22 F
+(Workshop Practice  - 14WSL16) 47 21 68 P
+(Engineering Physics Lab  - 14PHYL17) 40 23 63 P
+(Constitution of India & Professional Ethics  - 14CIP18) 24 15 39 P
+total= 374
+**
+1ds14cs036
+JAYASHREE M sem: 1 Result: FC
+(Engineering Maths-I  - 14MAT11) 49 16 65 P
+(Engineering Physics  - 14PHY12) 54 22 76 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 40 21 61 P
+(Elements of Mechanical Engineering  - 14EME14) 61 21 82 P
+(Basic Electrical Engineering  - 14ELE15) 36 18 54 P
+(Workshop Practice  - 14WSL16) 42 23 65 P
+(Engineering Physics Lab  - 14PHYL17) 45 24 69 P
+(Constitution of India & Professional Ethics  - 14CIP18) 20 16 36 P
+total= 472
+**
+1ds14cs037
+K.SIBASISH PATRA sem: 1 Result: FAIL
+(Engineering Maths-I  - 14MAT11) 21 15 36 F
+(Engineering Physics  - 14PHY12) 20 15 35 F
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 12 15 27 F
+(Elements of Mechanical Engineering  - 14EME14) 44 10 54 P
+(Basic Electrical Engineering  - 14ELE15) 9 15 24 F
+(Workshop Practice  - 14WSL16) 42 20 62 P
+(Engineering Physics Lab  - 14PHYL17) 38 15 53 P
+(Constitution of India & Professional Ethics  - 14CIP18) 20 12 32 P
+total= 291
+**
+1ds14cs038
+KASHIF ZAHID sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 74 22 96 P
+(Engineering Physics  - 14PHY12) 66 25 91 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 63 25 88 P
+(Elements of Mechanical Engineering  - 14EME14) 61 24 85 P
+(Basic Electrical Engineering  - 14ELE15) 58 21 79 P
+(Workshop Practice  - 14WSL16) 41 22 63 P
+(Engineering Physics Lab  - 14PHYL17) 48 22 70 P
+(Constitution of India & Professional Ethics  - 14CIP18) 27 16 43 P
+total= 572
+**
+1ds14cs039
+KAVYA R sem: 1 Result: FAIL
+(Engineering Maths-I  - 14MAT11) 10 15 25 F
+(Engineering Physics  - 14PHY12) 44 19 63 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 35 15 50 P
+(Elements of Mechanical Engineering  - 14EME14) 44 22 66 P
+(Basic Electrical Engineering  - 14ELE15) 13 13 26 F
+(Workshop Practice  - 14WSL16) 47 21 68 P
+(Engineering Physics Lab  - 14PHYL17) 35 24 59 P
+(Constitution of India & Professional Ethics  - 14CIP18) 19 16 35 P
+total= 357
+**
+1ds14cs040
+KAVYA.M.G sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 87 22 109 P
+(Engineering Physics  - 14PHY12) 73 25 98 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 80 25 105 P
+(Elements of Mechanical Engineering  - 14EME14) 60 25 85 P
+(Basic Electrical Engineering  - 14ELE15) 71 25 96 P
+(Workshop Practice  - 14WSL16) 42 23 65 P
+(Engineering Physics Lab  - 14PHYL17) 48 25 73 P
+(Constitution of India & Professional Ethics  - 14CIP18) 22 20 42 P
+total= 631
+**
+1ds14cs041
+KETAN JAIN sem: 1 Result: FAIL
+(Engineering Maths-I  - 14MAT11) 36 15 51 P
+(Engineering Physics  - 14PHY12) 35 15 50 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 35 15 50 P
+(Elements of Mechanical Engineering  - 14EME14) 48 20 68 P
+(Basic Electrical Engineering  - 14ELE15) 17 15 32 F
+(Workshop Practice  - 14WSL16) 44 23 67 P
+(Engineering Physics Lab  - 14PHYL17) 45 23 68 P
+(Constitution of India & Professional Ethics  - 14CIP18) 28 21 49 P
+total= 386
+**
+1ds14cs042
+KIRAN R sem: 1 Result: FC
+(Engineering Maths-I  - 14MAT11) 62 20 82 P
+(Engineering Physics  - 14PHY12) 55 23 78 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 61 25 86 P
+(Elements of Mechanical Engineering  - 14EME14) 63 23 86 P
+(Basic Electrical Engineering  - 14ELE15) 53 23 76 P
+(Workshop Practice  - 14WSL16) 30 24 54 P
+(Engineering Physics Lab  - 14PHYL17) 49 23 72 P
+(Constitution of India & Professional Ethics  - 14CIP18) 24 15 39 P
+total= 534
+**
+1ds14cs043
+KOMMA KARTHIK REDDY sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 89 24 113 P
+(Engineering Physics  - 14PHY12) 70 25 95 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 57 25 82 P
+(Elements of Mechanical Engineering  - 14EME14) 68 23 91 P
+(Basic Electrical Engineering  - 14ELE15) 58 25 83 P
+(Workshop Practice  - 14WSL16) 32 21 53 P
+(Engineering Physics Lab  - 14PHYL17) 47 24 71 P
+(Constitution of India & Professional Ethics  - 14CIP18) 29 15 44 P
+total= 588
+**
+1ds14cs044
+KUMAR APURV sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 85 20 105 P
+(Engineering Physics  - 14PHY12) 69 25 94 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 49 25 74 P
+(Elements of Mechanical Engineering  - 14EME14) 63 22 85 P
+(Basic Electrical Engineering  - 14ELE15) 61 22 83 P
+(Workshop Practice  - 14WSL16) 39 23 62 P
+(Engineering Physics Lab  - 14PHYL17) 48 23 71 P
+(Constitution of India & Professional Ethics  - 14CIP18) 27 18 45 P
+total= 574
+**
+1ds14cs045
+KUMAR SANKET sem: 1 Result: FAIL
+(Engineering Maths-I  - 14MAT11) 40 10 50 P
+(Engineering Physics  - 14PHY12) 22 15 37 F
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 50 22 72 P
+(Elements of Mechanical Engineering  - 14EME14) 47 18 65 P
+(Basic Electrical Engineering  - 14ELE15) 21 17 38 F
+(Workshop Practice  - 14WSL16) 25 20 45 P
+(Engineering Physics Lab  - 14PHYL17) 47 23 70 P
+(Constitution of India & Professional Ethics  - 14CIP18) 30 15 45 P
+total= 377
+**
+1ds14cs046
+KUMAR SHUBHAM sem: 1 Result: FC
+(Engineering Maths-I  - 14MAT11) 68 23 91 P
+(Engineering Physics  - 14PHY12) 49 25 74 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 58 25 83 P
+(Elements of Mechanical Engineering  - 14EME14) 58 25 83 P
+(Basic Electrical Engineering  - 14ELE15) 60 25 85 P
+(Workshop Practice  - 14WSL16) 30 22 52 P
+(Engineering Physics Lab  - 14PHYL17) 44 24 68 P
+(Constitution of India & Professional Ethics  - 14CIP18) 31 21 52 P
+total= 536
+**
+1ds14cs047
+KUMAR SHUBHAM CHOUDHARY sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 75 25 100 P
+(Engineering Physics  - 14PHY12) 74 24 98 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 63 25 88 P
+(Elements of Mechanical Engineering  - 14EME14) 68 24 92 P
+(Basic Electrical Engineering  - 14ELE15) 73 25 98 P
+(Workshop Practice  - 14WSL16) 29 23 52 P
+(Engineering Physics Lab  - 14PHYL17) 47 23 70 P
+(Constitution of India & Professional Ethics  - 14CIP18) 27 21 48 P
+total= 598
+**
+1ds14cs048
+L.RANJITHA sem: 1 Result: FC
+(Engineering Maths-I  - 14MAT11) 63 20 83 P
+(Engineering Physics  - 14PHY12) 52 25 77 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 46 23 69 P
+(Elements of Mechanical Engineering  - 14EME14) 61 25 86 P
+(Basic Electrical Engineering  - 14ELE15) 53 24 77 P
+(Workshop Practice  - 14WSL16) 36 23 59 P
+(Engineering Physics Lab  - 14PHYL17) 45 24 69 P
+(Constitution of India & Professional Ethics  - 14CIP18) 28 22 50 P
+total= 520
+**
+1ds14cs049
+LAKSHITH.P sem: 1 Result: FAIL
+(Engineering Maths-I  - 14MAT11) 19 15 34 F
+(Engineering Physics  - 14PHY12) 29 15 44 F
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 41 15 56 P
+(Elements of Mechanical Engineering  - 14EME14) 45 15 60 P
+(Basic Electrical Engineering  - 14ELE15) 12 16 28 F
+(Workshop Practice  - 14WSL16) 26 22 48 P
+(Engineering Physics Lab  - 14PHYL17) 25 22 47 P
+(Constitution of India & Professional Ethics  - 14CIP18) 23 20 43 P
+total= 317
+**
+1ds14cs050
+LARIKA AMLANI sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 76 25 101 P
+(Engineering Physics  - 14PHY12) 85 25 110 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 73 25 98 P
+(Elements of Mechanical Engineering  - 14EME14) 69 25 94 P
+(Basic Electrical Engineering  - 14ELE15) 78 25 103 P
+(Workshop Practice  - 14WSL16) 36 22 58 P
+(Engineering Physics Lab  - 14PHYL17) 49 23 72 P
+(Constitution of India & Professional Ethics  - 14CIP18) 35 18 53 P
+total= 636
+**
+1ds14cs051
+M VISHAL SINGH sem: 1 Result: FAIL
+(Engineering Maths-I  - 14MAT11) 18 15 33 F
+(Engineering Physics  - 14PHY12) 20 15 35 F
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 23 15 38 F
+(Elements of Mechanical Engineering  - 14EME14) 27 20 47 F
+(Basic Electrical Engineering  - 14ELE15) 23 16 39 F
+(Workshop Practice  - 14WSL16) 45 22 67 P
+(Engineering Physics Lab  - 14PHYL17) 44 23 67 P
+(Constitution of India & Professional Ethics  - 14CIP18) 18 19 37 P
+total= 326
+**
+1ds14cs052
+M.JAYASHREE sem: 1 Result: FC
+(Engineering Maths-I  - 14MAT11) 52 20 72 P
+(Engineering Physics  - 14PHY12) 51 23 74 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 45 23 68 P
+(Elements of Mechanical Engineering  - 14EME14) 61 23 84 P
+(Basic Electrical Engineering  - 14ELE15) 62 23 85 P
+(Workshop Practice  - 14WSL16) 45 22 67 P
+(Engineering Physics Lab  - 14PHYL17) 44 24 68 P
+(Constitution of India & Professional Ethics  - 14CIP18) 28 22 50 P
+total= 518
+**
+1ds14cs053
+MANASA M G sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 70 19 89 P
+(Engineering Physics  - 14PHY12) 81 22 103 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 63 24 87 P
+(Elements of Mechanical Engineering  - 14EME14) 70 21 91 P
+(Basic Electrical Engineering  - 14ELE15) 82 25 107 P
+(Workshop Practice  - 14WSL16) 46 23 69 P
+(Engineering Physics Lab  - 14PHYL17) 49 24 73 P
+(Constitution of India & Professional Ethics  - 14CIP18) 32 16 48 P
+total= 619
+**
+1ds14cs054
+MANISHKUMAR sem: 1 Result: FAIL
+(Engineering Maths-I  - 14MAT11) 28 16 44 F
+(Engineering Physics  - 14PHY12) 61 19 80 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 37 15 52 P
+(Elements of Mechanical Engineering  - 14EME14) 53 23 76 P
+(Basic Electrical Engineering  - 14ELE15) 44 21 65 P
+(Workshop Practice  - 14WSL16) 45 21 66 P
+(Engineering Physics Lab  - 14PHYL17) 43 20 63 P
+(Constitution of India & Professional Ethics  - 14CIP18) 21 15 36 P
+total= 446
+**
+1ds14cs055
+MANOHAR R K sem: 1 Result: FAIL
+(Engineering Maths-I  - 14MAT11) 35 20 55 P
+(Engineering Physics  - 14PHY12) 22 16 38 F
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 40 19 59 P
+(Elements of Mechanical Engineering  - 14EME14) 41 16 57 P
+(Basic Electrical Engineering  - 14ELE15) 17 17 34 F
+(Workshop Practice  - 14WSL16) 45 22 67 P
+(Engineering Physics Lab  - 14PHYL17) 44 24 68 P
+(Constitution of India & Professional Ethics  - 14CIP18) 18 17 35 P
+total= 378
+**
+1ds14cs056
+MAYUR MUNOT sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 77 20 97 P
+(Engineering Physics  - 14PHY12) 71 19 90 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 77 25 102 P
+(Elements of Mechanical Engineering  - 14EME14) 67 22 89 P
+(Basic Electrical Engineering  - 14ELE15) 70 21 91 P
+(Workshop Practice  - 14WSL16) 45 21 66 P
+(Engineering Physics Lab  - 14PHYL17) 48 23 71 P
+(Constitution of India & Professional Ethics  - 14CIP18) 30 17 47 P
+total= 606
+**
+1ds14cs057
+MEGHANA K M sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 77 25 102 P
+(Engineering Physics  - 14PHY12) 90 24 114 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 71 25 96 P
+(Elements of Mechanical Engineering  - 14EME14) 66 24 90 P
+(Basic Electrical Engineering  - 14ELE15) 67 25 92 P
+(Workshop Practice  - 14WSL16) 44 21 65 P
+(Engineering Physics Lab  - 14PHYL17) 49 23 72 P
+(Constitution of India & Professional Ethics  - 14CIP18) 32 22 54 P
+total= 631
+**
+1ds14cs058
+MOHAMMED AFFAN sem: 1 Result: FC
+(Engineering Maths-I  - 14MAT11) 43 22 65 P
+(Engineering Physics  - 14PHY12) 74 22 96 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 71 22 93 P
+(Elements of Mechanical Engineering  - 14EME14) 43 20 63 P
+(Basic Electrical Engineering  - 14ELE15) 48 24 72 P
+(Workshop Practice  - 14WSL16) 44 20 64 P
+(Engineering Physics Lab  - 14PHYL17) 48 23 71 P
+(Constitution of India & Professional Ethics  - 14CIP18) 21 18 39 P
+total= 524
+**
+1ds14cs059
+N.A.SAMASTH sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 89 25 114 P
+(Engineering Physics  - 14PHY12) 71 24 95 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 73 25 98 P
+(Elements of Mechanical Engineering  - 14EME14) 68 25 93 P
+(Basic Electrical Engineering  - 14ELE15) 66 24 90 P
+(Workshop Practice  - 14WSL16) 45 23 68 P
+(Engineering Physics Lab  - 14PHYL17) 46 25 71 P
+(Constitution of India & Professional Ethics  - 14CIP18) 23 19 42 P
+total= 629
+**
+1ds14cs060
+NAVENDU sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 63 23 86 P
+(Engineering Physics  - 14PHY12) 67 24 91 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 63 25 88 P
+(Elements of Mechanical Engineering  - 14EME14) 71 24 95 P
+(Basic Electrical Engineering  - 14ELE15) 52 23 75 P
+(Workshop Practice  - 14WSL16) 47 21 68 P
+(Engineering Physics Lab  - 14PHYL17) 45 24 69 P
+(Constitution of India & Professional Ethics  - 14CIP18) 28 18 46 P
+total= 572
+**
+1ds14cs061
+NEHA ADANUR sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 99 25 124 P
+(Engineering Physics  - 14PHY12) 89 25 114 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 67 25 92 P
+(Elements of Mechanical Engineering  - 14EME14) 70 25 95 P
+(Basic Electrical Engineering  - 14ELE15) 60 25 85 P
+(Workshop Practice  - 14WSL16) 43 24 67 P
+(Engineering Physics Lab  - 14PHYL17) 50 24 74 P
+(Constitution of India & Professional Ethics  - 14CIP18) 31 18 49 P
+total= 651
+**
+1ds14cs062
+NEHA B REDDY sem: 1 Result: FAIL
+(Engineering Maths-I  - 14MAT11) 8 10 18 F
+(Engineering Physics  - 14PHY12) 22 15 37 F
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 42 18 60 P
+(Elements of Mechanical Engineering  - 14EME14) 48 15 63 P
+(Basic Electrical Engineering  - 14ELE15) 21 15 36 F
+(Workshop Practice  - 14WSL16) 41 23 64 P
+(Engineering Physics Lab  - 14PHYL17) 40 23 63 P
+(Constitution of India & Professional Ethics  - 14CIP18) 19 12 31 P
+total= 341
+**
+1ds14cs063
+NEHA SHIVANAND TUMMARGUDDI sem: 1 Result: FAIL
+(Engineering Maths-I  - 14MAT11) 22 15 37 F
+(Engineering Physics  - 14PHY12) 31 17 48 F
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 40 15 55 P
+(Elements of Mechanical Engineering  - 14EME14) 48 16 64 P
+(Basic Electrical Engineering  - 14ELE15) 19 15 34 F
+(Workshop Practice  - 14WSL16) 42 23 65 P
+(Engineering Physics Lab  - 14PHYL17) 29 22 51 P
+(Constitution of India & Professional Ethics  - 14CIP18) 26 18 44 P
+total= 354
+**
+1ds14cs064
+NIHAL SINGH sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 93 23 116 P
+(Engineering Physics  - 14PHY12) 75 23 98 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 73 23 96 P
+(Elements of Mechanical Engineering  - 14EME14) 67 25 92 P
+(Basic Electrical Engineering  - 14ELE15) 70 25 95 P
+(Workshop Practice  - 14WSL16) 42 24 66 P
+(Engineering Physics Lab  - 14PHYL17) 47 23 70 P
+(Constitution of India & Professional Ethics  - 14CIP18) 23 21 44 P
+total= 633
+**
+1ds14cs065
+NIKHIL KHATRI sem: 1 Result: FC
+(Engineering Maths-I  - 14MAT11) 46 22 68 P
+(Engineering Physics  - 14PHY12) 66 23 89 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 58 22 80 P
+(Elements of Mechanical Engineering  - 14EME14) 64 22 86 P
+(Basic Electrical Engineering  - 14ELE15) 40 23 63 P
+(Workshop Practice  - 14WSL16) 40 23 63 P
+(Engineering Physics Lab  - 14PHYL17) 44 24 68 P
+(Constitution of India & Professional Ethics  - 14CIP18) 26 17 43 P
+total= 517
+**
+1ds14cs066
+NIKITA SATISH sem: 1 Result: FC
+(Engineering Maths-I  - 14MAT11) 50 15 65 P
+(Engineering Physics  - 14PHY12) 74 20 94 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 64 19 83 P
+(Elements of Mechanical Engineering  - 14EME14) 58 22 80 P
+(Basic Electrical Engineering  - 14ELE15) 41 20 61 P
+(Workshop Practice  - 14WSL16) 41 23 64 P
+(Engineering Physics Lab  - 14PHYL17) 45 24 69 P
+(Constitution of India & Professional Ethics  - 14CIP18) 32 20 52 P
+total= 516
+**
+1ds14cs067
+NIRMALA.B sem: 1 Result: FAIL
+(Engineering Maths-I  - 14MAT11) 29 15 44 F
+(Engineering Physics  - 14PHY12) 35 17 52 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 26 22 48 F
+(Elements of Mechanical Engineering  - 14EME14) 64 23 87 P
+(Basic Electrical Engineering  - 14ELE15) 30 22 52 F
+(Workshop Practice  - 14WSL16) 33 24 57 P
+(Engineering Physics Lab  - 14PHYL17) 48 23 71 P
+(Constitution of India & Professional Ethics  - 14CIP18) 20 20 40 P
+total= 411
+**
+1ds14cs068
+NIRMALKUMAR A sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 100 25 125 P
+(Engineering Physics  - 14PHY12) 87 25 112 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 65 24 89 P
+(Elements of Mechanical Engineering  - 14EME14) 80 25 105 P
+(Basic Electrical Engineering  - 14ELE15) 96 25 121 P
+(Workshop Practice  - 14WSL16) 43 24 67 P
+(Engineering Physics Lab  - 14PHYL17) 48 24 72 P
+(Constitution of India & Professional Ethics  - 14CIP18) 32 21 53 P
+total= 691
+**
+1ds14cs069
+NITIN U N sem: 1 Result: FAIL
+(Engineering Maths-I  - 14MAT11) 52 21 73 P
+(Engineering Physics  - 14PHY12) 24 19 43 F
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 39 24 63 P
+(Elements of Mechanical Engineering  - 14EME14) 50 22 72 P
+(Basic Electrical Engineering  - 14ELE15) 21 21 42 F
+(Workshop Practice  - 14WSL16) 42 18 60 P
+(Engineering Physics Lab  - 14PHYL17) 21 23 44 P
+(Constitution of India & Professional Ethics  - 14CIP18) 18 19 37 P
+total= 397
+**
+1ds14cs070
+PAVAN SHRIKANT NAIK sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 85 21 106 P
+(Engineering Physics  - 14PHY12) 57 22 79 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 45 25 70 P
+(Elements of Mechanical Engineering  - 14EME14) 63 23 86 P
+(Basic Electrical Engineering  - 14ELE15) 61 25 86 P
+(Workshop Practice  - 14WSL16) 45 24 69 P
+(Engineering Physics Lab  - 14PHYL17) 48 24 72 P
+(Constitution of India & Professional Ethics  - 14CIP18) 25 20 45 P
+total= 568
+**
+1ds14cs071
+PIYUSH RANJAN sem: 1 Result: FAIL
+(Engineering Maths-I  - 14MAT11) 51 19 70 P
+(Engineering Physics  - 14PHY12) 60 19 79 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 45 23 68 P
+(Elements of Mechanical Engineering  - 14EME14) 55 19 74 P
+(Basic Electrical Engineering  - 14ELE15) 24 22 46 F
+(Workshop Practice  - 14WSL16) 46 20 66 P
+(Engineering Physics Lab  - 14PHYL17) 45 23 68 P
+(Constitution of India & Professional Ethics  - 14CIP18) 34 19 53 P
+total= 471
+**
+1ds14cs072
+POOJA M sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 75 21 96 P
+(Engineering Physics  - 14PHY12) 74 24 98 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 65 25 90 P
+(Elements of Mechanical Engineering  - 14EME14) 72 24 96 P
+(Basic Electrical Engineering  - 14ELE15) 67 25 92 P
+(Workshop Practice  - 14WSL16) 46 23 69 P
+(Engineering Physics Lab  - 14PHYL17) 45 23 68 P
+(Constitution of India & Professional Ethics  - 14CIP18) 28 20 48 P
+total= 609
+**
+1ds14cs073
+PRADEEP M S sem: 1 Result: FAIL
+(Engineering Maths-I  - 14MAT11) 20 15 35 F
+(Engineering Physics  - 14PHY12) 35 15 50 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 31 18 49 F
+(Elements of Mechanical Engineering  - 14EME14) 35 17 52 P
+(Basic Electrical Engineering  - 14ELE15) 29 17 46 F
+(Workshop Practice  - 14WSL16) 43 21 64 P
+(Engineering Physics Lab  - 14PHYL17) 31 24 55 P
+(Constitution of India & Professional Ethics  - 14CIP18) 24 18 42 P
+total= 351
+**
+1ds14cs074
+PRAVEEN CHANDRAN sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 68 20 88 P
+(Engineering Physics  - 14PHY12) 55 23 78 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 54 21 75 P
+(Elements of Mechanical Engineering  - 14EME14) 68 19 87 P
+(Basic Electrical Engineering  - 14ELE15) 67 23 90 P
+(Workshop Practice  - 14WSL16) 45 20 65 P
+(Engineering Physics Lab  - 14PHYL17) 40 24 64 P
+(Constitution of India & Professional Ethics  - 14CIP18) 33 17 50 P
+total= 547
+**
+1ds14cs075
+PREETHAM REDDY S sem: 1 Result: FAIL
+(Engineering Maths-I  - 14MAT11) 26 15 41 F
+(Engineering Physics  - 14PHY12) 20 15 35 F
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 29 15 44 F
+(Elements of Mechanical Engineering  - 14EME14) 35 20 55 P
+(Basic Electrical Engineering  - 14ELE15) 8 15 23 F
+(Workshop Practice  - 14WSL16) 43 20 63 P
+(Engineering Physics Lab  - 14PHYL17) 21 23 44 P
+(Constitution of India & Professional Ethics  - 14CIP18) 24 18 42 P
+total= 305
+**
+1ds14cs076
+PRIYANGSHU ROY sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 77 23 100 P
+(Engineering Physics  - 14PHY12) 83 24 107 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 57 25 82 P
+(Elements of Mechanical Engineering  - 14EME14) 74 25 99 P
+(Basic Electrical Engineering  - 14ELE15) 77 25 102 P
+(Workshop Practice  - 14WSL16) 44 20 64 P
+(Engineering Physics Lab  - 14PHYL17) 49 24 73 P
+(Constitution of India & Professional Ethics  - 14CIP18) 32 17 49 P
+total= 627
+**
+1ds14cs077
+R.ASHWIN sem: 1 Result: FC
+(Engineering Maths-I  - 14MAT11) 57 15 72 P
+(Engineering Physics  - 14PHY12) 67 22 89 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 35 22 57 P
+(Elements of Mechanical Engineering  - 14EME14) 38 21 59 P
+(Basic Electrical Engineering  - 14ELE15) 45 23 68 P
+(Workshop Practice  - 14WSL16) 42 24 66 P
+(Engineering Physics Lab  - 14PHYL17) 41 23 64 P
+(Constitution of India & Professional Ethics  - 14CIP18) 30 18 48 P
+total= 475
+**
+1ds14cs078
+RAJATH R KULKARNI sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 81 23 104 P
+(Engineering Physics  - 14PHY12) 72 24 96 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 58 25 83 P
+(Elements of Mechanical Engineering  - 14EME14) 65 25 90 P
+(Basic Electrical Engineering  - 14ELE15) 59 25 84 P
+(Workshop Practice  - 14WSL16) 44 21 65 P
+(Engineering Physics Lab  - 14PHYL17) 49 24 73 P
+(Constitution of India & Professional Ethics  - 14CIP18) 31 20 51 P
+total= 595
+**
+1ds14cs079
+RAJIV MS sem: 1 Result: SC
+(Engineering Maths-I  - 14MAT11) 39 15 54 P
+(Engineering Physics  - 14PHY12) 44 20 64 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 36 20 56 P
+(Elements of Mechanical Engineering  - 14EME14) 38 22 60 P
+(Basic Electrical Engineering  - 14ELE15) 35 21 56 P
+(Workshop Practice  - 14WSL16) 43 22 65 P
+(Engineering Physics Lab  - 14PHYL17) 45 23 68 P
+(Constitution of India & Professional Ethics  - 14CIP18) 23 19 42 P
+total= 423
+**
+1ds14cs080
+RANGASWAMY G U sem: 1 Result: FC
+(Engineering Maths-I  - 14MAT11) 67 19 86 P
+(Engineering Physics  - 14PHY12) 60 18 78 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 53 22 75 P
+(Elements of Mechanical Engineering  - 14EME14) 58 21 79 P
+(Basic Electrical Engineering  - 14ELE15) 58 24 82 P
+(Workshop Practice  - 14WSL16) 42 20 62 P
+(Engineering Physics Lab  - 14PHYL17) 43 23 66 P
+(Constitution of India & Professional Ethics  - 14CIP18) 18 15 33 P
+total= 528
+**
+1ds14cs081
+RIYA MITRA sem: 1 Result: FAIL
+(Engineering Maths-I  - 14MAT11) 46 18 64 P
+(Engineering Physics  - 14PHY12) 43 21 64 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 27 21 48 F
+(Elements of Mechanical Engineering  - 14EME14) 43 18 61 P
+(Basic Electrical Engineering  - 14ELE15) 28 19 47 F
+(Workshop Practice  - 14WSL16) 40 23 63 P
+(Engineering Physics Lab  - 14PHYL17) 44 23 67 P
+(Constitution of India & Professional Ethics  - 14CIP18) 25 18 43 P
+total= 414
+**
+1ds14cs082
+RIYAZ PASHA sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 79 20 99 P
+(Engineering Physics  - 14PHY12) 66 25 91 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 66 20 86 P
+(Elements of Mechanical Engineering  - 14EME14) 75 20 95 P
+(Basic Electrical Engineering  - 14ELE15) 85 25 110 P
+(Workshop Practice  - 14WSL16) 41 22 63 P
+(Engineering Physics Lab  - 14PHYL17) 44 24 68 P
+(Constitution of India & Professional Ethics  - 14CIP18) 32 22 54 P
+total= 612
+**
+1ds14cs083
+ROOPESH R sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 92 24 116 P
+(Engineering Physics  - 14PHY12) 64 24 88 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 55 25 80 P
+(Elements of Mechanical Engineering  - 14EME14) 58 23 81 P
+(Basic Electrical Engineering  - 14ELE15) 74 25 99 P
+(Workshop Practice  - 14WSL16) 40 24 64 P
+(Engineering Physics Lab  - 14PHYL17) 48 24 72 P
+(Constitution of India & Professional Ethics  - 14CIP18) 37 19 56 P
+total= 600
+**
+1ds14cs084
+S.MANJULA sem: 1 Result: FC
+(Engineering Maths-I  - 14MAT11) 64 16 80 P
+(Engineering Physics  - 14PHY12) 37 24 61 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 42 23 65 P
+(Elements of Mechanical Engineering  - 14EME14) 55 23 78 P
+(Basic Electrical Engineering  - 14ELE15) 77 21 98 P
+(Workshop Practice  - 14WSL16) 41 23 64 P
+(Engineering Physics Lab  - 14PHYL17) 43 23 66 P
+(Constitution of India & Professional Ethics  - 14CIP18) 24 12 36 P
+total= 512
+**
+1ds14cs085
+SACHIN sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 72 21 93 P
+(Engineering Physics  - 14PHY12) 71 25 96 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 55 25 80 P
+(Elements of Mechanical Engineering  - 14EME14) 62 21 83 P
+(Basic Electrical Engineering  - 14ELE15) 66 23 89 P
+(Workshop Practice  - 14WSL16) 41 23 64 P
+(Engineering Physics Lab  - 14PHYL17) 46 23 69 P
+(Constitution of India & Professional Ethics  - 14CIP18) 21 16 37 P
+total= 574
+**
+1ds14cs086
+SAHANA PUJAR sem: 1 Result: SC
+(Engineering Maths-I  - 14MAT11) 46 15 61 P
+(Engineering Physics  - 14PHY12) 49 20 69 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 43 18 61 P
+(Elements of Mechanical Engineering  - 14EME14) 48 19 67 P
+(Basic Electrical Engineering  - 14ELE15) 44 18 62 P
+(Workshop Practice  - 14WSL16) 41 22 63 P
+(Engineering Physics Lab  - 14PHYL17) 31 23 54 P
+(Constitution of India & Professional Ethics  - 14CIP18) 20 12 32 P
+total= 437
+**
+1ds14cs087
+SAMBHAV BENIWAL sem: 1 Result: FAIL
+(Engineering Maths-I  - 14MAT11) 43 15 58 P
+(Engineering Physics  - 14PHY12) 32 16 48 F
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 41 20 61 P
+(Elements of Mechanical Engineering  - 14EME14) 35 17 52 P
+(Basic Electrical Engineering  - 14ELE15) 25 15 40 F
+(Workshop Practice  - 14WSL16) 33 20 53 P
+(Engineering Physics Lab  - 14PHYL17) 40 19 59 P
+(Constitution of India & Professional Ethics  - 14CIP18) 21 17 38 P
+total= 371
+**
+1ds14cs088
+SAMYAK JAIN sem: 1 Result: FAIL
+(Engineering Maths-I  - 14MAT11) 19 15 34 F
+(Engineering Physics  - 14PHY12) 27 17 44 F
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 30 17 47 F
+(Elements of Mechanical Engineering  - 14EME14) 43 19 62 P
+(Basic Electrical Engineering  - 14ELE15) 24 15 39 F
+(Workshop Practice  - 14WSL16) 40 15 55 P
+(Engineering Physics Lab  - 14PHYL17) 28 23 51 P
+(Constitution of India & Professional Ethics  - 14CIP18) 22 17 39 P
+total= 332
+**
+1ds14cs089
+SANDHYA VADHANA S sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 70 22 92 P
+(Engineering Physics  - 14PHY12) 82 25 107 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 70 25 95 P
+(Elements of Mechanical Engineering  - 14EME14) 72 24 96 P
+(Basic Electrical Engineering  - 14ELE15) 82 25 107 P
+(Workshop Practice  - 14WSL16) 41 24 65 P
+(Engineering Physics Lab  - 14PHYL17) 49 25 74 P
+(Constitution of India & Professional Ethics  - 14CIP18) 35 20 55 P
+total= 636
+**
+1ds14cs090
+SAYANTANI KAR sem: 1 Result: FC
+(Engineering Maths-I  - 14MAT11) 45 17 62 P
+(Engineering Physics  - 14PHY12) 56 20 76 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 43 17 60 P
+(Elements of Mechanical Engineering  - 14EME14) 64 23 87 P
+(Basic Electrical Engineering  - 14ELE15) 40 21 61 P
+(Workshop Practice  - 14WSL16) 33 23 56 P
+(Engineering Physics Lab  - 14PHYL17) 44 23 67 P
+(Constitution of India & Professional Ethics  - 14CIP18) 26 20 46 P
+total= 469
+**
+1ds14cs091
+SEEMA sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 82 18 100 P
+(Engineering Physics  - 14PHY12) 68 25 93 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 57 25 82 P
+(Elements of Mechanical Engineering  - 14EME14) 58 23 81 P
+(Basic Electrical Engineering  - 14ELE15) 79 22 101 P
+(Workshop Practice  - 14WSL16) 45 24 69 P
+(Engineering Physics Lab  - 14PHYL17) 45 23 68 P
+(Constitution of India & Professional Ethics  - 14CIP18) 22 15 37 P
+total= 594
+**
+1ds14cs092
+SEEMA M sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 64 18 82 P
+(Engineering Physics  - 14PHY12) 66 24 90 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 68 22 90 P
+(Elements of Mechanical Engineering  - 14EME14) 62 21 83 P
+(Basic Electrical Engineering  - 14ELE15) 64 20 84 P
+(Workshop Practice  - 14WSL16) 44 24 68 P
+(Engineering Physics Lab  - 14PHYL17) 48 23 71 P
+(Constitution of India & Professional Ethics  - 14CIP18) 20 15 35 P
+total= 568
+**
+1ds14cs093
+SHASHI PRAKASH sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 86 23 109 P
+(Engineering Physics  - 14PHY12) 71 25 96 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 80 25 105 P
+(Elements of Mechanical Engineering  - 14EME14) 71 24 95 P
+(Basic Electrical Engineering  - 14ELE15) 69 24 93 P
+(Workshop Practice  - 14WSL16) 45 25 70 P
+(Engineering Physics Lab  - 14PHYL17) 48 24 72 P
+(Constitution of India & Professional Ethics  - 14CIP18) 38 21 59 P
+total= 640
+**
+1ds14cs094
+SHASHIKUMAR sem: 1 Result: FC
+(Engineering Maths-I  - 14MAT11) 59 19 78 P
+(Engineering Physics  - 14PHY12) 52 21 73 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 57 19 76 P
+(Elements of Mechanical Engineering  - 14EME14) 54 23 77 P
+(Basic Electrical Engineering  - 14ELE15) 57 16 73 P
+(Workshop Practice  - 14WSL16) 45 24 69 P
+(Engineering Physics Lab  - 14PHYL17) 40 23 63 P
+(Constitution of India & Professional Ethics  - 14CIP18) 21 13 34 P
+total= 509
+**
+1ds14cs095
+SHRAVAN GOWDA PATIL sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 60 19 79 P
+(Engineering Physics  - 14PHY12) 60 22 82 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 67 22 89 P
+(Elements of Mechanical Engineering  - 14EME14) 54 21 75 P
+(Basic Electrical Engineering  - 14ELE15) 63 19 82 P
+(Workshop Practice  - 14WSL16) 45 23 68 P
+(Engineering Physics Lab  - 14PHYL17) 44 21 65 P
+(Constitution of India & Professional Ethics  - 14CIP18) 19 19 38 P
+total= 543
+**
+1ds14cs096
+SHRINIDHI B H sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 89 25 114 P
+(Engineering Physics  - 14PHY12) 72 21 93 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 65 25 90 P
+(Elements of Mechanical Engineering  - 14EME14) 56 20 76 P
+(Basic Electrical Engineering  - 14ELE15) 63 21 84 P
+(Workshop Practice  - 14WSL16) 44 24 68 P
+(Engineering Physics Lab  - 14PHYL17) 44 24 68 P
+(Constitution of India & Professional Ethics  - 14CIP18) 22 15 37 P
+total= 593
+**
+1ds14cs097
+SHUBHAM RAJ sem: 1 Result: FAIL
+(Engineering Maths-I  - 14MAT11) 12 15 27 F
+(Engineering Physics  - 14PHY12) 17 15 32 F
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 18 15 33 F
+(Elements of Mechanical Engineering  - 14EME14) 35 18 53 P
+(Basic Electrical Engineering  - 14ELE15) 10 15 25 F
+(Workshop Practice  - 14WSL16) 45 23 68 P
+(Engineering Physics Lab  - 14PHYL17) 23 22 45 P
+(Constitution of India & Professional Ethics  - 14CIP18) 23 17 40 P
+total= 283
+**
+1ds14cs098
+SHUBHAM TIWARI sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 89 25 114 P
+(Engineering Physics  - 14PHY12) 78 24 102 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 64 25 89 P
+(Elements of Mechanical Engineering  - 14EME14) 62 24 86 P
+(Basic Electrical Engineering  - 14ELE15) 65 24 89 P
+(Workshop Practice  - 14WSL16) 44 24 68 P
+(Engineering Physics Lab  - 14PHYL17) 49 24 73 P
+(Constitution of India & Professional Ethics  - 14CIP18) 32 17 49 P
+total= 621
+**
+1ds14cs099
+SHUBHAY JOSHUA sem: 1 Result: FC
+(Engineering Maths-I  - 14MAT11) 36 18 54 P
+(Engineering Physics  - 14PHY12) 76 25 101 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 48 22 70 P
+(Elements of Mechanical Engineering  - 14EME14) 62 24 86 P
+(Basic Electrical Engineering  - 14ELE15) 43 19 62 P
+(Workshop Practice  - 14WSL16) 47 24 71 P
+(Engineering Physics Lab  - 14PHYL17) 49 24 73 P
+(Constitution of India & Professional Ethics  - 14CIP18) 30 17 47 P
+total= 517
+**
+1ds14cs100
+SINDHU KS sem: 1 Result: FC
+(Engineering Maths-I  - 14MAT11) 50 20 70 P
+(Engineering Physics  - 14PHY12) 60 20 80 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 57 22 79 P
+(Elements of Mechanical Engineering  - 14EME14) 46 23 69 P
+(Basic Electrical Engineering  - 14ELE15) 45 22 67 P
+(Workshop Practice  - 14WSL16) 45 21 66 P
+(Engineering Physics Lab  - 14PHYL17) 45 25 70 P
+(Constitution of India & Professional Ethics  - 14CIP18) 26 19 45 P
+total= 501
+**
+1ds14cs101
+SINDHU V sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 64 23 87 P
+(Engineering Physics  - 14PHY12) 62 25 87 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 67 18 85 P
+(Elements of Mechanical Engineering  - 14EME14) 52 23 75 P
+(Basic Electrical Engineering  - 14ELE15) 62 22 84 P
+(Workshop Practice  - 14WSL16) 40 23 63 P
+(Engineering Physics Lab  - 14PHYL17) 40 25 65 P
+(Constitution of India & Professional Ethics  - 14CIP18) 26 7 33 P
+total= 546
+**
+1ds14cs102
+SNEHA S sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 86 24 110 P
+(Engineering Physics  - 14PHY12) 87 25 112 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 70 25 95 P
+(Elements of Mechanical Engineering  - 14EME14) 92 25 117 P
+(Basic Electrical Engineering  - 14ELE15) 88 23 111 P
+(Workshop Practice  - 14WSL16) 41 25 66 P
+(Engineering Physics Lab  - 14PHYL17) 49 24 73 P
+(Constitution of India & Professional Ethics  - 14CIP18) 28 15 43 P
+total= 684
+**
+1ds14cs103
+SONU KUMAR sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 81 24 105 P
+(Engineering Physics  - 14PHY12) 76 25 101 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 90 25 115 P
+(Elements of Mechanical Engineering  - 14EME14) 65 23 88 P
+(Basic Electrical Engineering  - 14ELE15) 78 25 103 P
+(Workshop Practice  - 14WSL16) 39 24 63 P
+(Engineering Physics Lab  - 14PHYL17) 49 24 73 P
+(Constitution of India & Professional Ethics  - 14CIP18) 31 20 51 P
+total= 648
+**
+1ds14cs104
+SRI SINDHUJA V sem: 1 Result: FAIL
+(Engineering Maths-I  - 14MAT11) 35 15 50 P
+(Engineering Physics  - 14PHY12) 45 16 61 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 30 20 50 F
+(Elements of Mechanical Engineering  - 14EME14) 58 17 75 P
+(Basic Electrical Engineering  - 14ELE15) 26 15 41 F
+(Workshop Practice  - 14WSL16) 40 24 64 P
+(Engineering Physics Lab  - 14PHYL17) 37 22 59 P
+(Constitution of India & Professional Ethics  - 14CIP18) 22 15 37 P
+total= 400
+**
+1ds14cs105
+SRINIVAS B V sem: 1 Result: FC
+(Engineering Maths-I  - 14MAT11) 64 20 84 P
+(Engineering Physics  - 14PHY12) 65 17 82 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 51 20 71 P
+(Elements of Mechanical Engineering  - 14EME14) 65 21 86 P
+(Basic Electrical Engineering  - 14ELE15) 50 18 68 P
+(Workshop Practice  - 14WSL16) 39 24 63 P
+(Engineering Physics Lab  - 14PHYL17) 42 24 66 P
+(Constitution of India & Professional Ethics  - 14CIP18) 21 16 37 P
+total= 520
+**
+1ds14cs106
+SRIPARNA GHOSH sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 74 25 99 P
+(Engineering Physics  - 14PHY12) 78 23 101 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 86 24 110 P
+(Elements of Mechanical Engineering  - 14EME14) 85 24 109 P
+(Basic Electrical Engineering  - 14ELE15) 70 25 95 P
+(Workshop Practice  - 14WSL16) 41 24 65 P
+(Engineering Physics Lab  - 14PHYL17) 45 23 68 P
+(Constitution of India & Professional Ethics  - 14CIP18) 30 15 45 P
+total= 647
+**
+1ds14cs107
+SUDHANSHU ABHISHEK sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 90 23 113 P
+(Engineering Physics  - 14PHY12) 86 25 111 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 75 25 100 P
+(Elements of Mechanical Engineering  - 14EME14) 89 23 112 P
+(Basic Electrical Engineering  - 14ELE15) 79 25 104 P
+(Workshop Practice  - 14WSL16) 44 24 68 P
+(Engineering Physics Lab  - 14PHYL17) 45 24 69 P
+(Constitution of India & Professional Ethics  - 14CIP18) 23 18 41 P
+total= 677
+**
+1ds14cs108
+SUMAN B PATIL sem: 1 Result: SC
+(Engineering Maths-I  - 14MAT11) 41 16 57 P
+(Engineering Physics  - 14PHY12) 52 20 72 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 41 20 61 P
+(Elements of Mechanical Engineering  - 14EME14) 64 22 86 P
+(Basic Electrical Engineering  - 14ELE15) 35 22 57 P
+(Workshop Practice  - 14WSL16) 39 24 63 P
+(Engineering Physics Lab  - 14PHYL17) 39 24 63 P
+(Constitution of India & Professional Ethics  - 14CIP18) 24 16 40 P
+total= 459
+**
+1ds14cs109
+SUPREET M B sem: 1 Result: FAIL
+(Engineering Maths-I  - 14MAT11) 35 15 50 P
+(Engineering Physics  - 14PHY12) 50 18 68 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 47 18 65 P
+(Elements of Mechanical Engineering  - 14EME14) 63 22 85 P
+(Basic Electrical Engineering  - 14ELE15) 27 18 45 F
+(Workshop Practice  - 14WSL16) 44 24 68 P
+(Engineering Physics Lab  - 14PHYL17) 49 16 65 P
+(Constitution of India & Professional Ethics  - 14CIP18) 24 12 36 P
+total= 446
+**
+1ds14cs110
+SUPRIYA RAO N sem: 1 Result: FC
+(Engineering Maths-I  - 14MAT11) 40 23 63 P
+(Engineering Physics  - 14PHY12) 58 24 82 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 60 18 78 P
+(Elements of Mechanical Engineering  - 14EME14) 66 24 90 P
+(Basic Electrical Engineering  - 14ELE15) 61 23 84 P
+(Workshop Practice  - 14WSL16) 43 24 67 P
+(Engineering Physics Lab  - 14PHYL17) 49 24 73 P
+(Constitution of India & Professional Ethics  - 14CIP18) 32 17 49 P
+total= 537
+**
+1ds14cs111
+SUSHANT SINGH sem: 1 Result: FAIL
+(Engineering Maths-I  - 14MAT11) 21 15 36 F
+(Engineering Physics  - 14PHY12) 49 18 67 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 38 22 60 P
+(Elements of Mechanical Engineering  - 14EME14) 65 20 85 P
+(Basic Electrical Engineering  - 14ELE15) 14 20 34 F
+(Workshop Practice  - 14WSL16) 41 22 63 P
+(Engineering Physics Lab  - 14PHYL17) 20 17 37 P
+(Constitution of India & Professional Ethics  - 14CIP18) 18 15 33 P
+total= 382
+**
+1ds14cs112
+SWATI AGARWAL sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 79 24 103 P
+(Engineering Physics  - 14PHY12) 95 25 120 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 91 25 116 P
+(Elements of Mechanical Engineering  - 14EME14) 73 25 98 P
+(Basic Electrical Engineering  - 14ELE15) 86 25 111 P
+(Workshop Practice  - 14WSL16) 46 25 71 P
+(Engineering Physics Lab  - 14PHYL17) 49 25 74 P
+(Constitution of India & Professional Ethics  - 14CIP18) 27 21 48 P
+total= 693
+**
+1ds14cs113
+SWATI SINGH sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 41 25 66 P
+(Engineering Physics  - 14PHY12) 88 25 113 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 91 24 115 P
+(Elements of Mechanical Engineering  - 14EME14) 55 24 79 P
+(Basic Electrical Engineering  - 14ELE15) 86 25 111 P
+(Workshop Practice  - 14WSL16) 45 25 70 P
+(Engineering Physics Lab  - 14PHYL17) 43 25 68 P
+(Constitution of India & Professional Ethics  - 14CIP18) 27 20 47 P
+total= 622
+**
+1ds14cs114
+TAMEEM ANSAR sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 47 15 62 P
+(Engineering Physics  - 14PHY12) 68 17 85 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 65 23 88 P
+(Elements of Mechanical Engineering  - 14EME14) 66 21 87 P
+(Basic Electrical Engineering  - 14ELE15) 65 20 85 P
+(Workshop Practice  - 14WSL16) 44 25 69 P
+(Engineering Physics Lab  - 14PHYL17) 45 21 66 P
+(Constitution of India & Professional Ethics  - 14CIP18) 33 16 49 P
+total= 543
+**
+1ds14cs115
+TASMIYA KHUTAIJA sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 61 19 80 P
+(Engineering Physics  - 14PHY12) 78 25 103 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 66 22 88 P
+(Elements of Mechanical Engineering  - 14EME14) 68 24 92 P
+(Basic Electrical Engineering  - 14ELE15) 77 22 99 P
+(Workshop Practice  - 14WSL16) 42 24 66 P
+(Engineering Physics Lab  - 14PHYL17) 40 23 63 P
+(Constitution of India & Professional Ethics  - 14CIP18) 18 16 34 P
+total= 591
+**
+1ds14cs116
+U BRIJESH RAJ sem: 1 Result: FC
+(Engineering Maths-I  - 14MAT11) 44 19 63 P
+(Engineering Physics  - 14PHY12) 79 21 100 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 54 19 73 P
+(Elements of Mechanical Engineering  - 14EME14) 57 22 79 P
+(Basic Electrical Engineering  - 14ELE15) 68 20 88 P
+(Workshop Practice  - 14WSL16) 46 24 70 P
+(Engineering Physics Lab  - 14PHYL17) 42 22 64 P
+(Constitution of India & Professional Ethics  - 14CIP18) 32 16 48 P
+total= 537
+**
+1ds14cs117
+VAISHNAVI sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 66 24 90 P
+(Engineering Physics  - 14PHY12) 74 25 99 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 86 23 109 P
+(Elements of Mechanical Engineering  - 14EME14) 63 24 87 P
+(Basic Electrical Engineering  - 14ELE15) 81 25 106 P
+(Workshop Practice  - 14WSL16) 47 24 71 P
+(Engineering Physics Lab  - 14PHYL17) 46 24 70 P
+(Constitution of India & Professional Ethics  - 14CIP18) 23 15 38 P
+total= 632
+**
+1ds14cs118
+VARSHA JAMBUNATHAN sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 72 23 95 P
+(Engineering Physics  - 14PHY12) 86 25 111 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 57 23 80 P
+(Elements of Mechanical Engineering  - 14EME14) 64 23 87 P
+(Basic Electrical Engineering  - 14ELE15) 67 25 92 P
+(Workshop Practice  - 14WSL16) 45 24 69 P
+(Engineering Physics Lab  - 14PHYL17) 44 23 67 P
+(Constitution of India & Professional Ethics  - 14CIP18) 26 15 41 P
+total= 601
+**
+1ds14cs119
+VARSHIT REDDY B sem: 1 Result: FAIL
+(Engineering Maths-I  - 14MAT11) 26 16 42 F
+(Engineering Physics  - 14PHY12) 79 20 99 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 72 22 94 P
+(Elements of Mechanical Engineering  - 14EME14) 63 22 85 P
+(Basic Electrical Engineering  - 14ELE15) 44 16 60 P
+(Workshop Practice  - 14WSL16) 44 25 69 P
+(Engineering Physics Lab  - 14PHYL17) 41 16 57 P
+(Constitution of India & Professional Ethics  - 14CIP18) 26 15 41 P
+total= 506
+**
+1ds14cs120
+VARUN sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 89 23 112 P
+(Engineering Physics  - 14PHY12) 84 25 109 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 85 25 110 P
+(Elements of Mechanical Engineering  - 14EME14) 78 22 100 P
+(Basic Electrical Engineering  - 14ELE15) 85 21 106 P
+(Workshop Practice  - 14WSL16) 43 24 67 P
+(Engineering Physics Lab  - 14PHYL17) 43 24 67 P
+(Constitution of India & Professional Ethics  - 14CIP18) 21 19 40 P
+total= 671
+**
+1ds14cs121
+VATSALA SHEKHAR sem: 1 Result: SC
+(Engineering Maths-I  - 14MAT11) 47 17 64 P
+(Engineering Physics  - 14PHY12) 51 18 69 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 54 23 77 P
+(Elements of Mechanical Engineering  - 14EME14) 44 20 64 P
+(Basic Electrical Engineering  - 14ELE15) 40 18 58 P
+(Workshop Practice  - 14WSL16) 42 24 66 P
+(Engineering Physics Lab  - 14PHYL17) 40 15 55 P
+(Constitution of India & Professional Ethics  - 14CIP18) 25 20 45 P
+total= 453
+**
+1ds14cs123
+VIKASH KUMAR sem: 1 Result: SC
+(Engineering Maths-I  - 14MAT11) 44 15 59 P
+(Engineering Physics  - 14PHY12) 66 21 87 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 37 18 55 P
+(Elements of Mechanical Engineering  - 14EME14) 45 16 61 P
+(Basic Electrical Engineering  - 14ELE15) 43 17 60 P
+(Workshop Practice  - 14WSL16) 39 24 63 P
+(Engineering Physics Lab  - 14PHYL17) 38 22 60 P
+(Constitution of India & Professional Ethics  - 14CIP18) 22 17 39 P
+total= 445
+**
+1ds14cs124
+VIKRAM KUMAR sem: 1 Result: FCD
+(Engineering Maths-I  - 14MAT11) 90 25 115 P
+(Engineering Physics  - 14PHY12) 78 20 98 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 35 23 58 P
+(Elements of Mechanical Engineering  - 14EME14) 60 20 80 P
+(Basic Electrical Engineering  - 14ELE15) 49 21 70 P
+(Workshop Practice  - 14WSL16) 41 20 61 P
+(Engineering Physics Lab  - 14PHYL17) 40 24 64 P
+(Constitution of India & Professional Ethics  - 14CIP18) 25 19 44 P
+total= 546
+**
+1ds14cs125
+VRUSHODHSUBRAMANIAN sem: 1 Result: SC
+(Engineering Maths-I  - 14MAT11) 43 17 60 P
+(Engineering Physics  - 14PHY12) 49 20 69 P
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 39 21 60 P
+(Elements of Mechanical Engineering  - 14EME14) 41 20 61 P
+(Basic Electrical Engineering  - 14ELE15) 43 17 60 P
+(Workshop Practice  - 14WSL16) 44 19 63 P
+(Engineering Physics Lab  - 14PHYL17) 43 24 67 P
+(Constitution of India & Professional Ethics  - 14CIP18) 31 15 46 P
+total= 440
+**
+1ds14cs126
+RITESH KUMAR sem: 1 Result: FAIL
+(Engineering Maths-I  - 14MAT11) 23 10 33 F
+(Engineering Physics  - 14PHY12) 27 16 43 F
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 12 15 27 F
+(Elements of Mechanical Engineering  - 14EME14) 44 15 59 P
+(Basic Electrical Engineering  - 14ELE15) 17 15 32 F
+(Workshop Practice  - 14WSL16) 34 15 49 P
+(Engineering Physics Lab  - 14PHYL17) 21 24 45 P
+(Constitution of India & Professional Ethics  - 14CIP18) 13 18 31 F
+total= 288
+**
+1ds14cs127
+NATDANAI KAEWSUK sem: 1 Result: FAIL
+(Engineering Maths-I  - 14MAT11) 0 0 0 A
+(Engineering Physics  - 14PHY12) 0 0 0 A
+(Elements of Civil Engg. & Engg. Mechanics  - 14CIV13) 0 15 15 A
+(Elements of Mechanical Engineering  - 14EME14) 0 2 2 A
+(Basic Electrical Engineering  - 14ELE15) 0 3 3 A
+(Workshop Practice  - 14WSL16) 0 15 15 A
+(Engineering Physics Lab  - 14PHYL17) 0 15 15 A
+(Constitution of India & Professional Ethics  - 14CIP18) 0 4 4 A
+total= 50
+**
+false
+126

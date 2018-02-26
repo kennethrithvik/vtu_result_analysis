@@ -1,0 +1,180 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>Automatic Results Analysis</title>
+		<meta name="keywords" content="vtu , subject analysis" />
+		<meta name="description" content="Analyze the the performance of a batch doing BE in VTU" />
+		<link href="templatemo_style.css" rel="stylesheet" type="text/css" />
+		<script language="javascript" type="text/javascript">
+			function clearText(field)
+			{
+				if (field.defaultValue == field.value) field.value = '';
+				else if (field.value == '') field.value = field.defaultValue;
+			}
+			inst="D:\\Result Analysis\\";
+		</script>
+		<script language="javascript" type="text/javascript">
+			function LaunchApp1() {
+				if (!document.all)
+				{
+					alert ("This ActiveXObject is only available for Internet Explorer");
+					return;
+				}
+				var ws = new ActiveXObject("WScript.Shell");
+				ws.Exec(inst+"classwiseplot.exe");
+			}
+			function LaunchApp2() {
+				if (!document.all)
+				{
+					alert ("This ActiveXObject is only available for Internet Explorer");
+					return;
+				}
+				var ws = new ActiveXObject("WScript.Shell");
+				ws.Exec(inst+"rankplot.exe");
+			}
+		</script>
+		<script language="javascript" type="text/javascript">
+			function jar() {
+				if (!document.all)
+				{
+					alert ("This ActiveXObject is only available for Internet Explorer");
+					return;
+				}
+				//alert("before");
+				var ws = new ActiveXObject("WScript.Shell");
+				ws.Exec(inst+"run.bat");
+				//alert("after call");
+				return;
+			}
+		</script>
+		<script language="javascript" type="text/javascript">
+			function WriteFile ( elem1, elem2, elem3, elem4 )
+			{
+				if (!document.all)
+				{
+					alert ("This ActiveXObject is only available for Internet Explorer");
+					return;
+				}
+				var reval = elem1.value ;
+				var bc = elem2.value ;
+				var sem = elem3.value ;
+				
+				
+				var busn = elem4.value ;
+				var fso  = new ActiveXObject("Scripting.FileSystemObject") ;
+				var fh = fso.CreateTextFile(inst+"data\\input.txt", true) ;
+				if ( elem1.checked )
+					fh.WriteLine("1") ;
+				else
+					fh.WriteLine("0") ;
+				fh.WriteLine(bc) ;
+				fh.WriteLine(sem) ;
+				fh.WriteLine(busn) ;
+				if(bc=="" || sem=="")
+				{
+					alert("Enter both batch code and sem");
+					return false;
+				}
+				fh.close() ;
+				//jar();
+				return;
+			}
+		</script>
+	</head>
+	<body>
+		<div id="templatemo_header_wrapper">
+		<!--  Free Web Templates by TemplateMo.com  -->
+			<div id="templatemo_header">
+    			<div id="site_logo"></div>
+       
+				<div id="templatemo_menu">
+					<div id="templatemo_menu_left"></div>
+					
+				</div> <!-- end of menu -->
+			</div>  <!-- end of header -->
+		</div> <!-- end of header wrapper -->
+ 
+		<div id="templatemo_banner_wrapper">
+			<div id="templatemo_banner">
+				<div id="templatemo_banner_image">
+					<div id="templatemo_banner_image_wrapper">
+						<img src="images/templatemo_image_01.jpg" alt="image 1" />
+					</div>
+				</div>
+                <div id="templatemo_banner_content">
+					<div class="header_01">We analyse the students results.
+					</div>
+					<p>The performance of an entire batch is evaluated and represented in a graphical manner.The rank list of the batch is also displayed</p>
+					
+				</div>	
+				<div class="cleaner">
+				</div>
+			</div> <!-- end of banner -->
+		</div> <!-- end of banner wrapper -->
+		<div id="templatemo_content_wrapper">
+			<div id="templatemo_content">
+				<div id="column_w530">
+					<div class="header_02">Welcome to our WEBSITE!
+					</div>
+                    <p class="em_text"><div>
+			<form action="run.bat">
+				<p><pre><label><input type="checkbox" id="reval"> Update Revaluation Results</label><br/>
+<label>*Batch Code (eg-1DS11CS) 	<input type="text" id="bc"></label><br/>
+<label>*Semester (1-8)         	<input type="text" id="sem"></label><br/>
+<label>Year back USN's                 <textarea id="busn" rows="3" cols="40">Enter the usn's of year back students seperated by a comma</textarea></label><br/>
+			        <input type="submit" value="Submit" onclick="WriteFile( document.getElementById('reval'), document.getElementById('bc'), document.getElementById('sem'), document.getElementById('busn') )"><br/>
+				</pre></p>
+			</form>
+		</div></p>
+					
+					
+					<div class="margin_bottom_20">
+					</div>           
+                    <div class="content_section_01">
+					</div>
+                    <div class="cleaner">
+					</div>
+				</div>
+                <div id="column_w300">
+                	<div class="header_03">Menu
+					</div>
+                    
+                    <div class="column_w300_section_01 even_color">
+						<div class="news_image_wrapper">
+							<img src="images/templatemo_image_03.jpg" alt="image" />
+						</div>
+                        <div class="news_content"></br>
+							<div class="header_04"><a href="classwise.html" return false;">Classwise Analysis</a>
+							</div>
+                    	</div>
+						<div class="cleaner">
+						</div>
+					</div>
+                    
+                    <div class="cleaner">
+					</div>
+		<div class="column_w300_section_01 even_color">
+						<div class="news_image_wrapper">
+							<img src="images/templatemo_image_04.jpg" alt="image" />
+						</div>
+                        <div class="news_content"></br>
+							<div class="header_04"><a href="rankplot.html" return false;">Subject averages and Rank List</a>
+							</div>
+                    	</div>
+						<div class="cleaner">
+						</div>
+					</div>
+                    
+                    <div class="cleaner">
+					</div>
+				</div>
+				<div class="cleaner">
+				</div>
+			</div> <!-- end of content wrapper -->
+		</div> <!-- end of content wrapper -->
+		</div> <!-- end of footer -->
+		
+			
+	</body>
+</html>

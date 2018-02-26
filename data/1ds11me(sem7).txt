@@ -1,0 +1,1586 @@
+1ds11me002
+ABHIJEET KAR sem: 7 Result: FCD
+(Economics  - 10ME71) 60 25 85 P
+(Mechanical Vibrations  - 10ME72) 77 25 102 P
+(Hydraulics & Pneumatics  - 10ME73) 71 24 95 P
+(Operations Research  - 10ME74) 83 25 108 P
+(Non Conventional Energy Sources  - 10ME754) 65 25 90 P
+(Design Lab.  - 10MEL77) 44 23 67 P
+(CIM & Automation Lab.  - 10MEL78) 49 24 73 P
+(Product Life Cycle Management  - 10ME769) 70 23 93 P
+total= 713
+**
+1ds11me003
+ABHINAV KRISHNA sem: 7 Result: FCD
+(Economics  - 10ME71) 80 25 105 P
+(Mechanical Vibrations  - 10ME72) 76 25 101 P
+(Hydraulics & Pneumatics  - 10ME73) 77 24 101 P
+(Operations Research  - 10ME74) 67 25 92 P
+(Non Conventional Energy Sources  - 10ME754) 63 25 88 P
+(Design Lab.  - 10MEL77) 37 24 61 P
+(CIM & Automation Lab.  - 10MEL78) 45 23 68 P
+(Product Life Cycle Management  - 10ME769) 56 21 77 P
+total= 693
+**
+1ds11me004
+ABHISHEK ANAND sem: 7 Result: FC
+(Economics  - 10ME71) 65 25 90 P
+(Mechanical Vibrations  - 10ME72) 50 20 70 P
+(Hydraulics & Pneumatics  - 10ME73) 55 25 80 P
+(Operations Research  - 10ME74) 61 18 79 P
+(Non Conventional Energy Sources  - 10ME754) 60 19 79 P
+(Design Lab.  - 10MEL77) 40 24 64 P
+(CIM & Automation Lab.  - 10MEL78) 47 24 71 P
+(Product Life Cycle Management  - 10ME769) 47 15 62 P
+total= 595
+**
+1ds11me006
+ABHISHEK NANDAN BAKSHI sem: 7 Result: FCD
+(Economics  - 10ME71) 62 24 86 P
+(Mechanical Vibrations  - 10ME72) 47 22 69 P
+(Hydraulics & Pneumatics  - 10ME73) 62 22 84 P
+(Operations Research  - 10ME74) 81 25 106 P
+(Design Lab.  - 10MEL77) 30 25 55 P
+(CIM & Automation Lab.  - 10MEL78) 47 25 72 P
+(Total Quality Management  - 10ME758) 71 21 92 P
+(Product Life Cycle Management  - 10ME769) 57 22 79 P
+total= 643
+**
+1ds11me007
+ABHISHEK S sem: 7 Result: FCD
+(Economics  - 10ME71) 63 23 86 P
+(Mechanical Vibrations  - 10ME72) 77 23 100 P
+(Hydraulics & Pneumatics  - 10ME73) 77 24 101 P
+(Operations Research  - 10ME74) 75 23 98 P
+(Robotics  - 10ME766) 77 25 102 P
+(Design Lab.  - 10MEL77) 47 25 72 P
+(CIM & Automation Lab.  - 10MEL78) 48 25 73 P
+(Total Quality Management  - 10ME758) 74 25 99 P
+total= 731
+**
+1ds11me008
+ADITHYA NADIG sem: 7 Result: FCD
+(Economics  - 10ME71) 80 25 105 P
+(Mechanical Vibrations  - 10ME72) 67 23 90 P
+(Hydraulics & Pneumatics  - 10ME73) 59 25 84 P
+(Operations Research  - 10ME74) 77 25 102 P
+(Design Lab.  - 10MEL77) 44 24 68 P
+(CIM & Automation Lab.  - 10MEL78) 46 25 71 P
+(Total Quality Management  - 10ME758) 75 25 100 P
+(Product Life Cycle Management  - 10ME769) 74 23 97 P
+total= 717
+**
+1ds11me009
+ADITYA PRAKASH SINGH sem: 7 Result: FCD
+(Economics  - 10ME71) 88 25 113 P
+(Mechanical Vibrations  - 10ME72) 79 25 104 P
+(Hydraulics & Pneumatics  - 10ME73) 82 25 107 P
+(Operations Research  - 10ME74) 90 25 115 P
+(Design Lab.  - 10MEL77) 46 24 70 P
+(CIM & Automation Lab.  - 10MEL78) 48 24 72 P
+(Total Quality Management  - 10ME758) 70 23 93 P
+(Product Life Cycle Management  - 10ME769) 66 22 88 P
+total= 762
+**
+1ds11me011
+ADITYA S SHAH sem: 7 Result: FC
+(Economics  - 10ME71) 55 24 79 P
+(Mechanical Vibrations  - 10ME72) 61 15 76 P
+(Hydraulics & Pneumatics  - 10ME73) 62 13 75 P
+(Operations Research  - 10ME74) 63 23 86 P
+(Design Lab.  - 10MEL77) 44 21 65 P
+(CIM & Automation Lab.  - 10MEL78) 46 21 67 P
+(Total Quality Management  - 10ME758) 41 15 56 P
+(Product Life Cycle Management  - 10ME769) 40 15 55 P
+total= 559
+**
+1ds11me012
+AGNISARMAN A N sem: 7 Result: FCD
+(Economics  - 10ME71) 78 25 103 P
+(Mechanical Vibrations  - 10ME72) 60 19 79 P
+(Hydraulics & Pneumatics  - 10ME73) 61 25 86 P
+(Operations Research  - 10ME74) 73 16 89 P
+(Non Conventional Energy Sources  - 10ME754) 58 15 73 P
+(Design Lab.  - 10MEL77) 45 18 63 P
+(CIM & Automation Lab.  - 10MEL78) 48 25 73 P
+(Product Life Cycle Management  - 10ME769) 63 18 81 P
+total= 647
+**
+1ds11me013
+AKAANSH PRADHAN sem: 7 Result: FC
+(Economics  - 10ME71) 68 23 91 P
+(Mechanical Vibrations  - 10ME72) 47 15 62 P
+(Hydraulics & Pneumatics  - 10ME73) 58 24 82 P
+(Operations Research  - 10ME74) 65 20 85 P
+(Non Conventional Energy Sources  - 10ME754) 54 23 77 P
+(Design Lab.  - 10MEL77) 46 24 70 P
+(CIM & Automation Lab.  - 10MEL78) 47 24 71 P
+(Product Life Cycle Management  - 10ME769) 47 19 66 P
+total= 604
+**
+1ds11me015
+AMAR sem: 7 Result: FCD
+(Economics  - 10ME71) 60 23 83 P
+(Mechanical Vibrations  - 10ME72) 64 25 89 P
+(Hydraulics & Pneumatics  - 10ME73) 77 25 102 P
+(Operations Research  - 10ME74) 64 25 89 P
+(Design Lab.  - 10MEL77) 43 23 66 P
+(CIM & Automation Lab.  - 10MEL78) 48 22 70 P
+(Total Quality Management  - 10ME758) 78 25 103 P
+(Product Life Cycle Management  - 10ME769) 68 22 90 P
+total= 692
+**
+1ds11me016
+AMAR R R sem: 7 Result: FCD
+(Economics  - 10ME71) 78 25 103 P
+(Mechanical Vibrations  - 10ME72) 79 25 104 P
+(Hydraulics & Pneumatics  - 10ME73) 75 25 100 P
+(Operations Research  - 10ME74) 96 25 121 P
+(Design Lab.  - 10MEL77) 48 25 73 P
+(CIM & Automation Lab.  - 10MEL78) 48 25 73 P
+(Total Quality Management  - 10ME758) 81 25 106 P
+(Product Life Cycle Management  - 10ME769) 70 25 95 P
+total= 775
+**
+1ds11me017
+AMIT KUMAR sem: 7 Result: FCD
+(Economics  - 10ME71) 86 25 111 P
+(Mechanical Vibrations  - 10ME72) 72 25 97 P
+(Hydraulics & Pneumatics  - 10ME73) 81 25 106 P
+(Operations Research  - 10ME74) 71 25 96 P
+(Robotics  - 10ME766) 87 25 112 P
+(Design Lab.  - 10MEL77) 47 25 72 P
+(CIM & Automation Lab.  - 10MEL78) 48 25 73 P
+(Total Quality Management  - 10ME758) 83 25 108 P
+total= 775
+**
+1ds11me018
+ANEESH VASUDEV sem: 7 Result: FCD
+(Economics  - 10ME71) 69 25 94 P
+(Mechanical Vibrations  - 10ME72) 76 25 101 P
+(Hydraulics & Pneumatics  - 10ME73) 76 25 101 P
+(Operations Research  - 10ME74) 92 25 117 P
+(Robotics  - 10ME766) 74 24 98 P
+(Design Lab.  - 10MEL77) 44 25 69 P
+(CIM & Automation Lab.  - 10MEL78) 49 25 74 P
+(Total Quality Management  - 10ME758) 74 25 99 P
+total= 753
+**
+1ds11me019
+ANKIT KUMAR sem: 7 Result: FCD
+(Economics  - 10ME71) 73 25 98 P
+(Mechanical Vibrations  - 10ME72) 77 16 93 P
+(Hydraulics & Pneumatics  - 10ME73) 75 25 100 P
+(Operations Research  - 10ME74) 72 19 91 P
+(Design Lab.  - 10MEL77) 45 23 68 P
+(CIM & Automation Lab.  - 10MEL78) 48 23 71 P
+(Total Quality Management  - 10ME758) 65 12 77 P
+(Product Life Cycle Management  - 10ME769) 65 21 86 P
+total= 684
+**
+1ds11me020
+ANOOP RAMRAO KULKARNI sem: 7 Result: FCD
+(Economics  - 10ME71) 92 25 117 P
+(Mechanical Vibrations  - 10ME72) 63 25 88 P
+(Hydraulics & Pneumatics  - 10ME73) 86 25 111 P
+(Operations Research  - 10ME74) 89 25 114 P
+(Design Lab.  - 10MEL77) 49 25 74 P
+(CIM & Automation Lab.  - 10MEL78) 48 25 73 P
+(Total Quality Management  - 10ME758) 80 25 105 P
+(Product Life Cycle Management  - 10ME769) 77 25 102 P
+total= 784
+**
+1ds11me022
+ARNAV DEOGHARIA sem: 7 Result: FAIL
+(Economics  - 10ME71) 47 25 72 P
+(Mechanical Vibrations  - 10ME72) 69 21 90 P
+(Hydraulics & Pneumatics  - 10ME73) 54 25 79 P
+(Operations Research  - 10ME74) 45 25 70 P
+(Non Conventional Energy Sources  - 10ME754) 54 18 72 P
+(Design Lab.  - 10MEL77) 44 20 64 P
+(CIM & Automation Lab.  - 10MEL78) 45 15 60 P
+(Product Life Cycle Management  - 10ME769) 0 22 22 F
+total= 529
+**
+1ds11me023
+ARVIND VAISHNAV K sem: 7 Result: FCD
+(Economics  - 10ME71) 90 25 115 P
+(Mechanical Vibrations  - 10ME72) 63 25 88 P
+(Hydraulics & Pneumatics  - 10ME73) 80 25 105 P
+(Operations Research  - 10ME74) 83 25 108 P
+(Design Lab.  - 10MEL77) 46 25 71 P
+(CIM & Automation Lab.  - 10MEL78) 49 25 74 P
+(Total Quality Management  - 10ME758) 79 25 104 P
+(Product Life Cycle Management  - 10ME769) 71 25 96 P
+total= 761
+**
+1ds11me026
+AVNISH SHARMA sem: 7 Result: FCD
+(Economics  - 10ME71) 75 25 100 P
+(Mechanical Vibrations  - 10ME72) 80 25 105 P
+(Hydraulics & Pneumatics  - 10ME73) 80 25 105 P
+(Operations Research  - 10ME74) 82 25 107 P
+(Non Conventional Energy Sources  - 10ME754) 75 25 100 P
+(Robotics  - 10ME766) 76 25 101 P
+(Design Lab.  - 10MEL77) 48 25 73 P
+(CIM & Automation Lab.  - 10MEL78) 47 25 72 P
+total= 763
+**
+1ds11me027
+AYAN CHAKRABORTHY sem: 7 Result: FCD
+(Economics  - 10ME71) 63 24 87 P
+(Mechanical Vibrations  - 10ME72) 60 21 81 P
+(Hydraulics & Pneumatics  - 10ME73) 68 24 92 P
+(Operations Research  - 10ME74) 77 18 95 P
+(Design Lab.  - 10MEL77) 40 25 65 P
+(CIM & Automation Lab.  - 10MEL78) 46 24 70 P
+(Total Quality Management  - 10ME758) 75 23 98 P
+(Product Life Cycle Management  - 10ME769) 60 23 83 P
+total= 671
+**
+1ds11me028
+BINOD KUMAR sem: 7 Result: FC
+(Economics  - 10ME71) 48 25 73 P
+(Mechanical Vibrations  - 10ME72) 45 25 70 P
+(Hydraulics & Pneumatics  - 10ME73) 69 25 94 P
+(Operations Research  - 10ME74) 68 25 93 P
+(Design Lab.  - 10MEL77) 43 24 67 P
+(CIM & Automation Lab.  - 10MEL78) 46 21 67 P
+(Total Quality Management  - 10ME758) 58 24 82 P
+(Product Life Cycle Management  - 10ME769) 56 20 76 P
+total= 622
+**
+1ds11me030
+CHETHAN.LO sem: 7 Result: FAIL
+(Economics  - 10ME71) 58 18 76 P
+(Mechanical Vibrations  - 10ME72) 41 16 57 P
+(Hydraulics & Pneumatics  - 10ME73) 39 22 61 P
+(Operations Research  - 10ME74) 28 22 50 F
+(Design Lab.  - 10MEL77) 44 22 66 P
+(Total Quality Management  - 10ME758) 46 15 61 P
+(CIM & Automation Lab.  - 10MEL78) 44 18 62 P
+(Product Life Cycle Management  - 10ME769) 36 14 50 P
+total= 483
+**
+1ds11me031
+DADA HAYATH S.A sem: 7 Result: FCD
+(Economics  - 10ME71) 70 25 95 P
+(Mechanical Vibrations  - 10ME72) 69 25 94 P
+(Hydraulics & Pneumatics  - 10ME73) 66 25 91 P
+(Operations Research  - 10ME74) 76 25 101 P
+(Design Lab.  - 10MEL77) 45 24 69 P
+(CIM & Automation Lab.  - 10MEL78) 48 21 69 P
+(Total Quality Management  - 10ME758) 72 23 95 P
+(Product Life Cycle Management  - 10ME769) 69 23 92 P
+total= 706
+**
+1ds11me033
+DEVENDRA KASHYAP sem: 7 Result: FAIL
+(Economics  - 10ME71) 38 23 61 P
+(Mechanical Vibrations  - 10ME72) 19 17 36 F
+(Hydraulics & Pneumatics  - 10ME73) 45 23 68 P
+(Operations Research  - 10ME74) 63 15 78 P
+(Non Conventional Energy Sources  - 10ME754) 50 19 69 P
+(Robotics  - 10ME766) 42 15 57 P
+(Design Lab.  - 10MEL77) 44 22 66 P
+(CIM & Automation Lab.  - 10MEL78) 30 20 50 P
+total= 485
+**
+1ds11me035
+GAHAN M NARAYAN sem: 7 Result: FCD
+(Economics  - 10ME71) 70 25 95 P
+(Mechanical Vibrations  - 10ME72) 55 18 73 P
+(Hydraulics & Pneumatics  - 10ME73) 71 25 96 P
+(Operations Research  - 10ME74) 59 25 84 P
+(Design Lab.  - 10MEL77) 45 23 68 P
+(CIM & Automation Lab.  - 10MEL78) 45 22 67 P
+(Total Quality Management  - 10ME758) 71 23 94 P
+(Product Life Cycle Management  - 10ME769) 72 22 94 P
+total= 671
+**
+1ds11me036
+GANESH ARUN NAIK sem: 7 Result: FCD
+(Economics  - 10ME71) 55 25 80 P
+(Mechanical Vibrations  - 10ME72) 65 25 90 P
+(Hydraulics & Pneumatics  - 10ME73) 80 25 105 P
+(Operations Research  - 10ME74) 86 25 111 P
+(Design Lab.  - 10MEL77) 45 25 70 P
+(CIM & Automation Lab.  - 10MEL78) 48 25 73 P
+(Total Quality Management  - 10ME758) 81 25 106 P
+(Product Life Cycle Management  - 10ME769) 72 25 97 P
+total= 732
+**
+1ds11me037
+GARGIMOY KALITA sem: 7 Result: FCD
+(Economics  - 10ME71) 54 25 79 P
+(Mechanical Vibrations  - 10ME72) 46 19 65 P
+(Hydraulics & Pneumatics  - 10ME73) 66 21 87 P
+(Operations Research  - 10ME74) 66 19 85 P
+(Non Conventional Energy Sources  - 10ME754) 72 20 92 P
+(Design Lab.  - 10MEL77) 44 21 65 P
+(CIM & Automation Lab.  - 10MEL78) 43 23 66 P
+(Product Life Cycle Management  - 10ME769) 73 22 95 P
+total= 634
+**
+1ds11me038
+GAURAV PRIYADARSHI sem: 7 Result: FCD
+(Economics  - 10ME71) 48 25 73 P
+(Mechanical Vibrations  - 10ME72) 67 15 82 P
+(Hydraulics & Pneumatics  - 10ME73) 70 15 85 P
+(Operations Research  - 10ME74) 53 21 74 P
+(Design Lab.  - 10MEL77) 44 21 65 P
+(CIM & Automation Lab.  - 10MEL78) 43 24 67 P
+(Total Quality Management  - 10ME758) 66 23 89 P
+(Product Life Cycle Management  - 10ME769) 68 22 90 P
+total= 630
+**
+1ds11me039
+GIRIDHAR.N sem: 7 Result: FCD
+(Economics  - 10ME71) 63 25 88 P
+(Mechanical Vibrations  - 10ME72) 57 17 74 P
+(Hydraulics & Pneumatics  - 10ME73) 65 24 89 P
+(Operations Research  - 10ME74) 63 24 87 P
+(Design Lab.  - 10MEL77) 46 22 68 P
+(CIM & Automation Lab.  - 10MEL78) 47 25 72 P
+(Total Quality Management  - 10ME758) 78 24 102 P
+(Product Life Cycle Management  - 10ME769) 69 21 90 P
+total= 670
+**
+1ds11me040
+HIMANSHU AJMERA sem: 7 Result: FCD
+(Economics  - 10ME71) 63 25 88 P
+(Mechanical Vibrations  - 10ME72) 63 21 84 P
+(Hydraulics & Pneumatics  - 10ME73) 64 25 89 P
+(Operations Research  - 10ME74) 53 22 75 P
+(Non Conventional Energy Sources  - 10ME754) 63 24 87 P
+(Design Lab.  - 10MEL77) 46 25 71 P
+(CIM & Automation Lab.  - 10MEL78) 47 25 72 P
+(Product Life Cycle Management  - 10ME769) 75 22 97 P
+total= 663
+**
+1ds11me042
+JAYAGANESH SATHIYANARAYANAN sem: 7 Result: FCD
+(Economics  - 10ME71) 50 25 75 P
+(Mechanical Vibrations  - 10ME72) 61 19 80 P
+(Hydraulics & Pneumatics  - 10ME73) 67 24 91 P
+(Operations Research  - 10ME74) 71 24 95 P
+(Non Conventional Energy Sources  - 10ME754) 50 24 74 P
+(Design Lab.  - 10MEL77) 44 24 68 P
+(CIM & Automation Lab.  - 10MEL78) 45 24 69 P
+(Product Life Cycle Management  - 10ME769) 66 23 89 P
+total= 641
+**
+1ds11me043
+KALYANI SHRAVAN KUMAR sem: 7 Result: FCD
+(Economics  - 10ME71) 52 24 76 P
+(Mechanical Vibrations  - 10ME72) 69 17 86 P
+(Hydraulics & Pneumatics  - 10ME73) 75 25 100 P
+(Operations Research  - 10ME74) 85 24 109 P
+(Robotics  - 10ME766) 71 21 92 P
+(Design Lab.  - 10MEL77) 44 23 67 P
+(CIM & Automation Lab.  - 10MEL78) 46 25 71 P
+(Total Quality Management  - 10ME758) 80 23 103 P
+total= 704
+**
+1ds11me044
+KAMLESH KUMAR sem: 7 Result: SC
+(Economics  - 10ME71) 37 25 62 P
+(Mechanical Vibrations  - 10ME72) 44 6 50 P
+(Hydraulics & Pneumatics  - 10ME73) 52 15 67 P
+(Operations Research  - 10ME74) 41 19 60 P
+(Non Conventional Energy Sources  - 10ME754) 35 20 55 P
+(Design Lab.  - 10MEL77) 42 21 63 P
+(CIM & Automation Lab.  - 10MEL78) 42 22 64 P
+(Product Life Cycle Management  - 10ME769) 65 23 88 P
+total= 509
+**
+1ds11me045
+KARAN.E.C sem: 7 Result: FCD
+(Economics  - 10ME71) 52 25 77 P
+(Mechanical Vibrations  - 10ME72) 69 19 88 P
+(Hydraulics & Pneumatics  - 10ME73) 76 15 91 P
+(Operations Research  - 10ME74) 69 25 94 P
+(Design Lab.  - 10MEL77) 43 22 65 P
+(CIM & Automation Lab.  - 10MEL78) 46 24 70 P
+(Total Quality Management  - 10ME758) 74 22 96 P
+(Product Life Cycle Management  - 10ME769) 68 22 90 P
+total= 671
+**
+1ds11me048
+LOKESH S sem: 7 Result: FCD
+(Economics  - 10ME71) 63 25 88 P
+(Mechanical Vibrations  - 10ME72) 66 20 86 P
+(Hydraulics & Pneumatics  - 10ME73) 71 25 96 P
+(Operations Research  - 10ME74) 77 24 101 P
+(Design Lab.  - 10MEL77) 45 22 67 P
+(CIM & Automation Lab.  - 10MEL78) 48 24 72 P
+(Total Quality Management  - 10ME758) 75 23 98 P
+(Product Life Cycle Management  - 10ME769) 71 23 94 P
+total= 702
+**
+1ds11me049
+M SUNIL KUMAR sem: 7 Result: FC
+(Economics  - 10ME71) 53 25 78 P
+(Mechanical Vibrations  - 10ME72) 38 15 53 P
+(Hydraulics & Pneumatics  - 10ME73) 45 17 62 P
+(Operations Research  - 10ME74) 51 22 73 P
+(Design Lab.  - 10MEL77) 40 23 63 P
+(CIM & Automation Lab.  - 10MEL78) 43 23 66 P
+(Total Quality Management  - 10ME758) 49 22 71 P
+(Product Life Cycle Management  - 10ME769) 52 22 74 P
+total= 540
+**
+1ds11me050
+MAHESH M sem: 7 Result: FCD
+(Economics  - 10ME71) 62 25 87 P
+(Mechanical Vibrations  - 10ME72) 80 25 105 P
+(Hydraulics & Pneumatics  - 10ME73) 80 25 105 P
+(Operations Research  - 10ME74) 81 25 106 P
+(Design Lab.  - 10MEL77) 46 25 71 P
+(CIM & Automation Lab.  - 10MEL78) 48 25 73 P
+(Total Quality Management  - 10ME758) 75 25 100 P
+(Product Life Cycle Management  - 10ME769) 74 25 99 P
+total= 746
+**
+1ds11me051
+MANOJ KUMAR HK sem: 7 Result: FCD
+(Economics  - 10ME71) 62 25 87 P
+(Mechanical Vibrations  - 10ME72) 74 18 92 P
+(Hydraulics & Pneumatics  - 10ME73) 75 25 100 P
+(Operations Research  - 10ME74) 80 23 103 P
+(Design Lab.  - 10MEL77) 45 25 70 P
+(CIM & Automation Lab.  - 10MEL78) 48 24 72 P
+(Total Quality Management  - 10ME758) 72 23 95 P
+(Product Life Cycle Management  - 10ME769) 74 22 96 P
+total= 715
+**
+1ds11me052
+MD AYAZ MASIH sem: 7 Result: FCD
+(Economics  - 10ME71) 60 25 85 P
+(Mechanical Vibrations  - 10ME72) 69 19 88 P
+(Hydraulics & Pneumatics  - 10ME73) 74 25 99 P
+(Operations Research  - 10ME74) 83 25 108 P
+(Non Conventional Energy Sources  - 10ME754) 61 24 85 P
+(Design Lab.  - 10MEL77) 45 22 67 P
+(CIM & Automation Lab.  - 10MEL78) 46 24 70 P
+(Product Life Cycle Management  - 10ME769) 43 19 62 P
+total= 664
+**
+1ds11me053
+MD FAIZAL AKHTER sem: 7 Result: FCD
+(Economics  - 10ME71) 47 25 72 P
+(Mechanical Vibrations  - 10ME72) 66 18 84 P
+(Hydraulics & Pneumatics  - 10ME73) 65 22 87 P
+(Operations Research  - 10ME74) 83 23 106 P
+(Non Conventional Energy Sources  - 10ME754) 63 24 87 P
+(Design Lab.  - 10MEL77) 44 23 67 P
+(CIM & Automation Lab.  - 10MEL78) 44 24 68 P
+(Product Life Cycle Management  - 10ME769) 60 22 82 P
+total= 653
+**
+1ds11me056
+MOHAMMED RAMEEZ sem: 7 Result: FCD
+(Economics  - 10ME71) 68 25 93 P
+(Mechanical Vibrations  - 10ME72) 64 21 85 P
+(Hydraulics & Pneumatics  - 10ME73) 70 25 95 P
+(Operations Research  - 10ME74) 66 24 90 P
+(Robotics  - 10ME766) 67 25 92 P
+(Design Lab.  - 10MEL77) 46 24 70 P
+(CIM & Automation Lab.  - 10MEL78) 48 25 73 P
+(Total Quality Management  - 10ME758) 72 24 96 P
+total= 694
+**
+1ds11me057
+MUKESH SINGH DHAMI sem: 7 Result: FCD
+(Economics  - 10ME71) 75 25 100 P
+(Mechanical Vibrations  - 10ME72) 74 25 99 P
+(Hydraulics & Pneumatics  - 10ME73) 79 25 104 P
+(Operations Research  - 10ME74) 81 25 106 P
+(Robotics  - 10ME766) 71 25 96 P
+(Design Lab.  - 10MEL77) 49 25 74 P
+(CIM & Automation Lab.  - 10MEL78) 48 25 73 P
+(Total Quality Management  - 10ME758) 85 25 110 P
+total= 762
+**
+1ds11me058
+NARENDRA DAIYA sem: 7 Result: FC
+(Economics  - 10ME71) 56 24 80 P
+(Mechanical Vibrations  - 10ME72) 44 16 60 P
+(Hydraulics & Pneumatics  - 10ME73) 56 18 74 P
+(Operations Research  - 10ME74) 74 21 95 P
+(Robotics  - 10ME766) 54 24 78 P
+(Design Lab.  - 10MEL77) 45 22 67 P
+(CIM & Automation Lab.  - 10MEL78) 42 23 65 P
+(Total Quality Management  - 10ME758) 46 20 66 P
+total= 585
+**
+1ds11me059
+NAVANEETH A.L sem: 7 Result: FC
+(Economics  - 10ME71) 45 24 69 P
+(Mechanical Vibrations  - 10ME72) 43 15 58 P
+(Hydraulics & Pneumatics  - 10ME73) 51 21 72 P
+(Operations Research  - 10ME74) 56 21 77 P
+(Design Lab.  - 10MEL77) 43 24 67 P
+(CIM & Automation Lab.  - 10MEL78) 45 20 65 P
+(Total Quality Management  - 10ME758) 60 23 83 P
+(Product Life Cycle Management  - 10ME769) 68 21 89 P
+total= 580
+**
+1ds11me060
+NISHANT SARASWAT sem: 7 Result: FCD
+(Economics  - 10ME71) 78 25 103 P
+(Mechanical Vibrations  - 10ME72) 80 24 104 P
+(Hydraulics & Pneumatics  - 10ME73) 80 25 105 P
+(Operations Research  - 10ME74) 92 21 113 P
+(Robotics  - 10ME766) 74 25 99 P
+(Design Lab.  - 10MEL77) 44 25 69 P
+(CIM & Automation Lab.  - 10MEL78) 45 25 70 P
+(Total Quality Management  - 10ME758) 75 23 98 P
+total= 761
+**
+1ds11me061
+NISHANTH S sem: 7 Result: FCD
+(Economics  - 10ME71) 73 25 98 P
+(Mechanical Vibrations  - 10ME72) 56 15 71 P
+(Hydraulics & Pneumatics  - 10ME73) 80 21 101 P
+(Operations Research  - 10ME74) 81 20 101 P
+(Non Conventional Energy Sources  - 10ME754) 68 22 90 P
+(Design Lab.  - 10MEL77) 43 23 66 P
+(CIM & Automation Lab.  - 10MEL78) 46 23 69 P
+(Product Life Cycle Management  - 10ME769) 72 21 93 P
+total= 689
+**
+1ds11me062
+NITESH KUMAR YADAV sem: 7 Result: FCD
+(Economics  - 10ME71) 77 25 102 P
+(Mechanical Vibrations  - 10ME72) 57 20 77 P
+(Hydraulics & Pneumatics  - 10ME73) 80 24 104 P
+(Operations Research  - 10ME74) 83 24 107 P
+(Robotics  - 10ME766) 71 25 96 P
+(Design Lab.  - 10MEL77) 40 24 64 P
+(CIM & Automation Lab.  - 10MEL78) 46 23 69 P
+(Total Quality Management  - 10ME758) 62 25 87 P
+total= 706
+**
+1ds11me063
+NITHIN G sem: 7 Result: FC
+(Economics  - 10ME71) 59 25 84 P
+(Mechanical Vibrations  - 10ME72) 68 16 84 P
+(Hydraulics & Pneumatics  - 10ME73) 56 21 77 P
+(Operations Research  - 10ME74) 57 19 76 P
+(Non Conventional Energy Sources  - 10ME754) 51 22 73 P
+(Robotics  - 10ME766) 45 25 70 P
+(Design Lab.  - 10MEL77) 44 22 66 P
+(CIM & Automation Lab.  - 10MEL78) 47 24 71 P
+total= 601
+**
+1ds11me064
+PANKAJ KUMAR RAI sem: 7 Result: FCD
+(Economics  - 10ME71) 64 25 89 P
+(Mechanical Vibrations  - 10ME72) 54 22 76 P
+(Hydraulics & Pneumatics  - 10ME73) 80 24 104 P
+(Operations Research  - 10ME74) 84 24 108 P
+(Non Conventional Energy Sources  - 10ME754) 70 25 95 P
+(Design Lab.  - 10MEL77) 43 25 68 P
+(CIM & Automation Lab.  - 10MEL78) 45 25 70 P
+(Product Life Cycle Management  - 10ME769) 67 23 90 P
+total= 700
+**
+1ds11me065
+PARTHA SANKAR MEDHI sem: 7 Result: FCD
+(Economics  - 10ME71) 57 25 82 P
+(Mechanical Vibrations  - 10ME72) 53 15 68 P
+(Hydraulics & Pneumatics  - 10ME73) 74 23 97 P
+(Operations Research  - 10ME74) 73 21 94 P
+(Non Conventional Energy Sources  - 10ME754) 57 22 79 P
+(Design Lab.  - 10MEL77) 42 23 65 P
+(CIM & Automation Lab.  - 10MEL78) 47 24 71 P
+(Product Life Cycle Management  - 10ME769) 66 20 86 P
+total= 642
+**
+1ds11me066
+PAVAN PRABHUDEV sem: 7 Result: FCD
+(Economics  - 10ME71) 57 22 79 P
+(Mechanical Vibrations  - 10ME72) 83 18 101 P
+(Hydraulics & Pneumatics  - 10ME73) 72 23 95 P
+(Operations Research  - 10ME74) 89 22 111 P
+(Robotics  - 10ME766) 61 22 83 P
+(Design Lab.  - 10MEL77) 42 24 66 P
+(CIM & Automation Lab.  - 10MEL78) 45 24 69 P
+(Total Quality Management  - 10ME758) 69 18 87 P
+total= 691
+**
+1ds11me067
+PRADEEP KUMAR R C sem: 7 Result: FCD
+(Economics  - 10ME71) 80 25 105 P
+(Mechanical Vibrations  - 10ME72) 85 25 110 P
+(Hydraulics & Pneumatics  - 10ME73) 80 25 105 P
+(Operations Research  - 10ME74) 89 25 114 P
+(Robotics  - 10ME766) 70 25 95 P
+(Design Lab.  - 10MEL77) 47 25 72 P
+(Total Quality Management  - 10ME758) 78 25 103 P
+(CIM & Automation Lab.  - 10MEL78) 49 25 74 P
+total= 778
+**
+1ds11me068
+PRADHYUMNA.M sem: 7 Result: FCD
+(Economics  - 10ME71) 57 25 82 P
+(Mechanical Vibrations  - 10ME72) 87 25 112 P
+(Hydraulics & Pneumatics  - 10ME73) 74 25 99 P
+(Operations Research  - 10ME74) 81 25 106 P
+(Robotics  - 10ME766) 68 25 93 P
+(Design Lab.  - 10MEL77) 46 25 71 P
+(Total Quality Management  - 10ME758) 78 25 103 P
+(CIM & Automation Lab.  - 10MEL78) 49 25 74 P
+total= 740
+**
+1ds11me069
+PRAMOD R sem: 7 Result: FCD
+(Economics  - 10ME71) 60 25 85 P
+(Mechanical Vibrations  - 10ME72) 87 16 103 P
+(Hydraulics & Pneumatics  - 10ME73) 76 24 100 P
+(Operations Research  - 10ME74) 79 23 102 P
+(Design Lab.  - 10MEL77) 43 24 67 P
+(Total Quality Management  - 10ME758) 76 23 99 P
+(CIM & Automation Lab.  - 10MEL78) 43 23 66 P
+(Product Life Cycle Management  - 10ME769) 72 22 94 P
+total= 716
+**
+1ds11me070
+PRASAD J SHETTY sem: 7 Result: FCD
+(Economics  - 10ME71) 50 25 75 P
+(Mechanical Vibrations  - 10ME72) 53 15 68 P
+(Hydraulics & Pneumatics  - 10ME73) 69 23 92 P
+(Operations Research  - 10ME74) 73 22 95 P
+(Non Conventional Energy Sources  - 10ME754) 62 23 85 P
+(Robotics  - 10ME766) 66 25 91 P
+(Design Lab.  - 10MEL77) 41 23 64 P
+(CIM & Automation Lab.  - 10MEL78) 45 23 68 P
+total= 638
+**
+1ds11me071
+PRASAD.R sem: 7 Result: FC
+(Economics  - 10ME71) 41 25 66 P
+(Mechanical Vibrations  - 10ME72) 42 18 60 P
+(Hydraulics & Pneumatics  - 10ME73) 57 24 81 P
+(Operations Research  - 10ME74) 75 18 93 P
+(Robotics  - 10ME766) 41 23 64 P
+(Design Lab.  - 10MEL77) 44 24 68 P
+(Total Quality Management  - 10ME758) 53 17 70 P
+(CIM & Automation Lab.  - 10MEL78) 45 20 65 P
+total= 567
+**
+1ds11me072
+PRASHANTH J sem: 7 Result: FCD
+(Economics  - 10ME71) 44 25 69 P
+(Mechanical Vibrations  - 10ME72) 85 15 100 P
+(Hydraulics & Pneumatics  - 10ME73) 72 25 97 P
+(Operations Research  - 10ME74) 56 23 79 P
+(Non Conventional Energy Sources  - 10ME754) 58 23 81 P
+(Robotics  - 10ME766) 46 24 70 P
+(Design Lab.  - 10MEL77) 42 24 66 P
+(CIM & Automation Lab.  - 10MEL78) 46 19 65 P
+total= 630
+**
+1ds11me073
+PRINCE JOY sem: 7 Result: FCD
+(Economics  - 10ME71) 60 25 85 P
+(Mechanical Vibrations  - 10ME72) 78 18 96 P
+(Hydraulics & Pneumatics  - 10ME73) 71 24 95 P
+(Operations Research  - 10ME74) 82 23 105 P
+(Design Lab.  - 10MEL77) 45 24 69 P
+(Total Quality Management  - 10ME758) 78 23 101 P
+(CIM & Automation Lab.  - 10MEL78) 44 24 68 P
+(Product Life Cycle Management  - 10ME769) 65 22 87 P
+total= 706
+**
+1ds11me074
+PUNITH.C sem: 7 Result: FCD
+(Economics  - 10ME71) 59 25 84 P
+(Mechanical Vibrations  - 10ME72) 83 18 101 P
+(Hydraulics & Pneumatics  - 10ME73) 65 24 89 P
+(Operations Research  - 10ME74) 66 24 90 P
+(Non Conventional Energy Sources  - 10ME754) 55 24 79 P
+(Design Lab.  - 10MEL77) 46 25 71 P
+(CIM & Automation Lab.  - 10MEL78) 47 24 71 P
+(Product Life Cycle Management  - 10ME769) 69 21 90 P
+total= 675
+**
+1ds11me075
+RAGURAM M D sem: 7 Result: FAIL
+(Economics  - 10ME71) 21 23 44 F
+(Mechanical Vibrations  - 10ME72) 35 15 50 P
+(Hydraulics & Pneumatics  - 10ME73) 45 23 68 P
+(Operations Research  - 10ME74) 45 19 64 P
+(Design Lab.  - 10MEL77) 43 25 68 P
+(Total Quality Management  - 10ME758) 42 18 60 P
+(CIM & Automation Lab.  - 10MEL78) 45 24 69 P
+(Product Life Cycle Management  - 10ME769) 39 22 61 P
+total= 484
+**
+1ds11me076
+RAHUL sem: 7 Result: FCD
+(Economics  - 10ME71) 50 25 75 P
+(Mechanical Vibrations  - 10ME72) 74 22 96 P
+(Hydraulics & Pneumatics  - 10ME73) 77 24 101 P
+(Operations Research  - 10ME74) 85 24 109 P
+(Non Conventional Energy Sources  - 10ME754) 67 24 91 P
+(Design Lab.  - 10MEL77) 44 22 66 P
+(CIM & Automation Lab.  - 10MEL78) 45 20 65 P
+(Product Life Cycle Management  - 10ME769) 73 21 94 P
+total= 697
+**
+1ds11me079
+RAM KUMAR.K.S sem: 7 Result: FCD
+(Economics  - 10ME71) 58 25 83 P
+(Mechanical Vibrations  - 10ME72) 47 16 63 P
+(Hydraulics & Pneumatics  - 10ME73) 69 23 92 P
+(Operations Research  - 10ME74) 65 21 86 P
+(Design Lab.  - 10MEL77) 41 24 65 P
+(Total Quality Management  - 10ME758) 77 22 99 P
+(CIM & Automation Lab.  - 10MEL78) 47 21 68 P
+(Product Life Cycle Management  - 10ME769) 72 22 94 P
+total= 650
+**
+1ds11me080
+RANJAN KUMAR SINGH sem: 7 Result: FCD
+(Economics  - 10ME71) 43 25 68 P
+(Mechanical Vibrations  - 10ME72) 67 16 83 P
+(Hydraulics & Pneumatics  - 10ME73) 78 22 100 P
+(Operations Research  - 10ME74) 72 22 94 P
+(Non Conventional Energy Sources  - 10ME754) 63 24 87 P
+(Design Lab.  - 10MEL77) 42 25 67 P
+(CIM & Automation Lab.  - 10MEL78) 43 23 66 P
+(Product Life Cycle Management  - 10ME769) 70 21 91 P
+total= 656
+**
+1ds11me082
+RAVIKUMARA BARKI sem: 7 Result: FCD
+(Economics  - 10ME71) 55 25 80 P
+(Mechanical Vibrations  - 10ME72) 56 17 73 P
+(Hydraulics & Pneumatics  - 10ME73) 72 23 95 P
+(Operations Research  - 10ME74) 73 23 96 P
+(Design Lab.  - 10MEL77) 41 25 66 P
+(Total Quality Management  - 10ME758) 79 24 103 P
+(CIM & Automation Lab.  - 10MEL78) 46 23 69 P
+(Product Life Cycle Management  - 10ME769) 73 21 94 P
+total= 676
+**
+1ds11me084
+ROHAN BANERJEE sem: 7 Result: FCD
+(Economics  - 10ME71) 79 25 104 P
+(Mechanical Vibrations  - 10ME72) 55 15 70 P
+(Hydraulics & Pneumatics  - 10ME73) 68 22 90 P
+(Operations Research  - 10ME74) 81 21 102 P
+(Non Conventional Energy Sources  - 10ME754) 71 22 93 P
+(Robotics  - 10ME766) 68 24 92 P
+(Design Lab.  - 10MEL77) 40 19 59 P
+(CIM & Automation Lab.  - 10MEL78) 44 22 66 P
+total= 676
+**
+1ds11me085
+ROHITH N sem: 7 Result: FCD
+(Economics  - 10ME71) 85 25 110 P
+(Mechanical Vibrations  - 10ME72) 58 25 83 P
+(Hydraulics & Pneumatics  - 10ME73) 77 25 102 P
+(Operations Research  - 10ME74) 94 25 119 P
+(Non Conventional Energy Sources  - 10ME754) 65 25 90 P
+(Robotics  - 10ME766) 67 25 92 P
+(Design Lab.  - 10MEL77) 45 25 70 P
+(CIM & Automation Lab.  - 10MEL78) 48 25 73 P
+total= 739
+**
+1ds11me086
+ROOPESH DEVADATT.D sem: 7 Result: FCD
+(Economics  - 10ME71) 47 25 72 P
+(Mechanical Vibrations  - 10ME72) 51 19 70 P
+(Hydraulics & Pneumatics  - 10ME73) 80 24 104 P
+(Operations Research  - 10ME74) 58 22 80 P
+(Non Conventional Energy Sources  - 10ME754) 65 25 90 P
+(Robotics  - 10ME766) 67 25 92 P
+(Design Lab.  - 10MEL77) 44 25 69 P
+(CIM & Automation Lab.  - 10MEL78) 33 23 56 P
+total= 633
+**
+1ds11me088
+S GAURAV sem: 7 Result: FCD
+(Economics  - 10ME71) 81 25 106 P
+(Mechanical Vibrations  - 10ME72) 81 17 98 P
+(Hydraulics & Pneumatics  - 10ME73) 78 24 102 P
+(Operations Research  - 10ME74) 68 21 89 P
+(Non Conventional Energy Sources  - 10ME754) 65 24 89 P
+(Design Lab.  - 10MEL77) 44 25 69 P
+(CIM & Automation Lab.  - 10MEL78) 44 22 66 P
+(Product Life Cycle Management  - 10ME769) 68 21 89 P
+total= 708
+**
+1ds11me089
+S.DINESH KUMAR sem: 7 Result: FCD
+(Economics  - 10ME71) 55 25 80 P
+(Mechanical Vibrations  - 10ME72) 47 15 62 P
+(Hydraulics & Pneumatics  - 10ME73) 57 20 77 P
+(Operations Research  - 10ME74) 86 22 108 P
+(Robotics  - 10ME766) 64 21 85 P
+(Design Lab.  - 10MEL77) 45 25 70 P
+(Total Quality Management  - 10ME758) 59 21 80 P
+(CIM & Automation Lab.  - 10MEL78) 46 23 69 P
+total= 631
+**
+1ds11me090
+SAHIL BAMBROO sem: 7 Result: FCD
+(Economics  - 10ME71) 80 25 105 P
+(Mechanical Vibrations  - 10ME72) 70 18 88 P
+(Hydraulics & Pneumatics  - 10ME73) 77 25 102 P
+(Operations Research  - 10ME74) 73 22 95 P
+(Non Conventional Energy Sources  - 10ME754) 59 24 83 P
+(Robotics  - 10ME766) 64 21 85 P
+(Design Lab.  - 10MEL77) 46 24 70 P
+(CIM & Automation Lab.  - 10MEL78) 47 22 69 P
+total= 697
+**
+1ds11me091
+SAINATH CHOUDARY.M sem: 7 Result: FC
+(Economics  - 10ME71) 43 25 68 P
+(Mechanical Vibrations  - 10ME72) 45 15 60 P
+(Hydraulics & Pneumatics  - 10ME73) 56 23 79 P
+(Operations Research  - 10ME74) 59 21 80 P
+(Robotics  - 10ME766) 49 23 72 P
+(Design Lab.  - 10MEL77) 40 25 65 P
+(Total Quality Management  - 10ME758) 47 15 62 P
+(CIM & Automation Lab.  - 10MEL78) 44 24 68 P
+total= 554
+**
+1ds11me092
+SANDESH BHATT.M sem: 7 Result: FCD
+(Economics  - 10ME71) 54 25 79 P
+(Mechanical Vibrations  - 10ME72) 73 19 92 P
+(Hydraulics & Pneumatics  - 10ME73) 70 23 93 P
+(Operations Research  - 10ME74) 85 24 109 P
+(Non Conventional Energy Sources  - 10ME754) 63 22 85 P
+(Robotics  - 10ME766) 61 25 86 P
+(Design Lab.  - 10MEL77) 44 25 69 P
+(CIM & Automation Lab.  - 10MEL78) 47 24 71 P
+total= 684
+**
+1ds11me094
+SANNAY BHOWMICK sem: 7 Result: FC
+(Economics  - 10ME71) 35 23 58 P
+(Mechanical Vibrations  - 10ME72) 56 15 71 P
+(Hydraulics & Pneumatics  - 10ME73) 60 20 80 P
+(Operations Research  - 10ME74) 66 16 82 P
+(Design Lab.  - 10MEL77) 40 23 63 P
+(Total Quality Management  - 10ME758) 41 23 64 P
+(CIM & Automation Lab.  - 10MEL78) 42 20 62 P
+(Product Life Cycle Management  - 10ME769) 41 15 56 P
+total= 540
+**
+1ds11me095
+SAURABH sem: 7 Result: FCD
+(Economics  - 10ME71) 58 25 83 P
+(Mechanical Vibrations  - 10ME72) 72 19 91 P
+(Hydraulics & Pneumatics  - 10ME73) 76 24 100 P
+(Operations Research  - 10ME74) 72 25 97 P
+(Design Lab.  - 10MEL77) 44 24 68 P
+(Total Quality Management  - 10ME758) 68 25 93 P
+(CIM & Automation Lab.  - 10MEL78) 46 24 70 P
+(Product Life Cycle Management  - 10ME769) 61 22 83 P
+total= 685
+**
+1ds11me096
+SHANKAR S R sem: 7 Result: FCD
+(Economics  - 10ME71) 64 24 88 P
+(Mechanical Vibrations  - 10ME72) 63 23 86 P
+(Hydraulics & Pneumatics  - 10ME73) 74 25 99 P
+(Operations Research  - 10ME74) 53 25 78 P
+(Design Lab.  - 10MEL77) 46 24 70 P
+(Total Quality Management  - 10ME758) 71 25 96 P
+(CIM & Automation Lab.  - 10MEL78) 45 25 70 P
+(Product Life Cycle Management  - 10ME769) 53 22 75 P
+total= 662
+**
+1ds11me097
+SHANTANU AGRAWAL sem: 7 Result: FAIL
+(Economics  - 10ME71) 64 11 75 P
+(Mechanical Vibrations  - 10ME72) 52 15 67 P
+(Hydraulics & Pneumatics  - 10ME73) 0 21 21 A
+(Operations Research  - 10ME74) 54 20 74 P
+(Design Lab.  - 10MEL77) 41 22 63 P
+(Total Quality Management  - 10ME758) 54 23 77 P
+(CIM & Automation Lab.  - 10MEL78) 33 21 54 P
+(Product Life Cycle Management  - 10ME769) 53 19 72 P
+total= 503
+**
+1ds11me098
+SHARAD KUMAR M SHARMA sem: 7 Result: FC
+(Economics  - 10ME71) 58 22 80 P
+(Mechanical Vibrations  - 10ME72) 53 20 73 P
+(Hydraulics & Pneumatics  - 10ME73) 65 12 77 P
+(Operations Research  - 10ME74) 54 23 77 P
+(Robotics  - 10ME766) 46 24 70 P
+(Design Lab.  - 10MEL77) 44 22 66 P
+(Total Quality Management  - 10ME758) 59 21 80 P
+(CIM & Automation Lab.  - 10MEL78) 40 21 61 P
+total= 584
+**
+1ds11me099
+SHARAN SINGH. S sem: 7 Result: FCD
+(Economics  - 10ME71) 67 25 92 P
+(Mechanical Vibrations  - 10ME72) 69 24 93 P
+(Hydraulics & Pneumatics  - 10ME73) 65 25 90 P
+(Operations Research  - 10ME74) 54 23 77 P
+(Robotics  - 10ME766) 79 25 104 P
+(Design Lab.  - 10MEL77) 37 25 62 P
+(Total Quality Management  - 10ME758) 72 25 97 P
+(CIM & Automation Lab.  - 10MEL78) 40 24 64 P
+total= 679
+**
+1ds11me100
+SHIVASHANKAR AWATI sem: 7 Result: FC
+(Economics  - 10ME71) 35 23 58 P
+(Mechanical Vibrations  - 10ME72) 66 18 84 P
+(Hydraulics & Pneumatics  - 10ME73) 74 21 95 P
+(Operations Research  - 10ME74) 62 21 83 P
+(Non Conventional Energy Sources  - 10ME754) 58 24 82 P
+(Design Lab.  - 10MEL77) 42 22 64 P
+(CIM & Automation Lab.  - 10MEL78) 36 24 60 P
+(Product Life Cycle Management  - 10ME769) 61 21 82 P
+total= 608
+**
+1ds11me101
+SHOEB ASLAM sem: 7 Result: FCD
+(Economics  - 10ME71) 58 24 82 P
+(Mechanical Vibrations  - 10ME72) 70 24 94 P
+(Hydraulics & Pneumatics  - 10ME73) 78 25 103 P
+(Operations Research  - 10ME74) 78 23 101 P
+(Robotics  - 10ME766) 83 25 108 P
+(Design Lab.  - 10MEL77) 42 25 67 P
+(Total Quality Management  - 10ME758) 74 25 99 P
+(CIM & Automation Lab.  - 10MEL78) 42 24 66 P
+total= 720
+**
+1ds11me102
+SHREYAS SODHE S sem: 7 Result: FCD
+(Economics  - 10ME71) 56 24 80 P
+(Mechanical Vibrations  - 10ME72) 54 24 78 P
+(Hydraulics & Pneumatics  - 10ME73) 69 24 93 P
+(Operations Research  - 10ME74) 77 25 102 P
+(Non Conventional Energy Sources  - 10ME754) 71 24 95 P
+(Robotics  - 10ME766) 68 25 93 P
+(Design Lab.  - 10MEL77) 44 24 68 P
+(CIM & Automation Lab.  - 10MEL78) 46 23 69 P
+total= 678
+**
+1ds11me104
+SIVANARAYANA CHOUDHARI .B sem: 7 Result: FCD
+(Economics  - 10ME71) 66 25 91 P
+(Mechanical Vibrations  - 10ME72) 72 23 95 P
+(Hydraulics & Pneumatics  - 10ME73) 68 25 93 P
+(Operations Research  - 10ME74) 79 22 101 P
+(Non Conventional Energy Sources  - 10ME754) 65 24 89 P
+(Robotics  - 10ME766) 83 25 108 P
+(Design Lab.  - 10MEL77) 42 23 65 P
+(CIM & Automation Lab.  - 10MEL78) 43 24 67 P
+total= 709
+**
+1ds11me105
+SOMASHEKHAR sem: 7 Result: FCD
+(Economics  - 10ME71) 39 25 64 P
+(Mechanical Vibrations  - 10ME72) 75 23 98 P
+(Hydraulics & Pneumatics  - 10ME73) 75 24 99 P
+(Operations Research  - 10ME74) 41 24 65 P
+(Non Conventional Energy Sources  - 10ME754) 60 24 84 P
+(Robotics  - 10ME766) 74 25 99 P
+(Design Lab.  - 10MEL77) 41 24 65 P
+(CIM & Automation Lab.  - 10MEL78) 37 25 62 P
+total= 636
+**
+1ds11me106
+SOURAV MONDAL sem: 7 Result: FC
+(Economics  - 10ME71) 50 22 72 P
+(Mechanical Vibrations  - 10ME72) 51 21 72 P
+(Hydraulics & Pneumatics  - 10ME73) 65 25 90 P
+(Operations Research  - 10ME74) 52 22 74 P
+(Robotics  - 10ME766) 54 22 76 P
+(Design Lab.  - 10MEL77) 35 24 59 P
+(Total Quality Management  - 10ME758) 66 21 87 P
+(CIM & Automation Lab.  - 10MEL78) 37 24 61 P
+total= 591
+**
+1ds11me107
+SRIKANTH sem: 7 Result: FC
+(Economics  - 10ME71) 46 21 67 P
+(Mechanical Vibrations  - 10ME72) 70 18 88 P
+(Hydraulics & Pneumatics  - 10ME73) 58 20 78 P
+(Operations Research  - 10ME74) 66 22 88 P
+(Non Conventional Energy Sources  - 10ME754) 62 24 86 P
+(Robotics  - 10ME766) 64 20 84 P
+(Design Lab.  - 10MEL77) 36 23 59 P
+(CIM & Automation Lab.  - 10MEL78) 37 24 61 P
+total= 611
+**
+1ds11me108
+SRIKANTH RATHOD sem: 7 Result: FC
+(Economics  - 10ME71) 38 22 60 P
+(Mechanical Vibrations  - 10ME72) 53 20 73 P
+(Hydraulics & Pneumatics  - 10ME73) 65 22 87 P
+(Operations Research  - 10ME74) 42 22 64 P
+(Non Conventional Energy Sources  - 10ME754) 51 23 74 P
+(Robotics  - 10ME766) 62 23 85 P
+(Design Lab.  - 10MEL77) 37 22 59 P
+(CIM & Automation Lab.  - 10MEL78) 36 23 59 P
+total= 561
+**
+1ds11me109
+SUJAN M sem: 7 Result: FCD
+(Economics  - 10ME71) 48 25 73 P
+(Mechanical Vibrations  - 10ME72) 70 19 89 P
+(Hydraulics & Pneumatics  - 10ME73) 64 22 86 P
+(Operations Research  - 10ME74) 70 21 91 P
+(Non Conventional Energy Sources  - 10ME754) 60 24 84 P
+(Robotics  - 10ME766) 70 23 93 P
+(Design Lab.  - 10MEL77) 42 22 64 P
+(CIM & Automation Lab.  - 10MEL78) 33 23 56 P
+total= 636
+**
+1ds11me110
+SUMANT RANJAN sem: 7 Result: FCD
+(Economics  - 10ME71) 61 20 81 P
+(Mechanical Vibrations  - 10ME72) 58 23 81 P
+(Hydraulics & Pneumatics  - 10ME73) 65 21 86 P
+(Operations Research  - 10ME74) 73 23 96 P
+(Non Conventional Energy Sources  - 10ME754) 60 25 85 P
+(Robotics  - 10ME766) 68 24 92 P
+(Design Lab.  - 10MEL77) 37 24 61 P
+(CIM & Automation Lab.  - 10MEL78) 39 24 63 P
+total= 645
+**
+1ds11me111
+SUPRIYO SARKAR sem: 7 Result: FCD
+(Economics  - 10ME71) 60 24 84 P
+(Mechanical Vibrations  - 10ME72) 69 21 90 P
+(Hydraulics & Pneumatics  - 10ME73) 74 23 97 P
+(Operations Research  - 10ME74) 73 21 94 P
+(Non Conventional Energy Sources  - 10ME754) 72 24 96 P
+(Robotics  - 10ME766) 79 25 104 P
+(Design Lab.  - 10MEL77) 44 24 68 P
+(CIM & Automation Lab.  - 10MEL78) 44 24 68 P
+total= 701
+**
+1ds11me112
+TEJAS ACHARYA sem: 7 Result: FCD
+(Economics  - 10ME71) 60 22 82 P
+(Mechanical Vibrations  - 10ME72) 58 20 78 P
+(Hydraulics & Pneumatics  - 10ME73) 57 24 81 P
+(Operations Research  - 10ME74) 78 23 101 P
+(Non Conventional Energy Sources  - 10ME754) 60 23 83 P
+(Robotics  - 10ME766) 67 21 88 P
+(Design Lab.  - 10MEL77) 41 23 64 P
+(CIM & Automation Lab.  - 10MEL78) 43 23 66 P
+total= 643
+**
+1ds11me114
+UJJIBAN KAKATI sem: 7 Result: FCD
+(Economics  - 10ME71) 61 24 85 P
+(Mechanical Vibrations  - 10ME72) 58 24 82 P
+(Hydraulics & Pneumatics  - 10ME73) 68 25 93 P
+(Operations Research  - 10ME74) 75 24 99 P
+(Robotics  - 10ME766) 86 24 110 P
+(Design Lab.  - 10MEL77) 38 24 62 P
+(Total Quality Management  - 10ME758) 69 24 93 P
+(CIM & Automation Lab.  - 10MEL78) 38 24 62 P
+total= 686
+**
+1ds11me115
+UMANG RAJ sem: 7 Result: FCD
+(Economics  - 10ME71) 78 23 101 P
+(Mechanical Vibrations  - 10ME72) 59 25 84 P
+(Hydraulics & Pneumatics  - 10ME73) 74 25 99 P
+(Operations Research  - 10ME74) 79 24 103 P
+(Design Lab.  - 10MEL77) 44 24 68 P
+(Total Quality Management  - 10ME758) 61 25 86 P
+(CIM & Automation Lab.  - 10MEL78) 44 24 68 P
+(Product Life Cycle Management  - 10ME769) 60 22 82 P
+total= 691
+**
+1ds11me116
+UMESH S sem: 7 Result: FCD
+(Economics  - 10ME71) 49 25 74 P
+(Mechanical Vibrations  - 10ME72) 61 20 81 P
+(Hydraulics & Pneumatics  - 10ME73) 61 23 84 P
+(Operations Research  - 10ME74) 70 24 94 P
+(Robotics  - 10ME766) 65 20 85 P
+(Design Lab.  - 10MEL77) 44 24 68 P
+(Total Quality Management  - 10ME758) 63 23 86 P
+(CIM & Automation Lab.  - 10MEL78) 46 24 70 P
+total= 642
+**
+1ds11me117
+UMESH S HONNAMORE sem: 7 Result: FC
+(Economics  - 10ME71) 39 23 62 P
+(Mechanical Vibrations  - 10ME72) 44 20 64 P
+(Hydraulics & Pneumatics  - 10ME73) 46 25 71 P
+(Operations Research  - 10ME74) 46 23 69 P
+(Design Lab.  - 10MEL77) 44 24 68 P
+(Total Quality Management  - 10ME758) 74 24 98 P
+(CIM & Automation Lab.  - 10MEL78) 38 23 61 P
+(Product Life Cycle Management  - 10ME769) 67 21 88 P
+total= 581
+**
+1ds11me118
+UTTAM KUMAR MAHTO sem: 7 Result: FCD
+(Economics  - 10ME71) 63 21 84 P
+(Mechanical Vibrations  - 10ME72) 56 23 79 P
+(Hydraulics & Pneumatics  - 10ME73) 65 25 90 P
+(Operations Research  - 10ME74) 64 24 88 P
+(Design Lab.  - 10MEL77) 40 24 64 P
+(Total Quality Management  - 10ME758) 63 23 86 P
+(CIM & Automation Lab.  - 10MEL78) 33 24 57 P
+(Product Life Cycle Management  - 10ME769) 58 21 79 P
+total= 630
+**
+1ds11me119
+VENKANNA R sem: 7 Result: FCD
+(Economics  - 10ME71) 64 21 85 P
+(Mechanical Vibrations  - 10ME72) 62 21 83 P
+(Hydraulics & Pneumatics  - 10ME73) 68 24 92 P
+(Operations Research  - 10ME74) 82 23 105 P
+(Non Conventional Energy Sources  - 10ME754) 58 24 82 P
+(Robotics  - 10ME766) 81 23 104 P
+(Design Lab.  - 10MEL77) 38 24 62 P
+(CIM & Automation Lab.  - 10MEL78) 41 24 65 P
+total= 678
+**
+1ds11me120
+VIKAS KUMAR.V sem: 7 Result: FCD
+(Economics  - 10ME71) 43 25 68 P
+(Mechanical Vibrations  - 10ME72) 50 24 74 P
+(Hydraulics & Pneumatics  - 10ME73) 66 25 91 P
+(Operations Research  - 10ME74) 73 24 97 P
+(Non Conventional Energy Sources  - 10ME754) 66 24 90 P
+(Robotics  - 10ME766) 90 24 114 P
+(Design Lab.  - 10MEL77) 46 24 70 P
+(CIM & Automation Lab.  - 10MEL78) 42 23 65 P
+total= 669
+**
+1ds11me121
+VIKAS YADAV sem: 7 Result: FC
+(Economics  - 10ME71) 35 23 58 P
+(Mechanical Vibrations  - 10ME72) 47 20 67 P
+(Hydraulics & Pneumatics  - 10ME73) 57 24 81 P
+(Operations Research  - 10ME74) 62 18 80 P
+(Non Conventional Energy Sources  - 10ME754) 50 24 74 P
+(Design Lab.  - 10MEL77) 44 21 65 P
+(CIM & Automation Lab.  - 10MEL78) 38 24 62 P
+(Product Life Cycle Management  - 10ME769) 54 21 75 P
+total= 562
+**
+1ds11me123
+VINOD.G.P sem: 7 Result: FC
+(Economics  - 10ME71) 48 24 72 P
+(Mechanical Vibrations  - 10ME72) 67 19 86 P
+(Hydraulics & Pneumatics  - 10ME73) 69 22 91 P
+(Operations Research  - 10ME74) 60 19 79 P
+(Non Conventional Energy Sources  - 10ME754) 50 23 73 P
+(Robotics  - 10ME766) 50 22 72 P
+(Design Lab.  - 10MEL77) 40 25 65 P
+(CIM & Automation Lab.  - 10MEL78) 40 24 64 P
+total= 602
+**
+1ds11me124
+VISHAL KUMAR sem: 7 Result: FC
+(Economics  - 10ME71) 47 23 70 P
+(Mechanical Vibrations  - 10ME72) 73 20 93 P
+(Hydraulics & Pneumatics  - 10ME73) 70 23 93 P
+(Operations Research  - 10ME74) 46 22 68 P
+(Non Conventional Energy Sources  - 10ME754) 72 24 96 P
+(Robotics  - 10ME766) 63 22 85 P
+(Design Lab.  - 10MEL77) 29 24 53 P
+(CIM & Automation Lab.  - 10MEL78) 37 24 61 P
+total= 619
+**
+1ds11me125
+V VISHVESH sem: 7 Result: FC
+(Economics  - 10ME71) 55 19 74 P
+(Mechanical Vibrations  - 10ME72) 55 21 76 P
+(Hydraulics & Pneumatics  - 10ME73) 54 17 71 P
+(Operations Research  - 10ME74) 67 22 89 P
+(Robotics  - 10ME766) 56 21 77 P
+(Design Lab.  - 10MEL77) 41 24 65 P
+(Total Quality Management  - 10ME758) 61 24 85 P
+(CIM & Automation Lab.  - 10MEL78) 42 24 66 P
+total= 603
+**
+1ds11me126
+VIVEK KUMAR SINGH sem: 7 Result: FCD
+(Economics  - 10ME71) 70 22 92 P
+(Mechanical Vibrations  - 10ME72) 84 23 107 P
+(Hydraulics & Pneumatics  - 10ME73) 60 25 85 P
+(Operations Research  - 10ME74) 71 23 94 P
+(Design Lab.  - 10MEL77) 44 24 68 P
+(Total Quality Management  - 10ME758) 61 21 82 P
+(CIM & Automation Lab.  - 10MEL78) 45 25 70 P
+(Product Life Cycle Management  - 10ME769) 55 17 72 P
+total= 670
+**
+1ds11me128
+MAYANK KUMAR RAUNAK sem: 7 Result: FCD
+(Economics  - 10ME71) 62 25 87 P
+(Mechanical Vibrations  - 10ME72) 71 24 95 P
+(Hydraulics & Pneumatics  - 10ME73) 71 24 95 P
+(Operations Research  - 10ME74) 82 25 107 P
+(Non Conventional Energy Sources  - 10ME754) 70 24 94 P
+(Robotics  - 10ME766) 69 25 94 P
+(Design Lab.  - 10MEL77) 46 25 71 P
+(CIM & Automation Lab.  - 10MEL78) 46 25 71 P
+total= 714
+**
+1ds11me129
+SANTOSH BHOSLE sem: 7 Result: FCD
+(Economics  - 10ME71) 55 24 79 P
+(Mechanical Vibrations  - 10ME72) 58 23 81 P
+(Hydraulics & Pneumatics  - 10ME73) 71 24 95 P
+(Operations Research  - 10ME74) 83 20 103 P
+(Design Lab.  - 10MEL77) 40 24 64 P
+(Total Quality Management  - 10ME758) 92 23 115 P
+(CIM & Automation Lab.  - 10MEL78) 43 24 67 P
+(Product Life Cycle Management  - 10ME769) 54 21 75 P
+total= 679
+**
+1ds11me130
+VAISHAK.N.S sem: 7 Result: SC
+(Economics  - 10ME71) 43 19 62 P
+(Mechanical Vibrations  - 10ME72) 43 17 60 P
+(Hydraulics & Pneumatics  - 10ME73) 55 12 67 P
+(Operations Research  - 10ME74) 51 19 70 P
+(Non Conventional Energy Sources  - 10ME754) 55 20 75 P
+(Robotics  - 10ME766) 64 17 81 P
+(Design Lab.  - 10MEL77) 38 20 58 P
+(CIM & Automation Lab.  - 10MEL78) 37 20 57 P
+total= 530
+**
+1ds11me135
+SHASHI RANJAN KUMAR sem: 7 Result: FC
+(Economics  - 10ME71) 50 20 70 P
+(Mechanical Vibrations  - 10ME72) 52 21 73 P
+(Hydraulics & Pneumatics  - 10ME73) 46 17 63 P
+(Operations Research  - 10ME74) 38 19 57 P
+(Robotics  - 10ME766) 67 15 82 P
+(Design Lab.  - 10MEL77) 32 24 56 P
+(Total Quality Management  - 10ME758) 68 22 90 P
+(CIM & Automation Lab.  - 10MEL78) 36 19 55 P
+total= 546
+**
+1ds11me136
+AHMED PASHA sem: 7 Result: FCD
+(Economics  - 10ME71) 46 22 68 P
+(Mechanical Vibrations  - 10ME72) 71 20 91 P
+(Hydraulics & Pneumatics  - 10ME73) 61 23 84 P
+(Operations Research  - 10ME74) 67 15 82 P
+(Robotics  - 10ME766) 72 24 96 P
+(Design Lab.  - 10MEL77) 32 23 55 P
+(Total Quality Management  - 10ME758) 71 24 95 P
+(CIM & Automation Lab.  - 10MEL78) 41 22 63 P
+total= 634
+**
+1ds11me137
+AJEY KUMAR sem: 7 Result: FCD
+(Economics  - 10ME71) 45 25 70 P
+(Mechanical Vibrations  - 10ME72) 82 23 105 P
+(Hydraulics & Pneumatics  - 10ME73) 65 25 90 P
+(Operations Research  - 10ME74) 58 23 81 P
+(Robotics  - 10ME766) 61 25 86 P
+(Design Lab.  - 10MEL77) 38 25 63 P
+(Total Quality Management  - 10ME758) 68 24 92 P
+(CIM & Automation Lab.  - 10MEL78) 36 23 59 P
+total= 646
+**
+1ds11me138
+MANOJ .P sem: 7 Result: FC
+(Economics  - 10ME71) 45 25 70 P
+(Mechanical Vibrations  - 10ME72) 80 23 103 P
+(Hydraulics & Pneumatics  - 10ME73) 39 24 63 P
+(Operations Research  - 10ME74) 35 22 57 P
+(Robotics  - 10ME766) 63 25 88 P
+(Design Lab.  - 10MEL77) 31 25 56 P
+(Total Quality Management  - 10ME758) 66 24 90 P
+(CIM & Automation Lab.  - 10MEL78) 36 24 60 P
+total= 587
+**
+1ds11me139
+SATHYA .J sem: 7 Result: FC
+(Economics  - 10ME71) 39 24 63 P
+(Mechanical Vibrations  - 10ME72) 62 20 82 P
+(Hydraulics & Pneumatics  - 10ME73) 54 22 76 P
+(Operations Research  - 10ME74) 54 21 75 P
+(Robotics  - 10ME766) 45 21 66 P
+(Design Lab.  - 10MEL77) 25 24 49 P
+(Total Quality Management  - 10ME758) 48 21 69 P
+(CIM & Automation Lab.  - 10MEL78) 39 23 62 P
+total= 542
+**
+1ds12me400
+ANILKUMAR sem: 7 Result: FC
+(Economics  - 10ME71) 36 25 61 P
+(Mechanical Vibrations  - 10ME72) 52 22 74 P
+(Hydraulics & Pneumatics  - 10ME73) 56 24 80 P
+(Operations Research  - 10ME74) 46 22 68 P
+(Non Conventional Energy Sources  - 10ME754) 64 23 87 P
+(Robotics  - 10ME766) 61 25 86 P
+(Design Lab.  - 10MEL77) 42 22 64 P
+(CIM & Automation Lab.  - 10MEL78) 36 24 60 P
+total= 580
+**
+1ds12me401
+ARJUN B L sem: 7 Result: FC
+(Economics  - 10ME71) 47 22 69 P
+(Mechanical Vibrations  - 10ME72) 52 16 68 P
+(Hydraulics & Pneumatics  - 10ME73) 66 25 91 P
+(Operations Research  - 10ME74) 59 22 81 P
+(Non Conventional Energy Sources  - 10ME754) 67 23 90 P
+(Robotics  - 10ME766) 75 24 99 P
+(Design Lab.  - 10MEL77) 36 22 58 P
+(CIM & Automation Lab.  - 10MEL78) 40 19 59 P
+total= 615
+**
+1ds12me402
+CHARAN RAJ H.C sem: 7 Result: FC
+(Economics  - 10ME71) 56 25 81 P
+(Mechanical Vibrations  - 10ME72) 58 17 75 P
+(Hydraulics & Pneumatics  - 10ME73) 62 25 87 P
+(Operations Research  - 10ME74) 65 25 90 P
+(Non Conventional Energy Sources  - 10ME754) 68 24 92 P
+(Robotics  - 10ME766) 52 24 76 P
+(Design Lab.  - 10MEL77) 30 22 52 P
+(CIM & Automation Lab.  - 10MEL78) 37 21 58 P
+total= 611
+**
+1ds12me403
+CHETHANA K.M sem: 7 Result: FCD
+(Economics  - 10ME71) 75 25 100 P
+(Mechanical Vibrations  - 10ME72) 83 23 106 P
+(Hydraulics & Pneumatics  - 10ME73) 74 24 98 P
+(Operations Research  - 10ME74) 88 25 113 P
+(Non Conventional Energy Sources  - 10ME754) 76 23 99 P
+(Robotics  - 10ME766) 75 25 100 P
+(Design Lab.  - 10MEL77) 33 22 55 P
+(CIM & Automation Lab.  - 10MEL78) 45 25 70 P
+total= 741
+**
+1ds12me404
+JAYANAIK S sem: 7 Result: FC
+(Economics  - 10ME71) 58 25 83 P
+(Mechanical Vibrations  - 10ME72) 67 24 91 P
+(Hydraulics & Pneumatics  - 10ME73) 73 25 98 P
+(Operations Research  - 10ME74) 43 25 68 P
+(Non Conventional Energy Sources  - 10ME754) 64 23 87 P
+(Robotics  - 10ME766) 53 25 78 P
+(Design Lab.  - 10MEL77) 33 22 55 P
+(CIM & Automation Lab.  - 10MEL78) 38 23 61 P
+total= 621
+**
+1ds12me405
+KISHORE A RAO JADAV sem: 7 Result: FAIL
+(Economics  - 10ME71) 37 23 60 P
+(Mechanical Vibrations  - 10ME72) 48 16 64 P
+(Hydraulics & Pneumatics  - 10ME73) 38 24 62 P
+(Operations Research  - 10ME74) 27 20 47 F
+(Non Conventional Energy Sources  - 10ME754) 75 22 97 P
+(Robotics  - 10ME766) 56 22 78 P
+(Design Lab.  - 10MEL77) 32 21 53 P
+(CIM & Automation Lab.  - 10MEL78) 40 18 58 P
+total= 519
+**
+1ds12me406
+LAXUMAN sem: 7 Result: SC
+(Economics  - 10ME71) 36 23 59 P
+(Mechanical Vibrations  - 10ME72) 40 20 60 P
+(Hydraulics & Pneumatics  - 10ME73) 40 25 65 P
+(Operations Research  - 10ME74) 35 20 55 P
+(Non Conventional Energy Sources  - 10ME754) 54 22 76 P
+(Robotics  - 10ME766) 58 19 77 P
+(Design Lab.  - 10MEL77) 26 21 47 P
+(CIM & Automation Lab.  - 10MEL78) 36 21 57 P
+total= 496
+**
+1ds12me407
+MAILARAPPA MALLAPPA MORABAD sem: 7 Result: FC
+(Economics  - 10ME71) 45 25 70 P
+(Mechanical Vibrations  - 10ME72) 57 17 74 P
+(Hydraulics & Pneumatics  - 10ME73) 46 25 71 P
+(Operations Research  - 10ME74) 76 25 101 P
+(Non Conventional Energy Sources  - 10ME754) 59 24 83 P
+(Robotics  - 10ME766) 55 25 80 P
+(Design Lab.  - 10MEL77) 36 22 58 P
+(CIM & Automation Lab.  - 10MEL78) 41 21 62 P
+total= 599
+**
+1ds12me408
+MARUTHI.J.P sem: 7 Result: FC
+(Economics  - 10ME71) 41 21 62 P
+(Mechanical Vibrations  - 10ME72) 45 19 64 P
+(Hydraulics & Pneumatics  - 10ME73) 44 25 69 P
+(Non Conventional Energy Sources  - 10ME754) 67 22 89 P
+(Operations Research  - 10ME74) 59 25 84 P
+(Robotics  - 10ME766) 60 20 80 P
+(Design Lab.  - 10MEL77) 34 22 56 P
+(CIM & Automation Lab.  - 10MEL78) 41 18 59 P
+total= 24
+**
+1ds12me409
+RAKSHITH KUMAR.J.K sem: 7 Result: FC
+(Economics  - 10ME71) 46 25 71 P
+(Mechanical Vibrations  - 10ME72) 53 22 75 P
+(Hydraulics & Pneumatics  - 10ME73) 41 24 65 P
+(Operations Research  - 10ME74) 48 25 73 P
+(Non Conventional Energy Sources  - 10ME754) 48 24 72 P
+(Robotics  - 10ME766) 58 25 83 P
+(Design Lab.  - 10MEL77) 44 22 66 P
+(CIM & Automation Lab.  - 10MEL78) 46 24 70 P
+total= 575
+**
+1ds12me410
+RAMESH.S sem: 7 Result: FC
+(Economics  - 10ME71) 42 22 64 P
+(Mechanical Vibrations  - 10ME72) 46 21 67 P
+(Hydraulics & Pneumatics  - 10ME73) 56 24 80 P
+(Operations Research  - 10ME74) 59 20 79 P
+(Non Conventional Energy Sources  - 10ME754) 52 22 74 P
+(Robotics  - 10ME766) 74 24 98 P
+(Design Lab.  - 10MEL77) 39 23 62 P
+(CIM & Automation Lab.  - 10MEL78) 35 23 58 P
+total= 582
+**
+1ds12me411
+RAMJI.T sem: 7 Result: FCD
+(Economics  - 10ME71) 57 25 82 P
+(Mechanical Vibrations  - 10ME72) 57 21 78 P
+(Hydraulics & Pneumatics  - 10ME73) 54 25 79 P
+(Operations Research  - 10ME74) 70 25 95 P
+(Non Conventional Energy Sources  - 10ME754) 58 25 83 P
+(Robotics  - 10ME766) 67 25 92 P
+(Design Lab.  - 10MEL77) 44 23 67 P
+(CIM & Automation Lab.  - 10MEL78) 41 22 63 P
+total= 639
+**
+1ds12me413
+SANTOSH KRISHNA A V sem: 7 Result: FC
+(Economics  - 10ME71) 65 25 90 P
+(Mechanical Vibrations  - 10ME72) 52 16 68 P
+(Hydraulics & Pneumatics  - 10ME73) 58 24 82 P
+(Operations Research  - 10ME74) 79 22 101 P
+(Non Conventional Energy Sources  - 10ME754) 51 23 74 P
+(Robotics  - 10ME766) 64 23 87 P
+(Design Lab.  - 10MEL77) 32 22 54 P
+(CIM & Automation Lab.  - 10MEL78) 43 22 65 P
+total= 621
+**
+1ds12me414
+SANTOSH S SAJJAN sem: 7 Result: FC
+(Economics  - 10ME71) 50 23 73 P
+(Mechanical Vibrations  - 10ME72) 57 22 79 P
+(Hydraulics & Pneumatics  - 10ME73) 39 24 63 P
+(Operations Research  - 10ME74) 62 23 85 P
+(Robotics  - 10ME766) 65 25 90 P
+(Design Lab.  - 10MEL77) 40 23 63 P
+(Total Quality Management  - 10ME758) 48 21 69 P
+(CIM & Automation Lab.  - 10MEL78) 43 24 67 P
+total= 589
+**
+1ds12me415
+SATHENDER PRASAD sem: 7 Result: FAIL
+(Economics  - 10ME71) 37 25 62 P
+(Mechanical Vibrations  - 10ME72) 35 15 50 P
+(Hydraulics & Pneumatics  - 10ME73) 35 25 60 P
+(Operations Research  - 10ME74) 28 20 48 F
+(Non Conventional Energy Sources  - 10ME754) 60 22 82 P
+(Robotics  - 10ME766) 60 22 82 P
+(Design Lab.  - 10MEL77) 26 22 48 P
+(CIM & Automation Lab.  - 10MEL78) 42 19 61 P
+total= 493
+**
+1ds12me416
+SHANKARAGOWDA.P.B sem: 7 Result: FAIL
+(Economics  - 10ME71) 26 22 48 F
+(Mechanical Vibrations  - 10ME72) 25 18 43 F
+(Hydraulics & Pneumatics  - 10ME73) 45 25 70 P
+(Operations Research  - 10ME74) 40 25 65 P
+(Non Conventional Energy Sources  - 10ME754) 39 19 58 P
+(Robotics  - 10ME766) 54 17 71 P
+(Design Lab.  - 10MEL77) 35 22 57 P
+(CIM & Automation Lab.  - 10MEL78) 40 20 60 P
+total= 472
+**
+1ds12me417
+SHASHIDHAR BELLAD sem: 7 Result: SC
+(Economics  - 10ME71) 43 15 58 P
+(Mechanical Vibrations  - 10ME72) 35 15 50 P
+(Hydraulics & Pneumatics  - 10ME73) 47 22 69 P
+(Operations Research  - 10ME74) 43 25 68 P
+(Non Conventional Energy Sources  - 10ME754) 57 20 77 P
+(Robotics  - 10ME766) 49 15 64 P
+(Design Lab.  - 10MEL77) 26 22 48 P
+(CIM & Automation Lab.  - 10MEL78) 35 24 59 P
+total= 493
+**
+1ds12me418
+SHOHAIL AHMED sem: 7 Result: FAIL
+(Economics  - 10ME71) 38 23 61 P
+(Mechanical Vibrations  - 10ME72) 38 15 53 P
+(Hydraulics & Pneumatics  - 10ME73) 35 20 55 P
+(Operations Research  - 10ME74) 15 18 33 F
+(Non Conventional Energy Sources  - 10ME754) 38 19 57 P
+(Robotics  - 10ME766) 51 21 72 P
+(Design Lab.  - 10MEL77) 40 22 62 P
+(CIM & Automation Lab.  - 10MEL78) 39 18 57 P
+total= 450
+**
+1ds12me419
+SUDEEP CHRISTOPHER sem: 7 Result: FC
+(Economics  - 10ME71) 54 23 77 P
+(Mechanical Vibrations  - 10ME72) 57 18 75 P
+(Hydraulics & Pneumatics  - 10ME73) 65 24 89 P
+(Operations Research  - 10ME74) 50 23 73 P
+(Non Conventional Energy Sources  - 10ME754) 50 21 71 P
+(Robotics  - 10ME766) 63 19 82 P
+(Design Lab.  - 10MEL77) 28 22 50 P
+(CIM & Automation Lab.  - 10MEL78) 31 22 53 P
+total= 570
+**
+1ds12me420
+SURENDRA V sem: 7 Result: FAIL
+(Economics  - 10ME71) 38 24 62 P
+(Mechanical Vibrations  - 10ME72) 38 21 59 P
+(Hydraulics & Pneumatics  - 10ME73) 49 23 72 P
+(Operations Research  - 10ME74) 28 21 49 F
+(Non Conventional Energy Sources  - 10ME754) 49 22 71 P
+(Robotics  - 10ME766) 69 24 93 P
+(Design Lab.  - 10MEL77) 42 22 64 P
+(CIM & Automation Lab.  - 10MEL78) 43 24 67 P
+total= 537
+**
+1ds12me422
+YATISH GOWDA S sem: 7 Result: FC
+(Economics  - 10ME71) 55 18 73 P
+(Mechanical Vibrations  - 10ME72) 67 15 82 P
+(Hydraulics & Pneumatics  - 10ME73) 59 25 84 P
+(Operations Research  - 10ME74) 70 22 92 P
+(Non Conventional Energy Sources  - 10ME754) 52 20 72 P
+(Robotics  - 10ME766) 59 15 74 P
+(Design Lab.  - 10MEL77) 38 20 58 P
+(CIM & Automation Lab.  - 10MEL78) 42 22 64 P
+total= 599
+**
+1ds12me423
+YOGESHCHANDRA.K sem: 7 Result: FC
+(Economics  - 10ME71) 50 22 72 P
+(Mechanical Vibrations  - 10ME72) 48 16 64 P
+(Hydraulics & Pneumatics  - 10ME73) 58 24 82 P
+(Operations Research  - 10ME74) 65 24 89 P
+(Non Conventional Energy Sources  - 10ME754) 72 22 94 P
+(Robotics  - 10ME766) 60 15 75 P
+(Design Lab.  - 10MEL77) 32 21 53 P
+(CIM & Automation Lab.  - 10MEL78) 39 24 63 P
+total= 592
+**
+false
+132

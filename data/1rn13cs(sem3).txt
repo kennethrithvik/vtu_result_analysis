@@ -1,0 +1,1790 @@
+1rn13cs001
+ABHISHEK KUMAR sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 58 21 79 P
+(Electronic Circuits  - 10CS32) 27 19 46 F
+(Logic Design  - 10CS33) 40 15 55 P
+(Discrete Mathematical Structures  - 10CS34) 63 25 88 P
+(Data Structures with C  - 10CS35) 38 17 55 P
+(Object Oriented Programming with C++  - 10CS36) 63 20 83 P
+(Data Structures with C/C++ Lab  - 10CSL37) 12 18 30 F
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 33 21 54 P
+total= 490
+**
+1rn13cs002
+ADARSH NARAYAN HEGDE sem: 3 Result: FCD
+(Engineering Mathematics-III  - 10MAT31) 76 22 98 P
+(Electronic Circuits  - 10CS32) 39 24 63 P
+(Logic Design  - 10CS33) 78 23 101 P
+(Discrete Mathematical Structures  - 10CS34) 61 25 86 P
+(Data Structures with C  - 10CS35) 52 24 76 P
+(Object Oriented Programming with C++  - 10CS36) 75 25 100 P
+(Data Structures with C/C++ Lab  - 10CSL37) 47 24 71 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 48 25 73 P
+total= 668
+**
+1rn13cs003
+ADHOKSHITH DATTA sem: 3 Result: FC
+(Engineering Mathematics-III  - 10MAT31) 55 20 75 P
+(Electronic Circuits  - 10CS32) 39 24 63 P
+(Logic Design  - 10CS33) 70 20 90 P
+(Discrete Mathematical Structures  - 10CS34) 61 23 84 P
+(Data Structures with C  - 10CS35) 46 25 71 P
+(Object Oriented Programming with C++  - 10CS36) 75 25 100 P
+(Data Structures with C/C++ Lab  - 10CSL37) 49 23 72 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 20 19 39 P
+total= 594
+**
+1rn13cs004
+ADITHYA C S sem: 3 Result: FC
+(Engineering Mathematics-III  - 10MAT31) 66 15 81 P
+(Electronic Circuits  - 10CS32) 35 22 57 P
+(Logic Design  - 10CS33) 51 19 70 P
+(Discrete Mathematical Structures  - 10CS34) 43 25 68 P
+(Data Structures with C  - 10CS35) 46 23 69 P
+(Object Oriented Programming with C++  - 10CS36) 70 24 94 P
+(Data Structures with C/C++ Lab  - 10CSL37) 48 22 70 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 22 18 40 P
+total= 549
+**
+1rn13cs005
+AISHWARYA BARIKERI sem: 3 Result: SC
+(Engineering Mathematics-III  - 10MAT31) 68 18 86 P
+(Electronic Circuits  - 10CS32) 44 22 66 P
+(Logic Design  - 10CS33) 39 15 54 P
+(Discrete Mathematical Structures  - 10CS34) 49 22 71 P
+(Data Structures with C  - 10CS35) 43 21 64 P
+(Object Oriented Programming with C++  - 10CS36) 62 20 82 P
+(Data Structures with C/C++ Lab  - 10CSL37) 25 19 44 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 41 21 62 P
+total= 529
+**
+1rn13cs006
+AISHWARYA DEV sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 65 16 81 P
+(Electronic Circuits  - 10CS32) 23 17 40 F
+(Logic Design  - 10CS33) 58 18 76 P
+(Discrete Mathematical Structures  - 10CS34) 49 22 71 P
+(Data Structures with C  - 10CS35) 29 21 50 F
+(Object Oriented Programming with C++  - 10CS36) 54 20 74 P
+(Data Structures with C/C++ Lab  - 10CSL37) 46 21 67 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 27 19 46 P
+total= 505
+**
+1rn13cs007
+AJAY BHAT sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 76 24 100 P
+(Electronic Circuits  - 10CS32) 18 25 43 F
+(Logic Design  - 10CS33) 57 21 78 P
+(Discrete Mathematical Structures  - 10CS34) 54 24 78 P
+(Data Structures with C  - 10CS35) 43 21 64 P
+(Object Oriented Programming with C++  - 10CS36) 64 21 85 P
+(Data Structures with C/C++ Lab  - 10CSL37) 28 19 47 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 48 24 72 P
+total= 567
+**
+1rn13cs008
+AKANKSHA TIWARI sem: 3 Result: FCD
+(Engineering Mathematics-III  - 10MAT31) 88 25 113 P
+(Electronic Circuits  - 10CS32) 41 23 64 P
+(Logic Design  - 10CS33) 67 22 89 P
+(Discrete Mathematical Structures  - 10CS34) 73 24 97 P
+(Data Structures with C  - 10CS35) 55 20 75 P
+(Object Oriented Programming with C++  - 10CS36) 61 24 85 P
+(Data Structures with C/C++ Lab  - 10CSL37) 46 24 70 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 49 24 73 P
+total= 666
+**
+1rn13cs009
+AKASH S S sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 68 19 87 P
+(Electronic Circuits  - 10CS32) 22 21 43 F
+(Logic Design  - 10CS33) 50 19 69 P
+(Discrete Mathematical Structures  - 10CS34) 52 25 77 P
+(Data Structures with C  - 10CS35) 43 22 65 P
+(Object Oriented Programming with C++  - 10CS36) 55 22 77 P
+(Data Structures with C/C++ Lab  - 10CSL37) 45 19 64 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 44 24 68 P
+total= 550
+**
+1rn13cs010
+AKSHATHA SUDHIR sem: 3 Result: FCD
+(Engineering Mathematics-III  - 10MAT31) 93 25 118 P
+(Electronic Circuits  - 10CS32) 63 25 88 P
+(Logic Design  - 10CS33) 77 25 102 P
+(Discrete Mathematical Structures  - 10CS34) 73 25 98 P
+(Data Structures with C  - 10CS35) 71 25 96 P
+(Object Oriented Programming with C++  - 10CS36) 76 25 101 P
+(Data Structures with C/C++ Lab  - 10CSL37) 47 25 72 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 45 25 70 P
+total= 745
+**
+1rn13cs011
+AMEENA FIRDOUS sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 56 20 76 P
+(Electronic Circuits  - 10CS32) 8 22 30 F
+(Logic Design  - 10CS33) 55 15 70 P
+(Discrete Mathematical Structures  - 10CS34) 35 22 57 P
+(Data Structures with C  - 10CS35) 59 17 76 P
+(Object Oriented Programming with C++  - 10CS36) 58 16 74 P
+(Data Structures with C/C++ Lab  - 10CSL37) 20 19 39 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 20 21 41 P
+total= 463
+**
+1rn13cs012
+AMRUTHA B sem: 3 Result: FCD
+(Engineering Mathematics-III  - 10MAT31) 87 25 112 P
+(Electronic Circuits  - 10CS32) 54 25 79 P
+(Logic Design  - 10CS33) 70 25 95 P
+(Discrete Mathematical Structures  - 10CS34) 75 25 100 P
+(Data Structures with C  - 10CS35) 60 25 85 P
+(Object Oriented Programming with C++  - 10CS36) 64 25 89 P
+(Data Structures with C/C++ Lab  - 10CSL37) 45 25 70 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 48 25 73 P
+total= 703
+**
+1rn13cs013
+ANIL KUMAR SAHU sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 50 15 65 P
+(Electronic Circuits  - 10CS32) 13 21 34 F
+(Logic Design  - 10CS33) 35 16 51 P
+(Discrete Mathematical Structures  - 10CS34) 50 16 66 P
+(Data Structures with C  - 10CS35) 37 15 52 P
+(Object Oriented Programming with C++  - 10CS36) 48 13 61 P
+(Data Structures with C/C++ Lab  - 10CSL37) 20 20 40 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 30 20 50 P
+total= 419
+**
+1rn13cs014
+ANSHU KUMARI sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 73 22 95 P
+(Electronic Circuits  - 10CS32) 18 22 40 F
+(Logic Design  - 10CS33) 43 20 63 P
+(Discrete Mathematical Structures  - 10CS34) 43 23 66 P
+(Data Structures with C  - 10CS35) 53 19 72 P
+(Object Oriented Programming with C++  - 10CS36) 52 20 72 P
+(Data Structures with C/C++ Lab  - 10CSL37) 28 19 47 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 20 22 42 P
+total= 497
+**
+1rn13cs015
+ANUPAM BHARTI sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 38 15 53 P
+(Electronic Circuits  - 10CS32) 7 15 22 F
+(Logic Design  - 10CS33) 14 3 17 F
+(Discrete Mathematical Structures  - 10CS34) 20 15 35 F
+(Data Structures with C  - 10CS35) 39 7 46 F
+(Object Oriented Programming with C++  - 10CS36) 35 10 45 F
+(Data Structures with C/C++ Lab  - 10CSL37) 20 21 41 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 3 15 18 F
+total= 68
+**
+1rn13cs016
+ARUN N sem: 3 Result: FCD
+(Engineering Mathematics-III  - 10MAT31) 100 25 125 P
+(Electronic Circuits  - 10CS32) 48 24 72 P
+(Logic Design  - 10CS33) 61 21 82 P
+(Discrete Mathematical Structures  - 10CS34) 74 25 99 P
+(Data Structures with C  - 10CS35) 63 23 86 P
+(Object Oriented Programming with C++  - 10CS36) 56 25 81 P
+(Data Structures with C/C++ Lab  - 10CSL37) 47 21 68 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 48 25 73 P
+total= 686
+**
+1rn13cs017
+BHUVANA SRIDHARA sem: 3 Result: FC
+(Engineering Mathematics-III  - 10MAT31) 60 22 82 P
+(Electronic Circuits  - 10CS32) 37 21 58 P
+(Logic Design  - 10CS33) 63 22 85 P
+(Discrete Mathematical Structures  - 10CS34) 48 25 73 P
+(Data Structures with C  - 10CS35) 47 25 72 P
+(Object Oriented Programming with C++  - 10CS36) 56 23 79 P
+(Data Structures with C/C++ Lab  - 10CSL37) 49 20 69 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 47 23 70 P
+total= 588
+**
+1rn13cs018
+C V MANOGNA sem: 3 Result: FCD
+(Engineering Mathematics-III  - 10MAT31) 90 24 114 P
+(Electronic Circuits  - 10CS32) 38 25 63 P
+(Logic Design  - 10CS33) 73 23 96 P
+(Discrete Mathematical Structures  - 10CS34) 69 25 94 P
+(Data Structures with C  - 10CS35) 51 25 76 P
+(Object Oriented Programming with C++  - 10CS36) 66 24 90 P
+(Data Structures with C/C++ Lab  - 10CSL37) 46 25 71 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 49 25 74 P
+total= 678
+**
+1rn13cs019
+CHAKRIKA AISHWARYA A sem: 3 Result: FCD
+(Engineering Mathematics-III  - 10MAT31) 90 24 114 P
+(Electronic Circuits  - 10CS32) 55 25 80 P
+(Logic Design  - 10CS33) 62 24 86 P
+(Discrete Mathematical Structures  - 10CS34) 54 25 79 P
+(Data Structures with C  - 10CS35) 48 25 73 P
+(Object Oriented Programming with C++  - 10CS36) 59 25 84 P
+(Data Structures with C/C++ Lab  - 10CSL37) 49 25 74 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 47 25 72 P
+total= 662
+**
+1rn13cs020
+CHATURVED AKASH A sem: 3 Result: FCD
+(Engineering Mathematics-III  - 10MAT31) 95 25 120 P
+(Electronic Circuits  - 10CS32) 65 25 90 P
+(Logic Design  - 10CS33) 61 25 86 P
+(Discrete Mathematical Structures  - 10CS34) 58 25 83 P
+(Data Structures with C  - 10CS35) 55 25 80 P
+(Object Oriented Programming with C++  - 10CS36) 53 25 78 P
+(Data Structures with C/C++ Lab  - 10CSL37) 48 25 73 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 48 25 73 P
+total= 683
+**
+1rn13cs021
+DEEPALI G PURANIK sem: 3 Result: FCD
+(Engineering Mathematics-III  - 10MAT31) 85 25 110 P
+(Electronic Circuits  - 10CS32) 52 25 77 P
+(Logic Design  - 10CS33) 62 21 83 P
+(Discrete Mathematical Structures  - 10CS34) 48 24 72 P
+(Data Structures with C  - 10CS35) 48 24 72 P
+(Object Oriented Programming with C++  - 10CS36) 51 22 73 P
+(Data Structures with C/C++ Lab  - 10CSL37) 49 25 74 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 45 23 68 P
+total= 630
+**
+1rn13cs022
+DINAKAR sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 42 15 57 P
+(Electronic Circuits  - 10CS32) 27 25 52 F
+(Logic Design  - 10CS33) 17 8 25 F
+(Discrete Mathematical Structures  - 10CS34) 28 15 43 F
+(Data Structures with C  - 10CS35) 35 16 51 P
+(Object Oriented Programming with C++  - 10CS36) 51 15 66 P
+(Data Structures with C/C++ Lab  - 10CSL37) 27 19 46 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 20 16 36 P
+total= 36
+**
+1rn13cs023
+DIVYASHREE N sem: 3 Result: SC
+(Engineering Mathematics-III  - 10MAT31) 57 17 74 P
+(Electronic Circuits  - 10CS32) 41 19 60 P
+(Logic Design  - 10CS33) 49 15 64 P
+(Discrete Mathematical Structures  - 10CS34) 36 24 60 P
+(Data Structures with C  - 10CS35) 46 22 68 P
+(Object Oriented Programming with C++  - 10CS36) 54 15 69 P
+(Data Structures with C/C++ Lab  - 10CSL37) 39 20 59 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 28 22 50 P
+total= 504
+**
+1rn13cs024
+EESHAN GAONKAR sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 39 15 54 P
+(Electronic Circuits  - 10CS32) 16 11 27 F
+(Logic Design  - 10CS33) 27 3 30 F
+(Discrete Mathematical Structures  - 10CS34) 27 19 46 F
+(Data Structures with C  - 10CS35) 35 6 41 F
+(Object Oriented Programming with C++  - 10CS36) 29 14 43 F
+(Data Structures with C/C++ Lab  - 10CSL37) 7 18 25 F
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 20 18 38 P
+total= 304
+**
+1rn13cs025
+GANGA M C sem: 3 Result: FCD
+(Engineering Mathematics-III  - 10MAT31) 80 25 105 P
+(Electronic Circuits  - 10CS32) 60 25 85 P
+(Logic Design  - 10CS33) 71 24 95 P
+(Discrete Mathematical Structures  - 10CS34) 76 25 101 P
+(Data Structures with C  - 10CS35) 41 25 66 P
+(Object Oriented Programming with C++  - 10CS36) 56 25 81 P
+(Data Structures with C/C++ Lab  - 10CSL37) 47 25 72 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 46 25 71 P
+total= 676
+**
+1rn13cs026
+GONDI SIVA SARAN sem: 3 Result: FCD
+(Engineering Mathematics-III  - 10MAT31) 78 25 103 P
+(Electronic Circuits  - 10CS32) 65 25 90 P
+(Logic Design  - 10CS33) 80 22 102 P
+(Discrete Mathematical Structures  - 10CS34) 59 25 84 P
+(Data Structures with C  - 10CS35) 46 25 71 P
+(Object Oriented Programming with C++  - 10CS36) 71 25 96 P
+(Data Structures with C/C++ Lab  - 10CSL37) 46 25 71 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 36 23 59 P
+total= 676
+**
+1rn13cs027
+GURUNANDAN V AGNIHOTHRI sem: 3 Result: FCD
+(Engineering Mathematics-III  - 10MAT31) 89 23 112 P
+(Electronic Circuits  - 10CS32) 59 24 83 P
+(Logic Design  - 10CS33) 71 22 93 P
+(Discrete Mathematical Structures  - 10CS34) 61 25 86 P
+(Data Structures with C  - 10CS35) 43 25 68 P
+(Object Oriented Programming with C++  - 10CS36) 60 23 83 P
+(Data Structures with C/C++ Lab  - 10CSL37) 47 25 72 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 48 25 73 P
+total= 670
+**
+1rn13cs028
+H V SHAMANTH sem: 3 Result: FCD
+(Engineering Mathematics-III  - 10MAT31) 90 25 115 P
+(Electronic Circuits  - 10CS32) 47 25 72 P
+(Logic Design  - 10CS33) 69 23 92 P
+(Discrete Mathematical Structures  - 10CS34) 64 25 89 P
+(Data Structures with C  - 10CS35) 60 25 85 P
+(Object Oriented Programming with C++  - 10CS36) 79 22 101 P
+(Data Structures with C/C++ Lab  - 10CSL37) 47 25 72 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 47 24 71 P
+total= 697
+**
+1rn13cs029
+HARI HARAN J sem: 3 Result: SC
+(Engineering Mathematics-III  - 10MAT31) 65 21 86 P
+(Electronic Circuits  - 10CS32) 36 21 57 P
+(Logic Design  - 10CS33) 50 15 65 P
+(Discrete Mathematical Structures  - 10CS34) 53 18 71 P
+(Data Structures with C  - 10CS35) 45 18 63 P
+(Object Oriented Programming with C++  - 10CS36) 48 18 66 P
+(Data Structures with C/C++ Lab  - 10CSL37) 36 21 57 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 24 21 45 P
+total= 510
+**
+1rn13cs030
+HARSH VIDYARTHI sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 53 15 68 P
+(Electronic Circuits  - 10CS32) 27 19 46 F
+(Logic Design  - 10CS33) 35 15 50 P
+(Discrete Mathematical Structures  - 10CS34) 47 18 65 P
+(Data Structures with C  - 10CS35) 50 15 65 P
+(Object Oriented Programming with C++  - 10CS36) 43 16 59 P
+(Data Structures with C/C++ Lab  - 10CSL37) 4 22 26 F
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 46 24 70 P
+total= 449
+**
+1rn13cs031
+HIMANSHU VAISH sem: 3 Result: FCD
+(Engineering Mathematics-III  - 10MAT31) 86 22 108 P
+(Electronic Circuits  - 10CS32) 56 25 81 P
+(Logic Design  - 10CS33) 54 20 74 P
+(Discrete Mathematical Structures  - 10CS34) 55 25 80 P
+(Data Structures with C  - 10CS35) 57 22 79 P
+(Object Oriented Programming with C++  - 10CS36) 58 19 77 P
+(Data Structures with C/C++ Lab  - 10CSL37) 46 23 69 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 44 20 64 P
+total= 632
+**
+1rn13cs032
+J ADITYA KALYAN sem: 3 Result: FC
+(Engineering Mathematics-III  - 10MAT31) 60 20 80 P
+(Electronic Circuits  - 10CS32) 38 20 58 P
+(Logic Design  - 10CS33) 47 15 62 P
+(Discrete Mathematical Structures  - 10CS34) 45 22 67 P
+(Data Structures with C  - 10CS35) 52 19 71 P
+(Object Oriented Programming with C++  - 10CS36) 82 18 100 P
+(Data Structures with C/C++ Lab  - 10CSL37) 37 22 59 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 34 20 54 P
+total= 551
+**
+1rn13cs033
+J GOKUL sem: 3 Result: FC
+(Engineering Mathematics-III  - 10MAT31) 68 19 87 P
+(Electronic Circuits  - 10CS32) 36 24 60 P
+(Logic Design  - 10CS33) 48 17 65 P
+(Discrete Mathematical Structures  - 10CS34) 56 23 79 P
+(Data Structures with C  - 10CS35) 57 22 79 P
+(Object Oriented Programming with C++  - 10CS36) 78 23 101 P
+(Data Structures with C/C++ Lab  - 10CSL37) 46 23 69 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 43 25 68 P
+total= 608
+**
+1rn13cs035
+KARTHIK K BHARADWAJ sem: 3 Result: FCD
+(Engineering Mathematics-III  - 10MAT31) 81 23 104 P
+(Electronic Circuits  - 10CS32) 39 21 60 P
+(Logic Design  - 10CS33) 54 20 74 P
+(Discrete Mathematical Structures  - 10CS34) 60 25 85 P
+(Data Structures with C  - 10CS35) 52 22 74 P
+(Object Oriented Programming with C++  - 10CS36) 72 23 95 P
+(Data Structures with C/C++ Lab  - 10CSL37) 48 25 73 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 48 25 73 P
+total= 638
+**
+1rn13cs036
+KARTIKEYA SINGH sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 67 15 82 P
+(Electronic Circuits  - 10CS32) 24 15 39 F
+(Logic Design  - 10CS33) 40 15 55 P
+(Discrete Mathematical Structures  - 10CS34) 66 22 88 P
+(Data Structures with C  - 10CS35) 35 19 54 P
+(Object Oriented Programming with C++  - 10CS36) 54 17 71 P
+(Data Structures with C/C++ Lab  - 10CSL37) 44 23 67 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 20 16 36 P
+total= 492
+**
+1rn13cs037
+KAUSHIK SUNDARAM sem: 3 Result: FC
+(Engineering Mathematics-III  - 10MAT31) 84 23 107 P
+(Electronic Circuits  - 10CS32) 35 22 57 P
+(Logic Design  - 10CS33) 59 16 75 P
+(Discrete Mathematical Structures  - 10CS34) 58 24 82 P
+(Data Structures with C  - 10CS35) 45 23 68 P
+(Object Oriented Programming with C++  - 10CS36) 68 23 91 P
+(Data Structures with C/C++ Lab  - 10CSL37) 45 22 67 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 30 24 54 P
+total= 601
+**
+1rn13cs038
+KISHAN RAJ sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 78 21 99 P
+(Electronic Circuits  - 10CS32) 20 19 39 F
+(Logic Design  - 10CS33) 53 15 68 P
+(Discrete Mathematical Structures  - 10CS34) 64 23 87 P
+(Data Structures with C  - 10CS35) 35 15 50 P
+(Object Oriented Programming with C++  - 10CS36) 58 21 79 P
+(Data Structures with C/C++ Lab  - 10CSL37) 10 21 31 F
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 40 15 55 P
+total= 150
+**
+1rn13cs039
+KRUTIKA RAMESH SHAHABADKAR sem: 3 Result: FCD
+(Engineering Mathematics-III  - 10MAT31) 87 25 112 P
+(Electronic Circuits  - 10CS32) 50 25 75 P
+(Logic Design  - 10CS33) 63 22 85 P
+(Discrete Mathematical Structures  - 10CS34) 76 25 101 P
+(Data Structures with C  - 10CS35) 58 25 83 P
+(Object Oriented Programming with C++  - 10CS36) 62 25 87 P
+(Data Structures with C/C++ Lab  - 10CSL37) 45 24 69 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 45 24 69 P
+total= 681
+**
+1rn13cs040
+M ROOPINI sem: 3 Result: FCD
+(Engineering Mathematics-III  - 10MAT31) 87 25 112 P
+(Electronic Circuits  - 10CS32) 58 25 83 P
+(Logic Design  - 10CS33) 79 25 104 P
+(Discrete Mathematical Structures  - 10CS34) 76 25 101 P
+(Data Structures with C  - 10CS35) 47 25 72 P
+(Object Oriented Programming with C++  - 10CS36) 64 25 89 P
+(Data Structures with C/C++ Lab  - 10CSL37) 48 25 73 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 49 25 74 P
+total= 708
+**
+1rn13cs041
+MADHAVA S R sem: 3 Result: FCD
+(Engineering Mathematics-III  - 10MAT31) 98 25 123 P
+(Electronic Circuits  - 10CS32) 35 25 60 P
+(Logic Design  - 10CS33) 74 23 97 P
+(Discrete Mathematical Structures  - 10CS34) 68 25 93 P
+(Data Structures with C  - 10CS35) 61 25 86 P
+(Object Oriented Programming with C++  - 10CS36) 68 25 93 P
+(Data Structures with C/C++ Lab  - 10CSL37) 48 25 73 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 49 25 74 P
+total= 699
+**
+1rn13cs042
+MANISHA CHAUDHARY sem: 3 Result: FCD
+(Engineering Mathematics-III  - 10MAT31) 68 25 93 P
+(Electronic Circuits  - 10CS32) 38 25 63 P
+(Logic Design  - 10CS33) 67 20 87 P
+(Discrete Mathematical Structures  - 10CS34) 68 25 93 P
+(Data Structures with C  - 10CS35) 57 25 82 P
+(Object Oriented Programming with C++  - 10CS36) 56 25 81 P
+(Data Structures with C/C++ Lab  - 10CSL37) 46 25 71 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 46 23 69 P
+total= 639
+**
+1rn13cs043
+MANSHA MALIK sem: 3 Result: FCD
+(Engineering Mathematics-III  - 10MAT31) 88 22 110 P
+(Electronic Circuits  - 10CS32) 56 25 81 P
+(Logic Design  - 10CS33) 66 24 90 P
+(Discrete Mathematical Structures  - 10CS34) 81 25 106 P
+(Data Structures with C  - 10CS35) 53 25 78 P
+(Object Oriented Programming with C++  - 10CS36) 58 25 83 P
+(Data Structures with C/C++ Lab  - 10CSL37) 48 25 73 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 46 25 71 P
+total= 692
+**
+1rn13cs044
+MEGHANA S sem: 3 Result: FCD
+(Engineering Mathematics-III  - 10MAT31) 90 25 115 P
+(Electronic Circuits  - 10CS32) 57 25 82 P
+(Logic Design  - 10CS33) 70 25 95 P
+(Discrete Mathematical Structures  - 10CS34) 70 25 95 P
+(Data Structures with C  - 10CS35) 68 25 93 P
+(Object Oriented Programming with C++  - 10CS36) 67 25 92 P
+(Data Structures with C/C++ Lab  - 10CSL37) 47 25 72 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 48 25 73 P
+total= 717
+**
+1rn13cs045
+MILANA V sem: 3 Result: FCD
+(Engineering Mathematics-III  - 10MAT31) 88 24 112 P
+(Electronic Circuits  - 10CS32) 50 24 74 P
+(Logic Design  - 10CS33) 57 21 78 P
+(Discrete Mathematical Structures  - 10CS34) 61 23 84 P
+(Data Structures with C  - 10CS35) 65 25 90 P
+(Object Oriented Programming with C++  - 10CS36) 56 23 79 P
+(Data Structures with C/C++ Lab  - 10CSL37) 48 24 72 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 44 24 68 P
+total= 657
+**
+1rn13cs046
+MITISHA GANESHA DODDERI sem: 3 Result: FCD
+(Engineering Mathematics-III  - 10MAT31) 74 22 96 P
+(Electronic Circuits  - 10CS32) 36 23 59 P
+(Logic Design  - 10CS33) 65 18 83 P
+(Discrete Mathematical Structures  - 10CS34) 63 24 87 P
+(Data Structures with C  - 10CS35) 57 25 82 P
+(Object Oriented Programming with C++  - 10CS36) 62 25 87 P
+(Data Structures with C/C++ Lab  - 10CSL37) 49 25 74 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 48 24 72 P
+total= 640
+**
+1rn13cs047
+MOHAMMED MOTASIM sem: 3 Result: FC
+(Engineering Mathematics-III  - 10MAT31) 70 21 91 P
+(Electronic Circuits  - 10CS32) 35 25 60 P
+(Logic Design  - 10CS33) 47 18 65 P
+(Discrete Mathematical Structures  - 10CS34) 53 24 77 P
+(Data Structures with C  - 10CS35) 55 22 77 P
+(Object Oriented Programming with C++  - 10CS36) 66 23 89 P
+(Data Structures with C/C++ Lab  - 10CSL37) 45 24 69 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 45 21 66 P
+total= 594
+**
+1rn13cs048
+MOHAMMED SIDDIQ sem: 3 Result: FCD
+(Engineering Mathematics-III  - 10MAT31) 93 24 117 P
+(Electronic Circuits  - 10CS32) 35 24 59 P
+(Logic Design  - 10CS33) 63 22 85 P
+(Discrete Mathematical Structures  - 10CS34) 65 25 90 P
+(Data Structures with C  - 10CS35) 49 25 74 P
+(Object Oriented Programming with C++  - 10CS36) 72 25 97 P
+(Data Structures with C/C++ Lab  - 10CSL37) 49 25 74 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 39 20 59 P
+total= 655
+**
+1rn13cs049
+MONISHA R sem: 3 Result: FCD
+(Engineering Mathematics-III  - 10MAT31) 92 25 117 P
+(Electronic Circuits  - 10CS32) 41 25 66 P
+(Logic Design  - 10CS33) 61 24 85 P
+(Discrete Mathematical Structures  - 10CS34) 72 25 97 P
+(Data Structures with C  - 10CS35) 63 25 88 P
+(Object Oriented Programming with C++  - 10CS36) 75 25 100 P
+(Data Structures with C/C++ Lab  - 10CSL37) 48 25 73 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 47 24 71 P
+total= 697
+**
+1rn13cs050
+MONU KUMAR sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 90 20 110 P
+(Electronic Circuits  - 10CS32) 28 16 44 F
+(Logic Design  - 10CS33) 52 12 64 P
+(Discrete Mathematical Structures  - 10CS34) 49 17 66 P
+(Data Structures with C  - 10CS35) 52 16 68 P
+(Object Oriented Programming with C++  - 10CS36) 66 15 81 P
+(Data Structures with C/C++ Lab  - 10CSL37) 29 18 47 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 27 15 42 P
+total= 522
+**
+1rn13cs051
+MUKUL LOHAR sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 93 23 116 P
+(Electronic Circuits  - 10CS32) 16 23 39 F
+(Logic Design  - 10CS33) 52 19 71 P
+(Discrete Mathematical Structures  - 10CS34) 48 23 71 P
+(Data Structures with C  - 10CS35) 53 21 74 P
+(Object Oriented Programming with C++  - 10CS36) 50 19 69 P
+(Data Structures with C/C++ Lab  - 10CSL37) 47 24 71 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 15 19 34 F
+total= 545
+**
+1rn13cs052
+MUKUNDA S R sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 73 22 95 P
+(Electronic Circuits  - 10CS32) 23 17 40 F
+(Logic Design  - 10CS33) 55 17 72 P
+(Discrete Mathematical Structures  - 10CS34) 55 21 76 P
+(Data Structures with C  - 10CS35) 57 25 82 P
+(Object Oriented Programming with C++  - 10CS36) 62 20 82 P
+(Data Structures with C/C++ Lab  - 10CSL37) 48 18 66 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 13 15 28 F
+total= 541
+**
+1rn13cs053
+NATASHA RAMESH SHETTY sem: 3 Result: FCD
+(Engineering Mathematics-III  - 10MAT31) 89 24 113 P
+(Electronic Circuits  - 10CS32) 41 25 66 P
+(Logic Design  - 10CS33) 66 24 90 P
+(Discrete Mathematical Structures  - 10CS34) 77 25 102 P
+(Data Structures with C  - 10CS35) 67 25 92 P
+(Object Oriented Programming with C++  - 10CS36) 74 25 99 P
+(Data Structures with C/C++ Lab  - 10CSL37) 47 24 71 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 48 23 71 P
+total= 704
+**
+1rn13cs054
+NIKHIL M sem: 3 Result: FCD
+(Engineering Mathematics-III  - 10MAT31) 87 23 110 P
+(Electronic Circuits  - 10CS32) 41 25 66 P
+(Logic Design  - 10CS33) 64 22 86 P
+(Discrete Mathematical Structures  - 10CS34) 82 25 107 P
+(Data Structures with C  - 10CS35) 58 25 83 P
+(Object Oriented Programming with C++  - 10CS36) 71 25 96 P
+(Data Structures with C/C++ Lab  - 10CSL37) 47 25 72 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 48 24 72 P
+total= 692
+**
+1rn13cs055
+NIKSHEP C sem: 3 Result: FC
+(Engineering Mathematics-III  - 10MAT31) 72 19 91 P
+(Electronic Circuits  - 10CS32) 35 15 50 P
+(Logic Design  - 10CS33) 55 17 72 P
+(Discrete Mathematical Structures  - 10CS34) 53 20 73 P
+(Data Structures with C  - 10CS35) 56 24 80 P
+(Object Oriented Programming with C++  - 10CS36) 66 22 88 P
+(Data Structures with C/C++ Lab  - 10CSL37) 45 21 66 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 35 20 55 P
+total= 575
+**
+1rn13cs056
+NISHA sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 65 23 88 P
+(Electronic Circuits  - 10CS32) 19 21 40 F
+(Logic Design  - 10CS33) 52 15 67 P
+(Discrete Mathematical Structures  - 10CS34) 67 25 92 P
+(Data Structures with C  - 10CS35) 61 24 85 P
+(Object Oriented Programming with C++  - 10CS36) 62 19 81 P
+(Data Structures with C/C++ Lab  - 10CSL37) 35 23 58 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 32 20 52 P
+total= 61
+**
+1rn13cs057
+P MEGHANA sem: 3 Result: SC
+(Engineering Mathematics-III  - 10MAT31) 55 21 76 P
+(Electronic Circuits  - 10CS32) 35 20 55 P
+(Logic Design  - 10CS33) 36 15 51 P
+(Discrete Mathematical Structures  - 10CS34) 35 18 53 P
+(Data Structures with C  - 10CS35) 49 19 68 P
+(Object Oriented Programming with C++  - 10CS36) 42 18 60 P
+(Data Structures with C/C++ Lab  - 10CSL37) 30 20 50 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 41 19 60 P
+total= 473
+**
+1rn13cs058
+PRABHANJANA K P sem: 3 Result: FCD
+(Engineering Mathematics-III  - 10MAT31) 84 23 107 P
+(Electronic Circuits  - 10CS32) 43 24 67 P
+(Logic Design  - 10CS33) 72 19 91 P
+(Discrete Mathematical Structures  - 10CS34) 70 25 95 P
+(Data Structures with C  - 10CS35) 68 24 92 P
+(Object Oriented Programming with C++  - 10CS36) 58 25 83 P
+(Data Structures with C/C++ Lab  - 10CSL37) 45 25 70 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 43 22 65 P
+total= 670
+**
+1rn13cs059
+PRAKHAR GUPTA sem: 3 Result: FCD
+(Engineering Mathematics-III  - 10MAT31) 99 24 123 P
+(Electronic Circuits  - 10CS32) 55 23 78 P
+(Logic Design  - 10CS33) 75 25 100 P
+(Discrete Mathematical Structures  - 10CS34) 80 23 103 P
+(Data Structures with C  - 10CS35) 68 25 93 P
+(Object Oriented Programming with C++  - 10CS36) 69 25 94 P
+(Data Structures with C/C++ Lab  - 10CSL37) 49 25 74 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 48 25 73 P
+total= 738
+**
+1rn13cs060
+PRAKHAR SAXENA sem: 3 Result: FCD
+(Engineering Mathematics-III  - 10MAT31) 65 24 89 P
+(Electronic Circuits  - 10CS32) 55 24 79 P
+(Logic Design  - 10CS33) 67 21 88 P
+(Discrete Mathematical Structures  - 10CS34) 67 24 91 P
+(Data Structures with C  - 10CS35) 72 25 97 P
+(Object Oriented Programming with C++  - 10CS36) 59 24 83 P
+(Data Structures with C/C++ Lab  - 10CSL37) 47 25 72 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 38 23 61 P
+total= 660
+**
+1rn13cs061
+PRAKRUTHI sem: 3 Result: SC
+(Engineering Mathematics-III  - 10MAT31) 59 15 74 P
+(Electronic Circuits  - 10CS32) 35 15 50 P
+(Logic Design  - 10CS33) 42 8 50 P
+(Discrete Mathematical Structures  - 10CS34) 42 15 57 P
+(Data Structures with C  - 10CS35) 59 20 79 P
+(Object Oriented Programming with C++  - 10CS36) 55 16 71 P
+(Data Structures with C/C++ Lab  - 10CSL37) 35 20 55 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 38 17 55 P
+total= 38
+**
+1rn13cs062
+PRAMEET CHAKRABORTY sem: 3 Result: FCD
+(Engineering Mathematics-III  - 10MAT31) 82 25 107 P
+(Electronic Circuits  - 10CS32) 68 23 91 P
+(Logic Design  - 10CS33) 67 23 90 P
+(Discrete Mathematical Structures  - 10CS34) 72 25 97 P
+(Data Structures with C  - 10CS35) 69 25 94 P
+(Object Oriented Programming with C++  - 10CS36) 70 23 93 P
+(Data Structures with C/C++ Lab  - 10CSL37) 46 25 71 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 42 22 64 P
+total= 707
+**
+1rn13cs063
+PRARTHANA SHANKAR sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 46 15 61 P
+(Electronic Circuits  - 10CS32) 26 17 43 F
+(Logic Design  - 10CS33) 39 11 50 P
+(Discrete Mathematical Structures  - 10CS34) 8 17 25 F
+(Data Structures with C  - 10CS35) 60 11 71 P
+(Object Oriented Programming with C++  - 10CS36) 49 12 61 P
+(Data Structures with C/C++ Lab  - 10CSL37) 8 16 24 F
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 20 13 33 P
+total= 85
+**
+1rn13cs064
+PRATIK SHETTY sem: 3 Result: FCD
+(Engineering Mathematics-III  - 10MAT31) 80 25 105 P
+(Electronic Circuits  - 10CS32) 49 19 68 P
+(Logic Design  - 10CS33) 63 19 82 P
+(Discrete Mathematical Structures  - 10CS34) 72 25 97 P
+(Data Structures with C  - 10CS35) 63 25 88 P
+(Object Oriented Programming with C++  - 10CS36) 64 24 88 P
+(Data Structures with C/C++ Lab  - 10CSL37) 47 23 70 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 45 23 68 P
+total= 666
+**
+1rn13cs065
+PREETHAM T S sem: 3 Result: FC
+(Engineering Mathematics-III  - 10MAT31) 72 22 94 P
+(Electronic Circuits  - 10CS32) 50 22 72 P
+(Logic Design  - 10CS33) 65 18 83 P
+(Discrete Mathematical Structures  - 10CS34) 50 20 70 P
+(Data Structures with C  - 10CS35) 57 19 76 P
+(Object Oriented Programming with C++  - 10CS36) 64 18 82 P
+(Data Structures with C/C++ Lab  - 10CSL37) 49 20 69 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 38 21 59 P
+total= 605
+**
+1rn13cs066
+PRERANA M sem: 3 Result: FC
+(Engineering Mathematics-III  - 10MAT31) 62 24 86 P
+(Electronic Circuits  - 10CS32) 42 23 65 P
+(Logic Design  - 10CS33) 57 22 79 P
+(Discrete Mathematical Structures  - 10CS34) 58 23 81 P
+(Data Structures with C  - 10CS35) 63 25 88 P
+(Object Oriented Programming with C++  - 10CS36) 63 23 86 P
+(Data Structures with C/C++ Lab  - 10CSL37) 35 23 58 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 47 24 71 P
+total= 614
+**
+1rn13cs067
+PRIYANKA D sem: 3 Result: FCD
+(Engineering Mathematics-III  - 10MAT31) 87 25 112 P
+(Electronic Circuits  - 10CS32) 74 25 99 P
+(Logic Design  - 10CS33) 73 23 96 P
+(Discrete Mathematical Structures  - 10CS34) 60 25 85 P
+(Data Structures with C  - 10CS35) 63 25 88 P
+(Object Oriented Programming with C++  - 10CS36) 70 25 95 P
+(Data Structures with C/C++ Lab  - 10CSL37) 48 23 71 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 48 24 72 P
+total= 718
+**
+1rn13cs068
+PUNEETH ACHARYA P sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 46 23 69 P
+(Electronic Circuits  - 10CS32) 28 20 48 F
+(Logic Design  - 10CS33) 47 16 63 P
+(Discrete Mathematical Structures  - 10CS34) 55 22 77 P
+(Data Structures with C  - 10CS35) 48 24 72 P
+(Object Oriented Programming with C++  - 10CS36) 56 19 75 P
+(Data Structures with C/C++ Lab  - 10CSL37) 45 20 65 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 40 17 57 P
+total= 526
+**
+1rn13cs069
+PUNIT KUMAR Y HARSUR sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 62 23 85 P
+(Electronic Circuits  - 10CS32) 25 20 45 F
+(Logic Design  - 10CS33) 54 12 66 P
+(Discrete Mathematical Structures  - 10CS34) 42 20 62 P
+(Data Structures with C  - 10CS35) 41 25 66 P
+(Object Oriented Programming with C++  - 10CS36) 64 19 83 P
+(Data Structures with C/C++ Lab  - 10CSL37) 45 16 61 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 24 19 43 P
+total= 511
+**
+1rn13cs070
+PUSHPA N BHAT sem: 3 Result: FCD
+(Engineering Mathematics-III  - 10MAT31) 74 23 97 P
+(Electronic Circuits  - 10CS32) 44 25 69 P
+(Logic Design  - 10CS33) 78 21 99 P
+(Discrete Mathematical Structures  - 10CS34) 65 25 90 P
+(Data Structures with C  - 10CS35) 49 25 74 P
+(Object Oriented Programming with C++  - 10CS36) 59 25 84 P
+(Data Structures with C/C++ Lab  - 10CSL37) 48 24 72 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 47 23 70 P
+total= 655
+**
+1rn13cs071
+RAHUL RANJAN sem: 3 Result: SC
+(Engineering Mathematics-III  - 10MAT31) 72 23 95 P
+(Electronic Circuits  - 10CS32) 35 19 54 P
+(Logic Design  - 10CS33) 37 15 52 P
+(Discrete Mathematical Structures  - 10CS34) 48 20 68 P
+(Data Structures with C  - 10CS35) 51 21 72 P
+(Object Oriented Programming with C++  - 10CS36) 64 24 88 P
+(Data Structures with C/C++ Lab  - 10CSL37) 30 20 50 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 20 16 36 P
+total= 515
+**
+1rn13cs072
+RANJAN G sem: 3 Result: FC
+(Engineering Mathematics-III  - 10MAT31) 81 24 105 P
+(Electronic Circuits  - 10CS32) 54 20 74 P
+(Logic Design  - 10CS33) 51 18 69 P
+(Discrete Mathematical Structures  - 10CS34) 71 22 93 P
+(Data Structures with C  - 10CS35) 52 25 77 P
+(Object Oriented Programming with C++  - 10CS36) 51 24 75 P
+(Data Structures with C/C++ Lab  - 10CSL37) 25 24 49 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 45 19 64 P
+total= 606
+**
+1rn13cs073
+REKHA sem: 3 Result: FCD
+(Engineering Mathematics-III  - 10MAT31) 86 24 110 P
+(Electronic Circuits  - 10CS32) 62 22 84 P
+(Logic Design  - 10CS33) 66 23 89 P
+(Discrete Mathematical Structures  - 10CS34) 73 24 97 P
+(Data Structures with C  - 10CS35) 58 25 83 P
+(Object Oriented Programming with C++  - 10CS36) 59 25 84 P
+(Data Structures with C/C++ Lab  - 10CSL37) 49 25 74 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 43 24 67 P
+total= 688
+**
+1rn13cs074
+ROHIT VASUDEVAN sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 69 20 89 P
+(Electronic Circuits  - 10CS32) 23 20 43 F
+(Logic Design  - 10CS33) 42 15 57 P
+(Discrete Mathematical Structures  - 10CS34) 42 20 62 P
+(Data Structures with C  - 10CS35) 44 25 69 P
+(Object Oriented Programming with C++  - 10CS36) 55 24 79 P
+(Data Structures with C/C++ Lab  - 10CSL37) 43 18 61 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 30 17 47 P
+total= 507
+**
+1rn13cs075
+ROHITH N ACHARYA sem: 3 Result: FCD
+(Engineering Mathematics-III  - 10MAT31) 95 25 120 P
+(Electronic Circuits  - 10CS32) 56 24 80 P
+(Logic Design  - 10CS33) 51 20 71 P
+(Discrete Mathematical Structures  - 10CS34) 70 23 93 P
+(Data Structures with C  - 10CS35) 50 25 75 P
+(Object Oriented Programming with C++  - 10CS36) 61 23 84 P
+(Data Structures with C/C++ Lab  - 10CSL37) 49 25 74 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 45 20 65 P
+total= 662
+**
+1rn13cs076
+AISHWARYA S M sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 68 19 87 P
+(Electronic Circuits  - 10CS32) 22 21 43 F
+(Logic Design  - 10CS33) 38 12 50 P
+(Discrete Mathematical Structures  - 10CS34) 35 15 50 P
+(Data Structures with C  - 10CS35) 50 16 66 P
+(Object Oriented Programming with C++  - 10CS36) 54 15 69 P
+(Data Structures with C/C++ Lab  - 10CSL37) 20 13 33 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 20 13 33 P
+total= 431
+**
+1rn13cs077
+S NAVEEN sem: 3 Result: FC
+(Engineering Mathematics-III  - 10MAT31) 78 23 101 P
+(Electronic Circuits  - 10CS32) 36 23 59 P
+(Logic Design  - 10CS33) 69 17 86 P
+(Discrete Mathematical Structures  - 10CS34) 56 23 79 P
+(Data Structures with C  - 10CS35) 58 25 83 P
+(Object Oriented Programming with C++  - 10CS36) 61 19 80 P
+(Data Structures with C/C++ Lab  - 10CSL37) 43 21 64 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 35 18 53 P
+total= 605
+**
+1rn13cs078
+SACHIN TIWARI sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 73 17 90 P
+(Electronic Circuits  - 10CS32) 14 15 29 F
+(Logic Design  - 10CS33) 39 6 45 F
+(Discrete Mathematical Structures  - 10CS34) 47 15 62 P
+(Data Structures with C  - 10CS35) 40 10 50 P
+(Object Oriented Programming with C++  - 10CS36) 44 12 56 P
+(Data Structures with C/C++ Lab  - 10CSL37) 46 13 59 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 15 13 28 F
+total= 419
+**
+1rn13cs080
+SAKSHI GUPTA sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 61 18 79 P
+(Electronic Circuits  - 10CS32) 14 15 29 F
+(Logic Design  - 10CS33) 35 15 50 P
+(Discrete Mathematical Structures  - 10CS34) 47 18 65 P
+(Data Structures with C  - 10CS35) 35 22 57 P
+(Object Oriented Programming with C++  - 10CS36) 53 10 63 P
+(Data Structures with C/C++ Lab  - 10CSL37) 12 23 35 F
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 30 19 49 P
+total= 427
+**
+1rn13cs081
+SAMPOORNA K sem: 3 Result: FCD
+(Engineering Mathematics-III  - 10MAT31) 83 24 107 P
+(Electronic Circuits  - 10CS32) 52 25 77 P
+(Logic Design  - 10CS33) 55 24 79 P
+(Discrete Mathematical Structures  - 10CS34) 69 24 93 P
+(Data Structures with C  - 10CS35) 61 25 86 P
+(Object Oriented Programming with C++  - 10CS36) 70 25 95 P
+(Data Structures with C/C++ Lab  - 10CSL37) 49 25 74 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 48 23 71 P
+total= 682
+**
+1rn13cs082
+SATHYAJITH R sem: 3 Result: FC
+(Engineering Mathematics-III  - 10MAT31) 83 21 104 P
+(Electronic Circuits  - 10CS32) 35 17 52 P
+(Logic Design  - 10CS33) 46 17 63 P
+(Discrete Mathematical Structures  - 10CS34) 57 22 79 P
+(Data Structures with C  - 10CS35) 65 25 90 P
+(Object Oriented Programming with C++  - 10CS36) 69 22 91 P
+(Data Structures with C/C++ Lab  - 10CSL37) 47 24 71 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 43 13 56 P
+total= 606
+**
+1rn13cs083
+SAURABH KUMAR sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 42 16 58 P
+(Electronic Circuits  - 10CS32) 35 15 50 P
+(Logic Design  - 10CS33) 41 15 56 P
+(Discrete Mathematical Structures  - 10CS34) 44 17 61 P
+(Data Structures with C  - 10CS35) 42 15 57 P
+(Object Oriented Programming with C++  - 10CS36) 48 10 58 P
+(Data Structures with C/C++ Lab  - 10CSL37) 12 19 31 F
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 16 17 33 F
+total= 404
+**
+1rn13cs084
+SHADABUR RAHMAN sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 64 16 80 P
+(Electronic Circuits  - 10CS32) 12 15 27 F
+(Logic Design  - 10CS33) 35 4 39 F
+(Discrete Mathematical Structures  - 10CS34) 50 15 65 P
+(Data Structures with C  - 10CS35) 26 12 38 F
+(Object Oriented Programming with C++  - 10CS36) 46 10 56 P
+(Data Structures with C/C++ Lab  - 10CSL37) 5 13 18 F
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 20 13 33 P
+total= 356
+**
+1rn13cs085
+SHIVA TRISHUL REDDY H sem: 3 Result: FC
+(Engineering Mathematics-III  - 10MAT31) 60 15 75 P
+(Electronic Circuits  - 10CS32) 38 17 55 P
+(Logic Design  - 10CS33) 40 19 59 P
+(Discrete Mathematical Structures  - 10CS34) 69 22 91 P
+(Data Structures with C  - 10CS35) 57 19 76 P
+(Object Oriented Programming with C++  - 10CS36) 55 22 77 P
+(Data Structures with C/C++ Lab  - 10CSL37) 49 17 66 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 33 23 56 P
+total= 555
+**
+1rn13cs086
+SHREYAS S R sem: 3 Result: FCD
+(Engineering Mathematics-III  - 10MAT31) 93 17 110 P
+(Electronic Circuits  - 10CS32) 72 20 92 P
+(Logic Design  - 10CS33) 62 21 83 P
+(Discrete Mathematical Structures  - 10CS34) 93 21 114 P
+(Data Structures with C  - 10CS35) 77 23 100 P
+(Object Oriented Programming with C++  - 10CS36) 69 25 94 P
+(Data Structures with C/C++ Lab  - 10CSL37) 49 24 73 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 45 24 69 P
+total= 735
+**
+1rn13cs087
+SHRUTI K sem: 3 Result: FC
+(Engineering Mathematics-III  - 10MAT31) 66 21 87 P
+(Electronic Circuits  - 10CS32) 44 15 59 P
+(Logic Design  - 10CS33) 62 20 82 P
+(Discrete Mathematical Structures  - 10CS34) 80 22 102 P
+(Data Structures with C  - 10CS35) 70 17 87 P
+(Object Oriented Programming with C++  - 10CS36) 66 20 86 P
+(Data Structures with C/C++ Lab  - 10CSL37) 30 20 50 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 39 22 61 P
+total= 614
+**
+1rn13cs088
+SHUBHAM JAIN sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 25 15 40 F
+(Electronic Circuits  - 10CS32) 23 15 38 F
+(Logic Design  - 10CS33) 35 16 51 P
+(Discrete Mathematical Structures  - 10CS34) 42 22 64 P
+(Data Structures with C  - 10CS35) 56 16 72 P
+(Object Oriented Programming with C++  - 10CS36) 42 16 58 P
+(Data Structures with C/C++ Lab  - 10CSL37) 27 19 46 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 20 13 33 P
+total= 402
+**
+1rn13cs089
+SHUBHANKAR B S sem: 3 Result: FCD
+(Engineering Mathematics-III  - 10MAT31) 81 23 104 P
+(Electronic Circuits  - 10CS32) 52 17 69 P
+(Logic Design  - 10CS33) 69 17 86 P
+(Discrete Mathematical Structures  - 10CS34) 75 22 97 P
+(Data Structures with C  - 10CS35) 53 17 70 P
+(Object Oriented Programming with C++  - 10CS36) 83 21 104 P
+(Data Structures with C/C++ Lab  - 10CSL37) 49 23 72 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 44 15 59 P
+total= 661
+**
+1rn13cs090
+SHWETHA MARALI sem: 3 Result: FC
+(Engineering Mathematics-III  - 10MAT31) 48 19 67 P
+(Electronic Circuits  - 10CS32) 41 18 59 P
+(Logic Design  - 10CS33) 57 15 72 P
+(Discrete Mathematical Structures  - 10CS34) 60 25 85 P
+(Data Structures with C  - 10CS35) 59 18 77 P
+(Object Oriented Programming with C++  - 10CS36) 62 17 79 P
+(Data Structures with C/C++ Lab  - 10CSL37) 48 20 68 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 34 21 55 P
+total= 562
+**
+1rn13cs091
+SOMBUDDHA SIL sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 51 16 67 P
+(Electronic Circuits  - 10CS32) 12 10 22 F
+(Logic Design  - 10CS33) 37 15 52 P
+(Discrete Mathematical Structures  - 10CS34) 68 15 83 P
+(Data Structures with C  - 10CS35) 35 12 47 F
+(Object Oriented Programming with C++  - 10CS36) 52 18 70 P
+(Data Structures with C/C++ Lab  - 10CSL37) 11 20 31 F
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 34 17 51 P
+total= 423
+**
+1rn13cs093
+SOUJANYA R BHAT sem: 3 Result: FCD
+(Engineering Mathematics-III  - 10MAT31) 81 21 102 P
+(Electronic Circuits  - 10CS32) 55 20 75 P
+(Logic Design  - 10CS33) 75 23 98 P
+(Discrete Mathematical Structures  - 10CS34) 87 24 111 P
+(Data Structures with C  - 10CS35) 49 25 74 P
+(Object Oriented Programming with C++  - 10CS36) 77 24 101 P
+(Data Structures with C/C++ Lab  - 10CSL37) 49 25 74 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 49 25 74 P
+total= 709
+**
+1rn13cs094
+SRIGOWRI M V sem: 3 Result: FCD
+(Engineering Mathematics-III  - 10MAT31) 92 25 117 P
+(Electronic Circuits  - 10CS32) 58 25 83 P
+(Logic Design  - 10CS33) 79 25 104 P
+(Discrete Mathematical Structures  - 10CS34) 86 25 111 P
+(Data Structures with C  - 10CS35) 54 25 79 P
+(Object Oriented Programming with C++  - 10CS36) 77 25 102 P
+(Data Structures with C/C++ Lab  - 10CSL37) 49 25 74 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 49 25 74 P
+total= 744
+**
+1rn13cs095
+SUCHITHA S sem: 3 Result: FC
+(Engineering Mathematics-III  - 10MAT31) 63 21 84 P
+(Electronic Circuits  - 10CS32) 54 20 74 P
+(Logic Design  - 10CS33) 57 18 75 P
+(Discrete Mathematical Structures  - 10CS34) 62 24 86 P
+(Data Structures with C  - 10CS35) 35 24 59 P
+(Object Oriented Programming with C++  - 10CS36) 62 23 85 P
+(Data Structures with C/C++ Lab  - 10CSL37) 35 21 56 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 42 24 66 P
+total= 585
+**
+1rn13cs096
+SUDARSHAN M sem: 3 Result: FC
+(Engineering Mathematics-III  - 10MAT31) 59 22 81 P
+(Electronic Circuits  - 10CS32) 35 18 53 P
+(Logic Design  - 10CS33) 50 18 68 P
+(Discrete Mathematical Structures  - 10CS34) 63 20 83 P
+(Data Structures with C  - 10CS35) 42 25 67 P
+(Object Oriented Programming with C++  - 10CS36) 69 22 91 P
+(Data Structures with C/C++ Lab  - 10CSL37) 48 25 73 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 20 25 45 P
+total= 175
+**
+1rn13cs097
+SUGHOSH RAVIRAJ JAHAGIRDAR sem: 3 Result: FC
+(Engineering Mathematics-III  - 10MAT31) 71 20 91 P
+(Electronic Circuits  - 10CS32) 39 12 51 P
+(Logic Design  - 10CS33) 63 19 82 P
+(Discrete Mathematical Structures  - 10CS34) 55 22 77 P
+(Data Structures with C  - 10CS35) 48 24 72 P
+(Object Oriented Programming with C++  - 10CS36) 78 24 102 P
+(Data Structures with C/C++ Lab  - 10CSL37) 45 24 69 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 44 24 68 P
+total= 612
+**
+1rn13cs098
+SUJAY J sem: 3 Result: FC
+(Engineering Mathematics-III  - 10MAT31) 71 20 91 P
+(Electronic Circuits  - 10CS32) 37 15 52 P
+(Logic Design  - 10CS33) 65 20 85 P
+(Discrete Mathematical Structures  - 10CS34) 55 22 77 P
+(Data Structures with C  - 10CS35) 42 25 67 P
+(Object Oriented Programming with C++  - 10CS36) 69 25 94 P
+(Data Structures with C/C++ Lab  - 10CSL37) 48 25 73 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 46 24 70 P
+total= 609
+**
+1rn13cs099
+SUMUKHA P BHAT sem: 3 Result: FCD
+(Engineering Mathematics-III  - 10MAT31) 66 24 90 P
+(Electronic Circuits  - 10CS32) 54 15 69 P
+(Logic Design  - 10CS33) 69 22 91 P
+(Discrete Mathematical Structures  - 10CS34) 68 24 92 P
+(Data Structures with C  - 10CS35) 53 21 74 P
+(Object Oriented Programming with C++  - 10CS36) 66 21 87 P
+(Data Structures with C/C++ Lab  - 10CSL37) 45 23 68 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 45 23 68 P
+total= 639
+**
+1rn13cs100
+SUNIL M sem: 3 Result: FCD
+(Engineering Mathematics-III  - 10MAT31) 71 23 94 P
+(Electronic Circuits  - 10CS32) 59 18 77 P
+(Logic Design  - 10CS33) 57 15 72 P
+(Discrete Mathematical Structures  - 10CS34) 63 24 87 P
+(Data Structures with C  - 10CS35) 51 23 74 P
+(Object Oriented Programming with C++  - 10CS36) 68 22 90 P
+(Data Structures with C/C++ Lab  - 10CSL37) 48 21 69 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 45 22 67 P
+total= 630
+**
+1rn13cs101
+SUNNY SAURABH sem: 3 Result: FC
+(Engineering Mathematics-III  - 10MAT31) 89 18 107 P
+(Electronic Circuits  - 10CS32) 49 15 64 P
+(Logic Design  - 10CS33) 66 17 83 P
+(Discrete Mathematical Structures  - 10CS34) 70 20 90 P
+(Data Structures with C  - 10CS35) 51 21 72 P
+(Object Oriented Programming with C++  - 10CS36) 56 15 71 P
+(Data Structures with C/C++ Lab  - 10CSL37) 47 22 69 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 23 20 43 P
+total= 599
+**
+1rn13cs102
+SUSHANT C BHAT sem: 3 Result: FC
+(Engineering Mathematics-III  - 10MAT31) 70 20 90 P
+(Electronic Circuits  - 10CS32) 35 17 52 P
+(Logic Design  - 10CS33) 57 19 76 P
+(Discrete Mathematical Structures  - 10CS34) 61 23 84 P
+(Data Structures with C  - 10CS35) 56 23 79 P
+(Object Oriented Programming with C++  - 10CS36) 57 23 80 P
+(Data Structures with C/C++ Lab  - 10CSL37) 48 25 73 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 47 22 69 P
+total= 603
+**
+1rn13cs103
+SUSHMITHA sem: 3 Result: SC
+(Engineering Mathematics-III  - 10MAT31) 66 21 87 P
+(Electronic Circuits  - 10CS32) 35 18 53 P
+(Logic Design  - 10CS33) 60 19 79 P
+(Discrete Mathematical Structures  - 10CS34) 44 17 61 P
+(Data Structures with C  - 10CS35) 49 22 71 P
+(Object Oriented Programming with C++  - 10CS36) 40 19 59 P
+(Data Structures with C/C++ Lab  - 10CSL37) 45 20 65 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 23 21 44 P
+total= 519
+**
+1rn13cs104
+SUSHMITHA K sem: 3 Result: FC
+(Engineering Mathematics-III  - 10MAT31) 71 23 94 P
+(Electronic Circuits  - 10CS32) 35 17 52 P
+(Logic Design  - 10CS33) 63 22 85 P
+(Discrete Mathematical Structures  - 10CS34) 58 25 83 P
+(Data Structures with C  - 10CS35) 56 25 81 P
+(Object Oriented Programming with C++  - 10CS36) 50 24 74 P
+(Data Structures with C/C++ Lab  - 10CSL37) 49 23 72 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 42 22 64 P
+total= 605
+**
+1rn13cs105
+SUSHMITHA R sem: 3 Result: FCD
+(Engineering Mathematics-III  - 10MAT31) 88 23 111 P
+(Electronic Circuits  - 10CS32) 43 19 62 P
+(Logic Design  - 10CS33) 58 21 79 P
+(Discrete Mathematical Structures  - 10CS34) 72 25 97 P
+(Data Structures with C  - 10CS35) 57 20 77 P
+(Object Oriented Programming with C++  - 10CS36) 61 22 83 P
+(Data Structures with C/C++ Lab  - 10CSL37) 45 21 66 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 46 21 67 P
+total= 642
+**
+1rn13cs106
+SWATHI SHENOY M sem: 3 Result: FC
+(Engineering Mathematics-III  - 10MAT31) 72 19 91 P
+(Electronic Circuits  - 10CS32) 40 17 57 P
+(Logic Design  - 10CS33) 49 17 66 P
+(Discrete Mathematical Structures  - 10CS34) 54 24 78 P
+(Data Structures with C  - 10CS35) 58 16 74 P
+(Object Oriented Programming with C++  - 10CS36) 52 18 70 P
+(Data Structures with C/C++ Lab  - 10CSL37) 48 20 68 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 44 25 69 P
+total= 573
+**
+1rn13cs107
+TAPOSH DESAI sem: 3 Result: FCD
+(Engineering Mathematics-III  - 10MAT31) 93 24 117 P
+(Electronic Circuits  - 10CS32) 51 17 68 P
+(Logic Design  - 10CS33) 60 21 81 P
+(Discrete Mathematical Structures  - 10CS34) 60 22 82 P
+(Data Structures with C  - 10CS35) 51 25 76 P
+(Object Oriented Programming with C++  - 10CS36) 46 25 71 P
+(Data Structures with C/C++ Lab  - 10CSL37) 49 25 74 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 49 20 69 P
+total= 638
+**
+1rn13cs108
+TEJASHREE S sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 65 21 86 P
+(Electronic Circuits  - 10CS32) 22 19 41 F
+(Logic Design  - 10CS33) 59 17 76 P
+(Discrete Mathematical Structures  - 10CS34) 52 25 77 P
+(Data Structures with C  - 10CS35) 57 20 77 P
+(Object Oriented Programming with C++  - 10CS36) 38 22 60 P
+(Data Structures with C/C++ Lab  - 10CSL37) 48 21 69 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 47 24 71 P
+total= 557
+**
+1rn13cs109
+UJJWAL RAINA sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 69 23 92 P
+(Electronic Circuits  - 10CS32) 16 15 31 F
+(Logic Design  - 10CS33) 49 15 64 P
+(Discrete Mathematical Structures  - 10CS34) 38 18 56 P
+(Data Structures with C  - 10CS35) 51 16 67 P
+(Object Oriented Programming with C++  - 10CS36) 51 22 73 P
+(Data Structures with C/C++ Lab  - 10CSL37) 30 17 47 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 20 13 33 P
+total= 463
+**
+1rn13cs111
+UTTAM KUMAR sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 74 15 89 P
+(Electronic Circuits  - 10CS32) 29 15 44 F
+(Logic Design  - 10CS33) 52 16 68 P
+(Discrete Mathematical Structures  - 10CS34) 49 15 64 P
+(Data Structures with C  - 10CS35) 52 22 74 P
+(Object Oriented Programming with C++  - 10CS36) 64 20 84 P
+(Data Structures with C/C++ Lab  - 10CSL37) 39 22 61 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 38 13 51 P
+total= 535
+**
+1rn13cs112
+VAISHAKH K sem: 3 Result: FCD
+(Engineering Mathematics-III  - 10MAT31) 88 25 113 P
+(Electronic Circuits  - 10CS32) 44 24 68 P
+(Logic Design  - 10CS33) 81 25 106 P
+(Discrete Mathematical Structures  - 10CS34) 62 25 87 P
+(Data Structures with C  - 10CS35) 62 22 84 P
+(Object Oriented Programming with C++  - 10CS36) 60 25 85 P
+(Data Structures with C/C++ Lab  - 10CSL37) 48 25 73 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 47 25 72 P
+total= 688
+**
+1rn13cs113
+VARUN J BANSALI sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 47 20 67 P
+(Electronic Circuits  - 10CS32) 26 18 44 F
+(Logic Design  - 10CS33) 56 18 74 P
+(Discrete Mathematical Structures  - 10CS34) 57 24 81 P
+(Data Structures with C  - 10CS35) 59 21 80 P
+(Object Oriented Programming with C++  - 10CS36) 48 21 69 P
+(Data Structures with C/C++ Lab  - 10CSL37) 33 22 55 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 47 23 70 P
+total= 540
+**
+1rn13cs114
+VARUN S sem: 3 Result: FC
+(Engineering Mathematics-III  - 10MAT31) 55 24 79 P
+(Electronic Circuits  - 10CS32) 35 21 56 P
+(Logic Design  - 10CS33) 60 20 80 P
+(Discrete Mathematical Structures  - 10CS34) 44 22 66 P
+(Data Structures with C  - 10CS35) 59 25 84 P
+(Object Oriented Programming with C++  - 10CS36) 52 25 77 P
+(Data Structures with C/C++ Lab  - 10CSL37) 48 23 71 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 30 13 43 P
+total= 556
+**
+1rn13cs115
+VASUNDHARA V GUDI sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 60 20 80 P
+(Electronic Circuits  - 10CS32) 26 15 41 F
+(Logic Design  - 10CS33) 53 15 68 P
+(Discrete Mathematical Structures  - 10CS34) 53 25 78 P
+(Data Structures with C  - 10CS35) 66 15 81 P
+(Object Oriented Programming with C++  - 10CS36) 60 20 80 P
+(Data Structures with C/C++ Lab  - 10CSL37) 30 20 50 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 41 20 61 P
+total= 539
+**
+1rn13cs117
+VIGHNESHA sem: 3 Result: SC
+(Engineering Mathematics-III  - 10MAT31) 45 21 66 P
+(Electronic Circuits  - 10CS32) 35 15 50 P
+(Logic Design  - 10CS33) 63 23 86 P
+(Discrete Mathematical Structures  - 10CS34) 49 22 71 P
+(Data Structures with C  - 10CS35) 64 20 84 P
+(Object Oriented Programming with C++  - 10CS36) 56 20 76 P
+(Data Structures with C/C++ Lab  - 10CSL37) 30 21 51 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 24 18 42 P
+total= 526
+**
+1rn13cs118
+VIJAYENDRA PANDEY sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 71 19 90 P
+(Electronic Circuits  - 10CS32) 27 10 37 F
+(Logic Design  - 10CS33) 54 21 75 P
+(Discrete Mathematical Structures  - 10CS34) 66 19 85 P
+(Data Structures with C  - 10CS35) 69 18 87 P
+(Object Oriented Programming with C++  - 10CS36) 58 15 73 P
+(Data Structures with C/C++ Lab  - 10CSL37) 30 22 52 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 37 23 60 P
+total= 559
+**
+1rn13cs119
+VYSHAK K IYENGAR sem: 3 Result: FC
+(Engineering Mathematics-III  - 10MAT31) 64 18 82 P
+(Electronic Circuits  - 10CS32) 35 18 53 P
+(Logic Design  - 10CS33) 66 18 84 P
+(Discrete Mathematical Structures  - 10CS34) 62 19 81 P
+(Data Structures with C  - 10CS35) 68 22 90 P
+(Object Oriented Programming with C++  - 10CS36) 55 23 78 P
+(Data Structures with C/C++ Lab  - 10CSL37) 49 24 73 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 43 16 59 P
+total= 600
+**
+1rn13cs120
+VISHNU S sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 44 15 59 P
+(Electronic Circuits  - 10CS32) 28 15 43 F
+(Logic Design  - 10CS33) 53 10 63 P
+(Discrete Mathematical Structures  - 10CS34) 51 18 69 P
+(Data Structures with C  - 10CS35) 57 15 72 P
+(Object Oriented Programming with C++  - 10CS36) 51 15 66 P
+(Data Structures with C/C++ Lab  - 10CSL37) 48 18 66 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 33 15 48 P
+total= 54
+**
+1rn13cs121
+VISHNU VARDHAN G sem: 3 Result: SC
+(Engineering Mathematics-III  - 10MAT31) 36 17 53 P
+(Electronic Circuits  - 10CS32) 37 15 52 P
+(Logic Design  - 10CS33) 48 15 63 P
+(Discrete Mathematical Structures  - 10CS34) 48 21 69 P
+(Data Structures with C  - 10CS35) 47 16 63 P
+(Object Oriented Programming with C++  - 10CS36) 52 19 71 P
+(Data Structures with C/C++ Lab  - 10CSL37) 45 22 67 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 43 22 65 P
+total= 503
+**
+1rn13cs123
+YOGAPRIYA V sem: 3 Result: FCD
+(Engineering Mathematics-III  - 10MAT31) 93 25 118 P
+(Electronic Circuits  - 10CS32) 76 23 99 P
+(Logic Design  - 10CS33) 66 25 91 P
+(Discrete Mathematical Structures  - 10CS34) 73 25 98 P
+(Data Structures with C  - 10CS35) 58 25 83 P
+(Object Oriented Programming with C++  - 10CS36) 46 25 71 P
+(Data Structures with C/C++ Lab  - 10CSL37) 48 25 73 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 48 24 72 P
+total= 705
+**
+1rn13cs124
+YOGI KIRAN J sem: 3 Result: FCD
+(Engineering Mathematics-III  - 10MAT31) 70 25 95 P
+(Electronic Circuits  - 10CS32) 58 22 80 P
+(Logic Design  - 10CS33) 62 23 85 P
+(Discrete Mathematical Structures  - 10CS34) 60 25 85 P
+(Data Structures with C  - 10CS35) 58 25 83 P
+(Object Oriented Programming with C++  - 10CS36) 50 25 75 P
+(Data Structures with C/C++ Lab  - 10CSL37) 49 25 74 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 47 24 71 P
+total= 648
+**
+1rn13cs125
+SAHEB SINGH CHANDOK sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 48 15 63 P
+(Electronic Circuits  - 10CS32) 2 2 4 F
+(Logic Design  - 10CS33) 36 5 41 F
+(Discrete Mathematical Structures  - 10CS34) 26 15 41 F
+(Data Structures with C  - 10CS35) 27 10 37 F
+(Object Oriented Programming with C++  - 10CS36) 36 15 51 P
+(Data Structures with C/C++ Lab  - 10CSL37) 47 14 61 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 20 18 38 P
+total= 336
+**
+1rn13cs126
+NIKHIL B C sem: 3 Result: FCD
+(Engineering Mathematics-III  - 10MAT31) 85 24 109 P
+(Electronic Circuits  - 10CS32) 70 25 95 P
+(Logic Design  - 10CS33) 71 25 96 P
+(Discrete Mathematical Structures  - 10CS34) 78 25 103 P
+(Data Structures with C  - 10CS35) 60 25 85 P
+(Object Oriented Programming with C++  - 10CS36) 58 25 83 P
+(Data Structures with C/C++ Lab  - 10CSL37) 45 25 70 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 41 24 65 P
+total= 706
+**
+1rn13cs127
+VIBHAV WADHWA sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 71 21 92 P
+(Electronic Circuits  - 10CS32) 20 10 30 F
+(Logic Design  - 10CS33) 67 18 85 P
+(Discrete Mathematical Structures  - 10CS34) 50 24 74 P
+(Data Structures with C  - 10CS35) 54 17 71 P
+(Object Oriented Programming with C++  - 10CS36) 60 17 77 P
+(Data Structures with C/C++ Lab  - 10CSL37) 44 22 66 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 38 20 58 P
+total= 553
+**
+1rn13cs128
+SANJAY M sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 53 19 72 P
+(Electronic Circuits  - 10CS32) 24 23 47 F
+(Logic Design  - 10CS33) 50 21 71 P
+(Discrete Mathematical Structures  - 10CS34) 42 23 65 P
+(Data Structures with C  - 10CS35) 46 24 70 P
+(Object Oriented Programming with C++  - 10CS36) 36 24 60 P
+(Data Structures with C/C++ Lab  - 10CSL37) 45 24 69 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 27 24 51 P
+total= 505
+**
+1rn13cs129
+PRIYADARSHAN SINGHI sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 62 16 78 P
+(Electronic Circuits  - 10CS32) 18 15 33 F
+(Logic Design  - 10CS33) 30 15 45 F
+(Discrete Mathematical Structures  - 10CS34) 35 15 50 P
+(Data Structures with C  - 10CS35) 46 16 62 P
+(Object Oriented Programming with C++  - 10CS36) 44 15 59 P
+(Data Structures with C/C++ Lab  - 10CSL37) 14 18 32 F
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 40 22 62 P
+total= 421
+**
+1rn13cs130
+SRINIVASA K G sem: 3 Result: FCD
+(Engineering Mathematics-III  - 10MAT31) 90 21 111 P
+(Electronic Circuits  - 10CS32) 50 18 68 P
+(Logic Design  - 10CS33) 65 24 89 P
+(Discrete Mathematical Structures  - 10CS34) 70 22 92 P
+(Data Structures with C  - 10CS35) 64 23 87 P
+(Object Oriented Programming with C++  - 10CS36) 60 24 84 P
+(Data Structures with C/C++ Lab  - 10CSL37) 43 25 68 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 45 25 70 P
+total= 669
+**
+1rn13cs131
+SHRUTHI V sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 52 18 70 P
+(Electronic Circuits  - 10CS32) 15 15 30 F
+(Logic Design  - 10CS33) 55 15 70 P
+(Discrete Mathematical Structures  - 10CS34) 35 17 52 P
+(Data Structures with C  - 10CS35) 42 25 67 P
+(Object Oriented Programming with C++  - 10CS36) 59 17 76 P
+(Data Structures with C/C++ Lab  - 10CSL37) 20 23 43 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 45 19 64 P
+total= 472
+**
+1rn14cs400
+ADITYA GURUPRASAD RAO sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 24 15 39 F
+(Electronic Circuits  - 10CS32) 19 15 34 F
+(Logic Design  - 10CS33) 23 17 40 F
+(Discrete Mathematical Structures  - 10CS34) 35 20 55 P
+(Data Structures with C  - 10CS35) 43 18 61 P
+(Object Oriented Programming with C++  - 10CS36) 41 23 64 P
+(Data Structures with C/C++ Lab  - 10CSL37) 35 25 60 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 47 19 66 P
+total= 13
+**
+1rn14cs401
+ANANTH.R sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 48 18 66 P
+(Electronic Circuits  - 10CS32) 14 20 34 F
+(Logic Design  - 10CS33) 48 15 63 P
+(Discrete Mathematical Structures  - 10CS34) 35 18 53 P
+(Data Structures with C  - 10CS35) 46 17 63 P
+(Object Oriented Programming with C++  - 10CS36) 48 22 70 P
+(Data Structures with C/C++ Lab  - 10CSL37) 40 23 63 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 0 15 15 A
+total= 45
+**
+1rn14cs402
+BHUVANESHWARI.BAI.V sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 49 17 66 P
+(Electronic Circuits  - 10CS32) 35 19 54 P
+(Logic Design  - 10CS33) 41 16 57 P
+(Discrete Mathematical Structures  - 10CS34) 36 21 57 P
+(Data Structures with C  - 10CS35) 55 25 80 P
+(Object Oriented Programming with C++  - 10CS36) 45 19 64 P
+(Data Structures with C/C++ Lab  - 10CSL37) 14 19 33 F
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 47 23 70 P
+total= 33
+**
+1rn14cs403
+CHANNAMBHIKA D S sem: 3 Result: FC
+(Engineering Mathematics-III  - 10MAT31) 65 18 83 P
+(Electronic Circuits  - 10CS32) 35 16 51 P
+(Logic Design  - 10CS33) 50 18 68 P
+(Discrete Mathematical Structures  - 10CS34) 61 21 82 P
+(Data Structures with C  - 10CS35) 45 21 66 P
+(Object Oriented Programming with C++  - 10CS36) 47 23 70 P
+(Data Structures with C/C++ Lab  - 10CSL37) 42 24 66 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 40 20 60 P
+total= 14
+**
+1rn14cs404
+DARSHAN YARANAL sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 26 15 41 F
+(Electronic Circuits  - 10CS32) 22 12 34 F
+(Logic Design  - 10CS33) 42 15 57 P
+(Discrete Mathematical Structures  - 10CS34) 35 16 51 P
+(Data Structures with C  - 10CS35) 44 15 59 P
+(Object Oriented Programming with C++  - 10CS36) 59 15 74 P
+(Data Structures with C/C++ Lab  - 10CSL37) 15 17 32 F
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 24 15 39 P
+total= 38
+**
+1rn14cs405
+GAYATHRI G sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 46 15 61 P
+(Electronic Circuits  - 10CS32) 23 15 38 F
+(Logic Design  - 10CS33) 45 15 60 P
+(Discrete Mathematical Structures  - 10CS34) 36 15 51 P
+(Data Structures with C  - 10CS35) 35 20 55 P
+(Object Oriented Programming with C++  - 10CS36) 54 18 72 P
+(Data Structures with C/C++ Lab  - 10CSL37) 40 23 63 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 40 23 63 P
+total= 14
+**
+1rn14cs406
+HARSHITHA G M sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 61 15 76 P
+(Electronic Circuits  - 10CS32) 28 18 46 F
+(Logic Design  - 10CS33) 44 15 59 P
+(Discrete Mathematical Structures  - 10CS34) 46 16 62 P
+(Data Structures with C  - 10CS35) 48 25 73 P
+(Object Oriented Programming with C++  - 10CS36) 65 21 86 P
+(Data Structures with C/C++ Lab  - 10CSL37) 42 24 66 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 37 21 58 P
+total= 16
+**
+1rn14cs407
+KARTHIK.R sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 43 20 63 P
+(Electronic Circuits  - 10CS32) 20 22 42 F
+(Logic Design  - 10CS33) 38 17 55 P
+(Discrete Mathematical Structures  - 10CS34) 38 17 55 P
+(Data Structures with C  - 10CS35) 36 16 52 P
+(Object Oriented Programming with C++  - 10CS36) 60 20 80 P
+(Data Structures with C/C++ Lab  - 10CSL37) 38 22 60 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 30 24 54 P
+total= 29
+**
+1rn14cs408
+KAVYASHRI.L sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 38 17 55 P
+(Electronic Circuits  - 10CS32) 24 22 46 F
+(Logic Design  - 10CS33) 35 15 50 P
+(Discrete Mathematical Structures  - 10CS34) 28 19 47 F
+(Data Structures with C  - 10CS35) 38 25 63 P
+(Object Oriented Programming with C++  - 10CS36) 40 15 55 P
+(Data Structures with C/C++ Lab  - 10CSL37) 42 19 61 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 11 13 24 F
+total= 13
+**
+1rn14cs409
+KEERTHANA.H.P sem: 3 Result: FC
+(Engineering Mathematics-III  - 10MAT31) 61 17 78 P
+(Electronic Circuits  - 10CS32) 44 19 63 P
+(Logic Design  - 10CS33) 69 17 86 P
+(Discrete Mathematical Structures  - 10CS34) 52 19 71 P
+(Data Structures with C  - 10CS35) 49 23 72 P
+(Object Oriented Programming with C++  - 10CS36) 47 22 69 P
+(Data Structures with C/C++ Lab  - 10CSL37) 32 24 56 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 32 20 52 P
+total= 14
+**
+1rn14cs410
+MEGHANA.V.A sem: 3 Result: FC
+(Engineering Mathematics-III  - 10MAT31) 52 20 72 P
+(Electronic Circuits  - 10CS32) 38 21 59 P
+(Logic Design  - 10CS33) 62 18 80 P
+(Discrete Mathematical Structures  - 10CS34) 44 17 61 P
+(Data Structures with C  - 10CS35) 55 25 80 P
+(Object Oriented Programming with C++  - 10CS36) 57 21 78 P
+(Data Structures with C/C++ Lab  - 10CSL37) 35 23 58 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 34 22 56 P
+total= 13
+**
+1rn14cs411
+PUNEETH SHRIMALI sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 0 15 15 A
+(Electronic Circuits  - 10CS32) 0 16 16 A
+(Logic Design  - 10CS33) 0 15 15 A
+(Discrete Mathematical Structures  - 10CS34) 18 15 33 F
+(Data Structures with C  - 10CS35) 20 15 35 F
+(Object Oriented Programming with C++  - 10CS36) 40 23 63 P
+(Data Structures with C/C++ Lab  - 10CSL37) 37 22 59 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 35 23 58 P
+total= 14
+**
+1rn14cs412
+RAKESH N sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 29 18 47 F
+(Electronic Circuits  - 10CS32) 28 20 48 F
+(Logic Design  - 10CS33) 60 15 75 P
+(Discrete Mathematical Structures  - 10CS34) 27 20 47 F
+(Data Structures with C  - 10CS35) 37 22 59 P
+(Object Oriented Programming with C++  - 10CS36) 68 24 92 P
+(Data Structures with C/C++ Lab  - 10CSL37) 40 23 63 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 47 23 70 P
+total= 38
+**
+1rn14cs413
+RAMYASHREE B S sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 40 15 55 P
+(Electronic Circuits  - 10CS32) 23 16 39 F
+(Logic Design  - 10CS33) 47 15 62 P
+(Discrete Mathematical Structures  - 10CS34) 35 16 51 P
+(Data Structures with C  - 10CS35) 40 23 63 P
+(Object Oriented Programming with C++  - 10CS36) 64 20 84 P
+(Data Structures with C/C++ Lab  - 10CSL37) 18 20 38 F
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 47 24 71 P
+total= 13
+**
+1rn14cs414
+RANJITHA B S sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 49 15 64 P
+(Electronic Circuits  - 10CS32) 28 21 49 F
+(Logic Design  - 10CS33) 58 19 77 P
+(Discrete Mathematical Structures  - 10CS34) 25 21 46 F
+(Data Structures with C  - 10CS35) 49 25 74 P
+(Object Oriented Programming with C++  - 10CS36) 46 21 67 P
+(Data Structures with C/C++ Lab  - 10CSL37) 44 24 68 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 41 23 64 P
+total= 16
+**
+1rn14cs415
+S.V.GANESH KARTHIK sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 46 15 61 P
+(Electronic Circuits  - 10CS32) 35 15 50 P
+(Logic Design  - 10CS33) 38 12 50 P
+(Discrete Mathematical Structures  - 10CS34) 26 15 41 F
+(Data Structures with C  - 10CS35) 42 16 58 P
+(Object Oriented Programming with C++  - 10CS36) 51 18 69 P
+(Data Structures with C/C++ Lab  - 10CSL37) 14 15 29 F
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 41 14 55 P
+total= 15
+**
+1rn14cs416
+SHARATHKUMAR B.K sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 55 15 70 P
+(Electronic Circuits  - 10CS32) 24 15 39 F
+(Logic Design  - 10CS33) 49 15 64 P
+(Discrete Mathematical Structures  - 10CS34) 28 17 45 F
+(Data Structures with C  - 10CS35) 41 17 58 P
+(Object Oriented Programming with C++  - 10CS36) 46 16 62 P
+(Data Structures with C/C++ Lab  - 10CSL37) 20 18 38 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 20 18 38 P
+total= 29
+**
+1rn14cs417
+SHIVA.A sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 29 15 44 F
+(Electronic Circuits  - 10CS32) 22 21 43 F
+(Logic Design  - 10CS33) 30 15 45 F
+(Discrete Mathematical Structures  - 10CS34) 26 17 43 F
+(Data Structures with C  - 10CS35) 35 18 53 P
+(Object Oriented Programming with C++  - 10CS36) 45 20 65 P
+(Data Structures with C/C++ Lab  - 10CSL37) 40 21 61 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 28 20 48 P
+total= 39
+**
+1rn14cs418
+SUDHANVA CHANDRA D sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 40 16 56 P
+(Electronic Circuits  - 10CS32) 28 17 45 F
+(Logic Design  - 10CS33) 43 15 58 P
+(Discrete Mathematical Structures  - 10CS34) 26 17 43 F
+(Data Structures with C  - 10CS35) 48 16 64 P
+(Object Oriented Programming with C++  - 10CS36) 43 21 64 P
+(Data Structures with C/C++ Lab  - 10CSL37) 46 21 67 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 42 18 60 P
+total= 29
+**
+1rn14cs419
+SUPRIYA M sem: 3 Result: SC
+(Engineering Mathematics-III  - 10MAT31) 54 19 73 P
+(Electronic Circuits  - 10CS32) 35 23 58 P
+(Logic Design  - 10CS33) 54 19 73 P
+(Discrete Mathematical Structures  - 10CS34) 35 23 58 P
+(Data Structures with C  - 10CS35) 53 19 72 P
+(Object Oriented Programming with C++  - 10CS36) 57 21 78 P
+(Data Structures with C/C++ Lab  - 10CSL37) 40 23 63 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 33 23 56 P
+total= 32
+**
+1rn14cs420
+SUSHMITHA.M sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 27 15 42 F
+(Electronic Circuits  - 10CS32) 41 22 63 P
+(Logic Design  - 10CS33) 44 15 59 P
+(Discrete Mathematical Structures  - 10CS34) 40 22 62 P
+(Data Structures with C  - 10CS35) 59 20 79 P
+(Object Oriented Programming with C++  - 10CS36) 62 25 87 P
+(Data Structures with C/C++ Lab  - 10CSL37) 20 22 42 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 42 22 64 P
+total= 14
+**
+1rn14cs421
+SYED ZAINUL ABIDDIN sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 45 15 60 P
+(Electronic Circuits  - 10CS32) 24 15 39 F
+(Logic Design  - 10CS33) 53 15 68 P
+(Discrete Mathematical Structures  - 10CS34) 41 17 58 P
+(Data Structures with C  - 10CS35) 48 16 64 P
+(Object Oriented Programming with C++  - 10CS36) 60 23 83 P
+(Data Structures with C/C++ Lab  - 10CSL37) 40 20 60 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 33 14 47 P
+total= 15
+**
+1rn14cs422
+VIBHA V RAMAN sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 54 16 70 P
+(Electronic Circuits  - 10CS32) 35 18 53 P
+(Logic Design  - 10CS33) 45 15 60 P
+(Discrete Mathematical Structures  - 10CS34) 27 15 42 F
+(Data Structures with C  - 10CS35) 52 20 72 P
+(Object Oriented Programming with C++  - 10CS36) 47 19 66 P
+(Data Structures with C/C++ Lab  - 10CSL37) 40 19 59 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 22 15 37 P
+total= 13
+**
+1rn14cs423
+VIJETA.BOITE sem: 3 Result: FAIL
+(Engineering Mathematics-III  - 10MAT31) 35 15 50 P
+(Electronic Circuits  - 10CS32) 13 20 33 F
+(Logic Design  - 10CS33) 41 15 56 P
+(Discrete Mathematical Structures  - 10CS34) 26 16 42 F
+(Data Structures with C  - 10CS35) 42 17 59 P
+(Object Oriented Programming with C++  - 10CS36) 43 17 60 P
+(Data Structures with C/C++ Lab  - 10CSL37) 38 21 59 P
+(Electronic Circuits & Logic Design Lab  - 10CSL38) 32 21 53 P
+total= 25
+**
+false
+149
